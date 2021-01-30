@@ -1,0 +1,1602 @@
+port_index,portname,prttype,prtsize,status,iso3,port_lat,port_long,unique_port_identifier,country
+3.0,Charlotte (Skidegate),Sea,Unknown,Open,CAN,53.24730000000001,-132.03099999999998,Charlotte (Skidegate) (3.0),Canada
+5.0,Hartsdale,Sea,Unknown,Open,USA,40.7121000000017,-73.99629999999898,Hartsdale (5.0),United States of America
+6.0,Killingholme,Sea,Unknown,Unknown,GBR,53.6483000000007,-0.2197999999999961,Killingholme (6.0),U.K. of Great Britain & Northern Ireland
+7.0,Shoreham,Sea,Unknown,Unknown,GBR,50.8356999999997,-0.2673999999999996,Shoreham (7.0),U.K. of Great Britain and Northern Ireland
+8.0,Southend,Sea,Unknown,Unknown,GBR,51.53379999999961,0.7195000000000146,Southend (8.0),U.K. of Great Britain and Northern Ireland
+12.0,Canaport,Sea,Unknown,Open,CAN,45.2077,-65.9839,Canaport (12.0),Canada
+13.0,Winslow,Sea,Unknown,Open,USA,47.619799999995415,-122.52199999999743,Winslow (13.0),United States of America
+15.0,Redwood City,Sea,Unknown,Open,USA,37.834400000002276,-122.46999999999545,Redwood City (15.0),United States of America
+16.0,Shawano,Sea,Unknown,Open,USA,28.92820000000012,-89.40330000000071,Shawano (16.0),United States of America
+17.0,Mars,Sea,Unknown,Open,USA,29.4803,-91.7985,Mars (17.0),United States of America
+18.0,Sullom Voe,Sea,Unknown,Unknown,GBR,60.47189999999999,-1.2755000000000005,Sullom Voe (18.0),U.K. of Great Britain & Northern Ireland
+19.0,Salina,Sea,Unknown,Unknown,ITA,38.58220000000037,14.828300000000384,Salina (19.0),Italy
+20.0,Eleusis,Sea,Unknown,Unknown,GRC,38.039899999996926,23.54790000000315,Eleusis (20.0),Greece
+21.0,Syros (Syra),Sea,Unknown,Unknown,GRC,37.43589999999791,24.941099999998105,Syros (Syra) (21.0),Greece
+24.0,Pointe Des Galets,Sea,Unknown,Open,REU,-20.911100000000083,55.292499999999656,Pointe Des Galets (24.0),Reunion
+25.0,Sulina (Port Et Zone Franche),Sea,Unknown,Unknown,ROU,45.16289999999957,29.67490000000019,Sulina (Port Et Zone Franche) (25.0),Romania
+26.0,Damman,Sea,Medium,Unknown,SAU,26.48990000000002,50.20550000000002,Damman (26.0),Saudi Arabia
+27.0,Tijuana,Sea,Small,Unknown,MEX,32.47960000000001,-117.12199999999987,Tijuana (27.0),Mexico
+28.0,Jose Ignacio Terminal,Sea,Very Small,Unknown,URY,-34.8966,-54.7083,Jose Ignacio Terminal (28.0),Uruguay
+31.0,Porto Foxi (Sarroch),Sea,Unknown,Unknown,ITA,39.090200000000564,9.016899999999971,Porto Foxi (Sarroch) (31.0),Italy
+46.0,Liege (Luik),Sea,Unknown,Unknown,BEL,50.628700000000066,5.57709999999998,Liege (Luik) (46.0),Belgium
+48.0,Cossack Pioneer,Sea,Unknown,Unknown,AUS,-19.582400000000003,116.451,Cossack Pioneer (48.0),Australia
+49.0,Des Plaines,Sea,Unknown,Open,USA,29.935099999999792,-90.3613999999984,Des Plaines (49.0),United States of America
+50.0,Oakhamness,Sea,Unknown,Unknown,GBR,51.42430000000285,0.6204999999999934,Oakhamness (50.0),U.K. of Great Britain & Northern Ireland
+51.0,Hunterston,Sea,Unknown,Unknown,GBR,55.689099999999726,-4.871599999999967,Hunterston (51.0),U.K. of Great Britain and Northern Ireland
+52.0,Faslane,Sea,Unknown,Unknown,GBR,56.06670000000062,-4.825799999999893,Faslane (52.0),U.K. of Great Britain and Northern Ireland
+53.0,Palma Mallorca,Sea,Unknown,Unknown,ESP,39.560500000000054,2.629699999999959,Palma Mallorca (53.0),Spain
+55.0,Sendai,Sea,Unknown,Unknown,JPN,38.27449999999977,141.005999999999,Sendai (55.0),Japan
+59.0,Lajes,Sea,Unknown,Unknown,PRT,39.37750000000004,-31.181399999999986,Lajes (59.0),Azores Islands
+60.0,Mesaieed,Unknown,Very Small,Open,QAT,24.916400000000046,51.565699999999985,Mesaieed (60.0),Qatar
+62.0,South Riding Point,Sea,Very Small,Unknown,BHS,26.619,-78.2411,South Riding Point (62.0),Bahamas
+63.0,Woodlands,Sea,Unknown,Unknown,SGP,1.427930000000002,103.68800000000009,Woodlands (63.0),Singapore
+64.0,Aioi,Sea,Unknown,Unknown,JPN,34.786699999998234,134.46100000000564,Aioi (64.0),Japan
+65.0,Mukho,Sea,Unknown,Unknown,KOR,37.547299999999225,129.12099999999924,Mukho (65.0),Republic of Korea
+67.0,Tuxpan,Sea,Medium,Unknown,MEX,20.9605,-97.40430000000002,Tuxpan (67.0),Mexico
+71.0,Sidi Kerir,Sea,Very Small,Open,EGY,31.054399999999994,29.67229999999998,Sidi Kerir (71.0),Egypt
+72.0,Stignaesvaerkets Havn,Sea,Unknown,Unknown,DNK,55.221299999999346,11.250099999999977,Stignaesvaerkets Havn (72.0),Denmark
+75.0,Inkoo,Sea,Unknown,Unknown,FIN,59.997500000000095,23.924500000000055,Inkoo (75.0),Finland
+78.0,Bandar Abbas,Sea,Medium,Open,IRN,27.144900000000003,56.1911,Bandar Abbas (78.0),Iran (Islamic Republic of)
+79.0,Forno,Sea,Unknown,Unknown,BRA,-22.9605,-42.0109,Forno (79.0),Brazil
+80.0,Kalecik,Sea,Unknown,Open,CYP,35.316899999999876,33.97450000000002,Kalecik (80.0),Cyprus
+83.0,Lingah,Sea,Very Small,Open,IRN,26.56260000000007,54.885900000000156,Lingah (83.0),Iran  (Islamic Republic of)
+85.0,Hibiki,Sea,Unknown,Open,JPN,33.9355,130.773,Hibiki (85.0),Japan
+87.0,Juaymah Terminal,Sea,Unknown,Unknown,SAU,26.92899999999999,50.05349999999999,Juaymah Terminal (87.0),Saudi Arabia
+88.0,Tembladora,Sea,Small,Unknown,TTO,10.67819999999999,-61.5816000000005,Tembladora (88.0),Trinidad and Tobago
+89.0,Haydarpasa,Sea,Medium,Unknown,TUR,41.00059999999964,29.02950000000022,Haydarpasa (89.0),Turkey
+90.0,Foca,Sea,Unknown,Unknown,TUR,38.7475,26.9029,Foca (90.0),Turkey
+91.0,St Thomas Island,Sea,Very Small,Unknown,VIR,18.343800000000083,-64.94049999999774,St Thomas Island (91.0),United States Virgin Islands
+94.0,Zayed,Sea,Medium,Open,ARE,24.52579999999986,54.3774999999995,Zayed (94.0),United Arab Emirates
+96.0,Jiangyin,Sea,Unknown,Unknown,CHN,31.91129999999878,120.2029999999843,Jiangyin (96.0),China
+99.0,Pointe A La Hache,Sea,Unknown,Open,USA,29.603199999999827,-89.85070000000012,Pointe A La Hache (99.0),United States of America
+101.0,Antwerp,Unknown,Unknown,Unknown,BEL,51.233299999999886,4.466669999999951,Antwerp (101.0),Belgium
+102.0,Navarino,Sea,Unknown,Unknown,GRC,36.9209,21.6961,Navarino (102.0),Greece
+106.0,Malta (Valetta),Sea,Unknown,Unknown,MLT,35.89549999999942,14.514699999999822,Malta (Valetta) (106.0),Malta
+109.0,Za'Farana,Sea,Very Small,Open,EGY,29.114500000000007,32.6617,Za'Farana (109.0),Egypt
+117.0,Northville (Riverhead),Sea,Unknown,Open,USA,40.98049999999996,-72.64289999999994,Northville (Riverhead) (117.0),United States of America
+120.0,Fraser Mills,Sea,Unknown,Open,CAN,49.1977999999964,-122.908999999995,Fraser Mills (120.0),Canada
+121.0,Berville,Sea,Unknown,Unknown,FRA,49.43619999999918,0.36189999999999584,Berville (121.0),France
+123.0,Norsworthy,Sea,Unknown,Open,USA,29.741100000004504,-95.19279999998705,Norsworthy (123.0),United States of America
+124.0,Hamaroy,Sea,Unknown,Unknown,NOR,68.04930000000016,15.75550000000007,Hamaroy (124.0),Norway
+125.0,Melilli,Sea,Unknown,Unknown,ITA,37.10989999999997,15.25990000000001,Melilli (125.0),Italy
+126.0,Studstrupvaerkets Havn,Sea,Unknown,Unknown,DNK,56.25119999999988,10.355299999999964,Studstrupvaerkets Havn (126.0),Denmark
+127.0,Nowy Port,Sea,Unknown,Unknown,POL,54.42040000000052,18.613699999999906,Nowy Port (127.0),Poland
+128.0,Thira,Sea,Unknown,Unknown,GRC,36.38490000000001,25.429900000000057,Thira (128.0),Greece
+130.0,Ras Laffan,Sea,Unknown,Open,QAT,25.91089999999999,51.580399999999905,Ras Laffan (130.0),Qatar
+134.0,Ras Zubbaya,Unknown,Very Small,Unknown,ARE,24.319700000000008,54.134299999999996,Ras Zubbaya (134.0),United Arab Emirates
+141.0,Port Kelang,Sea,Unknown,Unknown,MYS,3.00093,101.382,Port Kelang (141.0),Malaysia
+143.0,Henjam,Sea,Unknown,Unknown,IRN,26.7157,55.9027,Henjam (143.0),Iran  (Islamic Republic of)
+144.0,Okayama,Sea,Unknown,Unknown,JPN,34.6054,133.981,Okayama (144.0),Japan
+148.0,Banten,Sea,Medium,Open,IDN,-6.013749999999853,105.95800000000173,Banten (148.0),Indonesia
+149.0,Ain Sukhna,Sea,Very Small,Open,EGY,29.519399999999997,32.39290000000003,Ain Sukhna (149.0),Egypt
+150.0,Rothesay,Sea,Unknown,Unknown,GBR,55.83690000000012,-4.401600000000006,Rothesay (150.0),U.K. of Great Britain and Northern Ireland
+151.0,Port Huron,Lake,Unknown,Open,CAN,42.9799,-82.42060000000001,Port Huron (151.0),United States of America
+152.0,Patterson,Sea,Unknown,Open,USA,48.140899999998986,-123.41599999999808,Patterson (152.0),United States of America
+153.0,Stanlow,Sea,Unknown,Unknown,GBR,53.2934999999998,-2.8637000000000388,Stanlow (153.0),U.K. of Great Britain & Northern Ireland
+154.0,Porvoo,Sea,Unknown,Unknown,FIN,60.299899999999106,25.5515000000007,Porvoo (154.0),Finland
+155.0,Misumi,Sea,Unknown,Unknown,JPN,32.601,130.47499999999994,Misumi (155.0),Japan
+156.0,Oshima,Sea,Unknown,Unknown,JPN,34.74980000000003,139.357,Oshima (156.0),Japan
+161.0,Trinidad,Sea,Very Small,Unknown,TTO,10.654400000000118,-61.5273000000009,Trinidad (161.0),Trinidad and Tobago
+164.0,Gulluk,Sea,Small,Unknown,TUR,37.2619,27.6117,Gulluk (164.0),Turkey
+166.0,Chennai,Sea,Large,Unknown,IND,13.098499999999973,80.29709999999986,Chennai (166.0),India
+173.0,Montoir,Unknown,Unknown,Unknown,FRA,47.283299999999926,-1.8333299999999935,Montoir (173.0),France
+176.0,Sevilla (Seville),Sea,Unknown,Unknown,ESP,37.36980000000036,-5.991900000000054,Sevilla (Seville) (176.0),Spain
+179.0,Bremerton,Sea,Unknown,Open,USA,47.5473,-122.66499999999998,Bremerton (179.0),United States of America
+181.0,Hongai,Sea,Very Small,Open,VNM,20.948300000000014,107.07900000000029,Hongai (181.0),Viet Nam
+184.0,Lachine,Sea,Unknown,Open,CAN,45.41650000000082,-73.64519999999959,Lachine (184.0),Canada
+185.0,Trois-Rivieres (Three Rivers),Sea,Unknown,Open,CAN,46.3632,-72.552,Trois-Rivieres (Three Rivers) (185.0),Canada
+188.0,Lindesnes,Sea,Unknown,Unknown,NOR,57.98510000000007,7.039499999999976,Lindesnes (188.0),Norway
+190.0,Eemshaven,Sea,Unknown,Unknown,NLD,53.448100000002526,6.822100000000437,Eemshaven (190.0),Netherlands
+192.0,Kashima,Sea,Unknown,Open,JPN,35.92770000000016,140.6999999999985,Kashima (192.0),Japan
+194.0,Sour,Sea,Very Small,Open,LBN,33.2744,35.1954,Sour (194.0),Lebanon
+199.0,Malongo,Sea,Unknown,Open,AGO,-5.396060000000028,12.194000000000187,Malongo (199.0),Angola
+201.0,Xingang,Unknown,Unknown,Unknown,CHN,38.99059999999973,117.72100000000002,Xingang (201.0),China
+203.0,Higashi-Harima,Sea,Unknown,Open,JPN,34.71549999999734,134.83799999999079,Higashi-Harima (203.0),Japan
+204.0,Labuan,Sea,Unknown,Unknown,MYS,5.274730000000001,115.25299999999999,Labuan (204.0),Malaysia
+205.0,Butzfleth,Sea,Unknown,Unknown,DEU,53.650800000002164,9.516100000000417,Butzfleth (205.0),Germany
+206.0,Brevik,Sea,Unknown,Unknown,NOR,59.05319999999821,9.699699999999817,Brevik (206.0),Norway
+210.0,Pyongtaek,Sea,Unknown,Unknown,KOR,36.89130000000127,126.3949999999963,Pyongtaek (210.0),Republic of Korea
+215.0,Wemyss Bay,Sea,Unknown,Unknown,GBR,55.839699999999404,-5.054700000000052,Wemyss Bay (215.0),U.K. of Great Britain and Northern Ireland
+216.0,Clydeport,Sea,Unknown,Unknown,GBR,55.851,-4.2428,Clydeport (216.0),U.K. of Great Britain and Northern Ireland
+217.0,Barrow Island,Sea,Unknown,Unknown,AUS,-20.861099999999993,115.42099999999992,Barrow Island (217.0),Australia
+218.0,Moskenes,Sea,Unknown,Unknown,NOR,67.9998000000002,13.164499999999942,Moskenes (218.0),Norway
+219.0,Ramfjordnes,Sea,Unknown,Unknown,NOR,69.52409999999685,19.040900000002587,Ramfjordnes (219.0),Norway
+220.0,Dingle,Sea,Unknown,Unknown,GBR,53.384100000000004,-2.4797,Dingle (220.0),U.K. of Great Britain and Northern Ireland
+221.0,Port Taranaki,Sea,Unknown,Unknown,NZL,-39.06089999999996,174.02700000000002,Port Taranaki (221.0),New Zealand
+222.0,Marsden Point,Sea,Unknown,Unknown,NZL,-35.751,174.34900000000002,Marsden Point (222.0),New Zealand
+223.0,Douglas,Sea,Unknown,Unknown,TUR,54.158000000000115,-4.480599999999992,Douglas (223.0),Isle of Man
+224.0,Europoort (Europort),Sea,Unknown,Unknown,NLD,51.949699999997456,4.098899999998156,Europoort (Europort) (224.0),Netherlands
+226.0,Zhangzhou,Sea,Unknown,Unknown,CHN,24.409500000001124,118.03000000000313,Zhangzhou (226.0),China
+227.0,Vadinar,Sea,Unknown,Unknown,IND,22.465500000000006,69.71929999999999,Vadinar (227.0),India
+231.0,Cul De Sac,Sea,Small,Unknown,LCA,13.976699999999996,-61.022600000000004,Cul De Sac (231.0),Saint Lucia
+233.0,Skredsvik,Sea,Unknown,Unknown,SWE,58.39990000000103,11.476699999999552,Skredsvik (233.0),Sweden
+235.0,Fuikbaai,Sea,Small,Unknown,ANT,12.0463,-68.8302,Fuikbaai (235.0),Netherlands Antilles
+236.0,Mina Saqr,Sea,Unknown,Open,ARE,25.973299999999792,56.05410000000031,Mina Saqr (236.0),United Arab Emirates
+238.0,Hitachinaka,Sea,Unknown,Open,JPN,36.4238,140.607,Hitachinaka (238.0),Japan
+241.0,Osaka,Sea,Unknown,Open,JPN,34.642200000001914,135.41800000002954,Osaka (241.0),Japan
+242.0,Rochester,Lake,Unknown,Open,USA,43.267799999999994,-77.64110000000002,Rochester (242.0),United States of America
+246.0,Ferndale,Sea,Unknown,Open,USA,48.805699999998524,-122.70199999999762,Ferndale (246.0),United States of America
+252.0,Traver,Lake,Unknown,Open,USA,44.7657,-85.6191,Traver (252.0),United States of America
+253.0,Ramseur,Sea,Unknown,Open,USA,42.6435,-73.7494,Ramseur (253.0),United States of America
+255.0,Granton,Sea,Unknown,Unknown,GBR,55.98270000000038,-3.2042999999999826,Granton (255.0),U.K. of Great Britain & Northern Ireland
+256.0,Straumsvik,Sea,Unknown,Unknown,ISL,64.0424,-22.0448,Straumsvik (256.0),Iceland
+257.0,Akrotiri,Sea,Unknown,Open,CYP,34.57560000000011,32.98909999999981,Akrotiri (257.0),Cyprus
+258.0,Arguineguin,Sea,Unknown,Unknown,ESP,27.7525,-15.659699999999999,Arguineguin (258.0),Spain
+259.0,Tokyo,Sea,Unknown,Open,JPN,35.60679999999266,139.80200000000337,Tokyo (259.0),Japan
+261.0,Muhammad Bin Qasim,Sea,Medium,Unknown,PAK,24.762799999999984,67.33040000000004,Muhammad Bin Qasim (261.0),Pakistan
+263.0,Basarabi,Sea,Unknown,Unknown,ROU,44.1204,28.4781,Basarabi (263.0),Romania
+265.0,Michurin,Sea,Unknown,Unknown,BGR,42.1718,27.8627,Michurin (265.0),Bulgaria
+266.0,Port Kamsar,Sea,Small,Open,GIN,10.6473,-14.616199999999997,Port Kamsar (266.0),Guinea
+280.0,Havana,Unknown,Large,Unknown,CUB,23.1525,-81.6494,Havana (280.0),Cuba
+288.0,Keta,Sea,Very Small,Open,GHA,5.905230000000002,0.9924999999999999,Keta (288.0),Ghana
+289.0,Galle,Sea,Small,Unknown,LKA,6.03551,80.232,Galle (289.0),Sri Lanka
+296.0,Kaohsiung,Sea,Unknown,Unknown,CHN,22.60790000000247,120.26099999998137,Kaohsiung (296.0),China
+297.0,Yonkers,Sea,Unknown,Open,USA,40.951300000000444,-73.90540000000135,Yonkers (297.0),United States of America
+300.0,St Petersburg,Sea,Unknown,Unknown,RUS,59.91670000000151,30.25750000000491,St Petersburg (300.0),Russian Federation
+301.0,Puerto Barrios,Sea,Small,Unknown,GTM,15.735200000000036,-88.60460000000015,Puerto Barrios (301.0),Guatemala
+302.0,Conakry,Sea,Small,Open,GIN,9.519049999999995,-13.715199999999998,Conakry (302.0),Guinea
+305.0,Shimizu,Sea,Unknown,Unknown,JPN,34.999799999999716,138.50200000000027,Shimizu (305.0),Japan
+306.0,Limetree Bay,Sea,Very Small,Unknown,VIR,17.713700000000006,-64.74939999999997,Limetree Bay (306.0),United States Virgin Islands
+307.0,Larne,Sea,Unknown,Unknown,GBR,54.8500999999998,-5.798700000000031,Larne (307.0),U.K. of Great Britain and Northern Ireland
+308.0,Tarragona,Sea,Unknown,Unknown,ESP,41.110899999999766,1.2407000000000032,Tarragona (308.0),Spain
+310.0,Saint George'S,Sea,Small,Unknown,GRD,12.0629,-61.7522,Saint George'S (310.0),Grenada
+311.0,Seattle,Sea,Unknown,Open,USA,47.6729000000039,-122.40899999999164,Seattle (311.0),United States of America
+312.0,Vestmanhavn,Sea,Unknown,Unknown,FRO,62.15160000000008,-7.174800000000003,Vestmanhavn (312.0),Faroe Islands
+314.0,Mo I Rana,Sea,Unknown,Unknown,NOR,66.32910000000143,14.171099999999678,Mo I Rana (314.0),Norway
+315.0,Marsaxlokk,Sea,Unknown,Unknown,MLT,35.81259999999923,14.543900000000308,Marsaxlokk (315.0),Malta
+317.0,Sitia,Sea,Unknown,Unknown,GRC,35.203300000000006,26.124900000000007,Sitia (317.0),Greece
+319.0,Hadsund,Sea,Unknown,Unknown,DNK,56.710799999999985,10.12670000000001,Hadsund (319.0),Denmark
+320.0,Rio Marina,Sea,Unknown,Unknown,ITA,42.81169999999951,10.431300000000121,Rio Marina (320.0),Italy
+321.0,Lorient,Sea,Unknown,Unknown,FRA,47.75029999999975,-3.355100000000029,Lorient (321.0),France
+323.0,Gruvon,Sea,Unknown,Unknown,SWE,59.33429999999999,13.108900000000004,Gruvon (323.0),Sweden
+324.0,Svelgen,Sea,Unknown,Unknown,NOR,61.76780000000105,5.293899999999908,Svelgen (324.0),Norway
+326.0,El Minie,Unknown,Very Small,Open,LBN,34.4836,35.92340000000001,El Minie (326.0),Lebanon
+327.0,Lubeck,Sea,Unknown,Unknown,DEU,53.854900000000164,10.685699999999999,Lubeck (327.0),Germany
+328.0,Killybegs,Sea,Unknown,Unknown,IRL,54.63420000000026,-8.450000000000031,Killybegs (328.0),Ireland
+329.0,Haderslev,Sea,Unknown,Unknown,DNK,55.25230000000001,9.515700000000002,Haderslev (329.0),Denmark
+330.0,Hirohata,Sea,Unknown,Unknown,JPN,34.78229999999954,134.6230000000021,Hirohata (330.0),Japan
+335.0,Port Dover,Lake,Unknown,Open,CAN,42.78069999999998,-80.1815999999999,Port Dover (335.0),Canada
+336.0,Hobro,Sea,Unknown,Unknown,DNK,56.6342,9.8139,Hobro (336.0),Denmark
+337.0,Sharjah,Sea,Medium,Open,ARE,25.367100000001273,55.38850000000076,Sharjah (337.0),United Arab Emirates
+338.0,Alliance,Sea,Unknown,Open,USA,29.662400000000098,-89.96160000000047,Alliance (338.0),United States of America
+339.0,Isthmia,Sea,Unknown,Unknown,GRC,37.91589999999997,23.01510000000023,Isthmia (339.0),Greece
+340.0,Cotonou,Sea,Medium,Open,BEN,6.3553199999999626,2.4565999999999897,Cotonou (340.0),Benin
+342.0,Porto Corsini,Sea,Unknown,Unknown,ITA,44.48609999999778,12.28670000000028,Porto Corsini (342.0),Italy
+345.0,Cobh,Sea,Unknown,Unknown,IRL,51.84880000000327,-8.315399999999777,Cobh (345.0),Ireland
+346.0,Genova,Unknown,Unknown,Unknown,ITA,44.4167,8.96667,Genova (346.0),Italy
+347.0,Leer,Sea,Unknown,Unknown,DEU,53.230499999999836,7.435699999999999,Leer (347.0),Germany
+349.0,Naze,Sea,Unknown,Open,JPN,28.38260000000001,129.49299999999997,Naze (349.0),Japan
+352.0,Hopa,Sea,Small,Unknown,TUR,41.4052,41.4305,Hopa (352.0),Turkey
+353.0,Soraker,Sea,Unknown,Unknown,SWE,62.5027,17.5115,Soraker (353.0),Sweden
+355.0,El Heri,Unknown,Very Small,Open,LBN,34.3054,35.7066,El Heri (355.0),Lebanon
+356.0,Port Colborne,Lake,Unknown,Open,CAN,42.87649999999895,-79.25220000000178,Port Colborne (356.0),Canada
+358.0,Cadiz,Sea,Unknown,Unknown,ESP,36.532400000000045,-6.296900000000028,Cadiz (358.0),Spain
+369.0,Sabine,Sea,Unknown,Open,USA,29.717499999999262,-93.86540000000105,Sabine (369.0),United States of America
+370.0,Fernandina Beach,Sea,Unknown,Open,USA,30.688699999999994,-81.45540000000003,Fernandina Beach (370.0),United States of America
+373.0,Point Comfort,Sea,Unknown,Open,USA,28.640000000000015,-96.56750000000007,Point Comfort (373.0),United States of America
+374.0,Zelenika,Sea,Unknown,Unknown,MNE,42.4485,18.5725,Zelenika (374.0),Montenegro
+375.0,Bangkok,River,Medium,Open,THA,13.682600000000088,100.51899999999604,Bangkok (375.0),Thailand
+380.0,Es Saadiyat,Unknown,Very Small,Open,LBN,33.6956,35.4261,Es Saadiyat (380.0),Lebanon
+387.0,Favignana,Sea,Unknown,Unknown,ITA,37.9351,12.3287,Favignana (387.0),Italy
+388.0,Portsmouth,Sea,Unknown,Unknown,GBR,50.79960000000685,-1.1094999999998023,Portsmouth (388.0),U.K. of Great Britain & Northern Ireland
+392.0,Carloforte,Sea,Unknown,Unknown,ITA,39.13059999999997,8.309700000000005,Carloforte (392.0),Italy
+396.0,Glomfjord,Sea,Unknown,Unknown,NOR,66.8030999999991,13.985699999999875,Glomfjord (396.0),Norway
+399.0,Dakar,Sea,Medium,Open,MLI,14.686,-17.426,Dakar (399.0),
+410.0,Tema,Sea,Medium,Open,GHA,5.629729999999888,0.010300000000000344,Tema (410.0),Ghana
+417.0,Funchal,Sea,Unknown,Unknown,PRT,32.64210000000002,-16.9067,Funchal (417.0),Madeira Islands
+420.0,Contrecoeur,Sea,Unknown,Open,CAN,45.8847000000001,-73.21990000000004,Contrecoeur (420.0),Canada
+423.0,Amal,Sea,Unknown,Unknown,SWE,59.05259999999999,12.718100000000002,Amal (423.0),Sweden
+424.0,Lome,Sea,Small,Open,TGO,6.142420000000082,1.2842499999999855,Lome (424.0),Togo
+426.0,Freetown,Sea,Small,Open,SLE,8.49123,-13.2325,Freetown (426.0),Sierra Leone
+427.0,Bissau,Sea,Small,Open,GNB,11.8611,-15.5859,Bissau (427.0),Guinea-Bissau
+435.0,Ardalstangen,Sea,Unknown,Unknown,NOR,61.24870000000009,7.7150999999999295,Ardalstangen (435.0),Norway
+436.0,Cartagena,Sea,Large,Open,COL,10.405800000000344,-75.53290000000206,Cartagena (436.0),
+441.0,Dusseldorf,Sea,Unknown,Unknown,DEU,51.2291000000001,6.76950000000005,Dusseldorf (441.0),Germany
+445.0,Odessa,Sea,Medium,Open,UKR,46.493700000001965,30.75469999999939,Odessa (445.0),Ukraine
+446.0,Kherson,Sea,Medium,Open,UKR,46.65920000000005,32.66669999999994,Kherson (446.0),Ukraine
+447.0,Yalta,Sea,Small,Open,UKR,44.4958,34.1701,Yalta (447.0),Ukraine
+449.0,Reni,River,Small,Open,UKR,45.4222,28.2937,Reni (449.0),Ukraine
+454.0,Port Weller,Lake,Unknown,Open,CAN,43.22910000000001,-79.20849999999999,Port Weller (454.0),Canada
+455.0,Gatun,Lake,Very Small,Unknown,PAN,9.263630000000232,-79.9153999999985,Gatun (455.0),Panama
+460.0,Verdal,Sea,Unknown,Unknown,NOR,63.793900000000356,11.480300000000081,Verdal (460.0),Norway
+475.0,Fecamp,Sea,Unknown,Unknown,FRA,49.762099999999926,0.3572999999999988,Fecamp (475.0),France
+479.0,Tripoli,Sea,Small,Open,LBN,34.4525000000001,35.83129999999989,Tripoli (479.0),Lebanon
+480.0,Lattakia,Sea,Medium,Open,SYR,35.51170000000001,35.77030000000005,Lattakia (480.0),Syrian Arab Republic
+481.0,Tartous,Sea,Medium,Open,SYR,34.896500000000024,35.88729999999999,Tartous (481.0),Syrian Arab Republic
+486.0,Beirut,Sea,Large,Open,LBN,33.90149999999995,35.51779999999981,Beirut (486.0),Lebanon
+501.0,Zeytinburnu,Unknown,Small,Open,TUR,40.97960000000097,28.892699999997784,Zeytinburnu (501.0),Turkey
+505.0,Oswego,Lake,Unknown,Open,USA,43.46430000000004,-76.51470000000006,Oswego (505.0),United States of America
+509.0,Squamish,Sea,Unknown,Open,CAN,49.689800000000076,-123.16400000000004,Squamish (509.0),Canada
+510.0,Unalaska,Sea,Unknown,Open,USA,53.87090000000004,-166.52399999999935,Unalaska (510.0),United States of America
+511.0,Dutch Harbor,Sea,Unknown,Open,USA,53.89069999999993,-166.54899999999944,Dutch Harbor (511.0),United States of America
+512.0,Atreco,Sea,Unknown,Open,USA,29.97879999999807,-93.89159999999359,Atreco (512.0),United States of America
+513.0,Lake Charles,Sea,Unknown,Open,USA,30.216599999999772,-93.23209999999656,Lake Charles (513.0),United States of America
+514.0,Plaquemine,Sea,Unknown,Open,USA,30.286899999999278,-91.2243000000015,Plaquemine (514.0),United States of America
+515.0,Wilmington,Sea,Unknown,Open,USA,34.23899999999972,-77.95739999999957,Wilmington (515.0),United States of America
+516.0,Coos Bay,Sea,Unknown,Open,USA,43.372,-124.208,Coos Bay (516.0),United States of America
+517.0,Montreal,Sea,Unknown,Open,CAN,45.5016999999953,-73.54810000000982,Montreal (517.0),Canada
+521.0,Brunswick,Sea,Unknown,Open,USA,31.148600000000158,-81.50050000000005,Brunswick (521.0),United States of America
+522.0,Annapolis,Sea,Unknown,Open,USA,38.939699999999895,-76.46919999999996,Annapolis (522.0),United States of America
+524.0,Brockville,Sea,Unknown,Open,CAN,44.59829999999985,-75.68039999999974,Brockville (524.0),Canada
+526.0,Becancour,Sea,Unknown,Open,CAN,46.3928,-72.3794,Becancour (526.0),Canada
+527.0,Silverdale,Sea,Unknown,Open,USA,47.644299999999944,-122.69199999999957,Silverdale (527.0),United States of America
+528.0,Cowichan Bay,Sea,Unknown,Open,CAN,48.75850000000068,-123.64699999999827,Cowichan Bay (528.0),Canada
+530.0,Campbell River,Sea,Unknown,Open,CAN,50.02720000000033,-125.24100000000101,Campbell River (530.0),Canada
+531.0,Port Angeles,Sea,Unknown,Open,USA,48.13609999999977,-123.40400000000074,Port Angeles (531.0),United States of America
+532.0,Lamlash,Sea,Unknown,Unknown,GBR,55.532100000000256,-5.069999999999989,Lamlash (532.0),U.K. of Great Britain & Northern Ireland
+533.0,Burntisland,Sea,Unknown,Unknown,GBR,56.055899999999504,-3.227100000000034,Burntisland (533.0),U.K. of Great Britain & Northern Ireland
+535.0,Portrush,Sea,Unknown,Unknown,GBR,55.20310000000017,-6.658799999999987,Portrush (535.0),U.K. of Great Britain & Northern Ireland
+536.0,Patmos,Sea,Unknown,Unknown,GRC,37.320600000000006,26.552899999999998,Patmos (536.0),Greece
+537.0,Chioggia,Sea,Unknown,Unknown,ITA,45.20569999999921,12.281699999999693,Chioggia (537.0),Italy
+538.0,Trieste,Sea,Unknown,Unknown,ITA,45.65080000000231,13.754099999998948,Trieste (538.0),Italy
+539.0,Puttgarden,Sea,Unknown,Unknown,DEU,54.50609999999879,11.228900000000342,Puttgarden (539.0),Germany
+540.0,Sassnitz,Sea,Unknown,Unknown,DEU,54.52210000000011,13.671299999999977,Sassnitz (540.0),Germany
+541.0,Conneaut,Lake,Unknown,Open,USA,41.96549999999997,-80.54609999999994,Conneaut (541.0),United States of America
+542.0,Windsor,Lake,Unknown,Open,CAN,42.3246999999984,-82.97229999999642,Windsor (542.0),Canada
+543.0,Wrightsville,Sea,Unknown,Open,USA,34.21789999999999,-77.79880000000001,Wrightsville (543.0),United States of America
+544.0,Lewes,Sea,Unknown,Open,USA,38.778000000000084,-75.13099999999983,Lewes (544.0),United States of America
+545.0,Tenes,Sea,Unknown,Open,DZA,36.5181,1.3061000000000005,Tenes (545.0),Algeria
+546.0,Horten,Sea,Unknown,Unknown,NOR,59.40829999999984,10.494699999999755,Horten (546.0),Norway
+547.0,Slemmestad,Sea,Unknown,Unknown,NOR,59.78650000000011,10.509700000000013,Slemmestad (547.0),Norway
+549.0,Kristiansund,Sea,Unknown,Unknown,NOR,63.11389999999691,7.74889999999912,Kristiansund (549.0),Norway
+550.0,Ellesmere Port,Sea,Unknown,Unknown,GBR,53.298500000000544,-2.8963000000000374,Ellesmere Port (550.0),U.K. of Great Britain & Northern Ireland
+551.0,Immingham,Sea,Unknown,Unknown,GBR,53.62809999998952,-0.18419999999997988,Immingham (551.0),U.K. of Great Britain & Northern Ireland
+553.0,Pauillac,Sea,Unknown,Unknown,FRA,45.201399999999936,-0.7367999999999993,Pauillac (553.0),France
+554.0,Braila,Sea,Unknown,Unknown,ROU,45.26499999999999,27.972500000000004,Braila (554.0),Romania
+555.0,Bakar,Sea,Unknown,Unknown,HRV,45.30319999999945,14.535700000000201,Bakar (555.0),Croatia
+556.0,Rochefort,Sea,Unknown,Unknown,FRA,45.94130000000027,-0.9499999999999952,Rochefort (556.0),France
+558.0,Rye,Sea,Unknown,Unknown,GBR,50.952699999999936,0.7331000000000002,Rye (558.0),U.K. of Great Britain and Northern Ireland
+559.0,Calais,Sea,Unknown,Unknown,FRA,50.969099999994796,1.8510999999998996,Calais (559.0),France
+560.0,Tilbury,Sea,Unknown,Unknown,GBR,51.454499999996,0.35890000000002503,Tilbury (560.0),U.K. of Great Britain and Northern Ireland
+561.0,Rochford,Sea,Unknown,Unknown,GBR,51.58050000000002,0.7216999999999988,Rochford (561.0),U.K. of Great Britain and Northern Ireland
+564.0,Bremen,Sea,Unknown,Unknown,DEU,53.110400000002684,8.748700000000094,Bremen (564.0),Germany
+565.0,Runcorn,Sea,Unknown,Unknown,GBR,53.34690000000025,-2.7440999999999756,Runcorn (565.0),U.K. of Great Britain and Northern Ireland
+567.0,El Jadida,Sea,Unknown,Open,MAR,33.258100000000006,-8.498400000000002,El Jadida (567.0),Morocco
+569.0,Collo,Sea,Unknown,Open,DZA,37.0164,6.5651,Collo (569.0),Algeria
+570.0,Bizerte,Sea,Unknown,Open,TUN,37.27110000000002,9.873699999999992,Bizerte (570.0),Tunisia
+571.0,Safi,Sea,Unknown,Open,MAR,32.30789999999983,-9.242699999999926,Safi (571.0),Morocco
+576.0,Kainan,Sea,Unknown,Open,JPN,34.148000000000614,135.20199999999753,Kainan (576.0),Japan
+577.0,Naruto,Sea,Unknown,Open,JPN,34.1137999999993,134.60399999999845,Naruto (577.0),Japan
+579.0,Nelson,Sea,Unknown,Unknown,NZL,-41.28450000000048,173.2369999999979,Nelson (579.0),New Zealand
+580.0,Albany,Sea,Unknown,Unknown,AUS,-35.0315,117.88,Albany (580.0),Australia
+581.0,Fortaleza,Sea,Unknown,Unknown,BRA,-3.7186699999999884,-38.530599999999566,Fortaleza (581.0),Brazil
+585.0,Shuidong,Sea,Unknown,Unknown,CHN,21.5033,111.00300000000001,Shuidong (585.0),China
+586.0,Hong Kong,Sea,Unknown,Unknown,HKG,22.291800000005722,114.1779999999428,Hong Kong (586.0),Hong Kong
+587.0,Shantou,Sea,Unknown,Unknown,CHN,23.3487,116.665,Shantou (587.0),China
+589.0,Shimabara,Sea,Unknown,Unknown,JPN,32.788799999999995,130.38000000000005,Shimabara (589.0),Japan
+591.0,Tateyama,Sea,Unknown,Unknown,JPN,34.987500000000026,139.8589999999975,Tateyama (591.0),Japan
+593.0,Erdek,Sea,Unknown,Unknown,TUR,40.3931,27.8025,Erdek (593.0),Turkey
+595.0,Novorossiysk,Sea,Unknown,Unknown,RUS,44.71350000000576,37.78829999999406,Novorossiysk (595.0),Russian Federation
+597.0,Picton,Sea,Unknown,Unknown,NZL,-41.29360000000256,174.0069999999906,Picton (597.0),New Zealand
+598.0,Bell Bay,Sea,Unknown,Unknown,AUS,-41.19000000000002,146.84200000000004,Bell Bay (598.0),Australia
+605.0,Huangpu,Sea,Unknown,Unknown,CHN,23.094400000000693,113.43200000000063,Huangpu (605.0),China
+609.0,Haikou,Sea,Unknown,Unknown,CHN,20.03870000000004,110.32099999999993,Haikou (609.0),China
+610.0,Nakhodka,Sea,Unknown,Unknown,RUS,42.79819999999998,132.88900000000007,Nakhodka (610.0),Russian Federation
+616.0,Mundra,Sea,Medium,Unknown,IND,22.83349999999998,69.70269999999995,Mundra (616.0),India
+622.0,Qingdao,Sea,Unknown,Unknown,CHN,36.06260000000014,120.31100000000036,Qingdao (622.0),China
+623.0,Weihai,Sea,Unknown,Unknown,CHN,37.50410000000006,122.13199999999985,Weihai (623.0),China
+625.0,Vladivostok,Sea,Unknown,Unknown,RUS,43.137799999999615,131.89599999999706,Vladivostok (625.0),Russian Federation
+626.0,Tuapse,Sea,Unknown,Unknown,RUS,44.09570000000041,39.05530000000045,Tuapse (626.0),Russian Federation
+627.0,Parnu,Sea,Unknown,Unknown,EST,58.3731,24.4923,Parnu (627.0),Estonia
+628.0,Hanko,Sea,Unknown,Unknown,FIN,59.8187000000025,22.95509999999937,Hanko (628.0),Finland
+629.0,Kantvik,Sea,Unknown,Unknown,FIN,60.079700000000166,24.382700000000078,Kantvik (629.0),Finland
+630.0,Pechenga,Sea,Unknown,Unknown,RUS,69.57369999999997,31.25609999999998,Pechenga (630.0),Russian Federation
+640.0,Tampico,Sea,Medium,Unknown,MEX,22.242899999999995,-97.82600000000001,Tampico (640.0),Mexico
+642.0,Puerto Castilla,Sea,Small,Unknown,HND,16.00560000000001,-86.02309999999993,Puerto Castilla (642.0),Honduras
+646.0,Ras Tanura,Sea,Small,Unknown,SAU,26.6483,50.1585,Ras Tanura (646.0),Saudi Arabia
+647.0,Derince,Sea,Small,Unknown,TUR,40.75779999999999,29.83210000000001,Derince (647.0),Turkey
+648.0,Samsun,Sea,Small,Unknown,TUR,41.29460000000002,36.342499999999916,Samsun (648.0),Turkey
+651.0,Fatsa,Sea,Small,Unknown,TUR,41.0374,37.4975,Fatsa (651.0),Turkey
+652.0,Cesme,Sea,Small,Unknown,TUR,38.3261,26.3055,Cesme (652.0),Turkey
+655.0,Ibicuy,River,Small,Unknown,ARG,-33.7427,-59.1785,Ibicuy (655.0),Argentina
+659.0,Paraiso,Sea,Very Small,Unknown,PAN,9.02663,-79.6272,Paraiso (659.0),Panama
+661.0,Aliaga,Sea,Medium,Open,TUR,38.8322,26.9493,Aliaga (661.0),Turkey
+662.0,Takoradi,Sea,Small,Open,GHA,4.885030000000013,-1.7489999999999977,Takoradi (662.0),Ghana
+663.0,Gelibolu,Sea,Small,Open,TUR,40.40549999999999,26.669599999999964,Gelibolu (663.0),Turkey
+665.0,Winneba,Sea,Very Small,Open,GHA,5.33793,-0.6205999999999998,Winneba (665.0),Ghana
+666.0,Warrenpoint,Sea,Unknown,Unknown,GBR,54.10099999999979,-6.258200000000041,Warrenpoint (666.0),U.K. of Great Britain and Northern Ireland
+667.0,Kappeln,Sea,Unknown,Unknown,DEU,54.65799999999976,9.936900000000039,Kappeln (667.0),Germany
+668.0,Wladyslawowo,Sea,Unknown,Unknown,POL,54.777999999999125,18.423300000000253,Wladyslawowo (668.0),Poland
+669.0,Bandholm,Sea,Unknown,Unknown,DNK,54.831299999999935,11.500099999999984,Bandholm (669.0),Denmark
+670.0,Kalundborg,Sea,Unknown,Unknown,DNK,55.67680000000018,11.095099999999922,Kalundborg (670.0),Denmark
+672.0,Falkenberg,Sea,Unknown,Unknown,SWE,56.887800000000176,12.493899999999995,Falkenberg (672.0),Sweden
+673.0,Aalborg,Sea,Unknown,Unknown,DNK,57.04320000000006,9.937700000000191,Aalborg (673.0),Denmark
+674.0,Mariestad,Sea,Unknown,Unknown,SWE,58.714299999999994,13.820899999999998,Mariestad (674.0),Sweden
+675.0,Kristinehamn,Sea,Unknown,Unknown,SWE,59.31259999999998,14.0987,Kristinehamn (675.0),Sweden
+677.0,Gavle,Sea,Unknown,Unknown,SWE,60.68330000000001,17.18110000000001,Gavle (677.0),Sweden
+679.0,Panarukan,Sea,Small,Open,IDN,-7.6976,113.934,Panarukan (679.0),Indonesia
+687.0,Chekka,Unknown,Very Small,Open,LBN,34.3295,35.7244,Chekka (687.0),Lebanon
+691.0,Charleston,Sea,Unknown,Open,USA,32.7814999999996,-79.93219999999916,Charleston (691.0),United States of America
+692.0,Oceanside,Sea,Unknown,Open,USA,33.20249999999999,-117.39199999999994,Oceanside (692.0),United States of America
+693.0,Huntington Beach,Sea,Unknown,Open,USA,33.64330000000156,-117.9869999999957,Huntington Beach (693.0),United States of America
+695.0,New Orleans,Unknown,Unknown,Unknown,USA,29.95000000000038,-90.08329999999887,New Orleans (695.0),United States of America
+696.0,Dunkirk,Unknown,Unknown,Unknown,USA,42.4833,-79.3333,Dunkirk (696.0),United States of America
+699.0,Cape Town,Sea,Unknown,Open,ZAF,-33.90899999999968,18.465100000000508,Cape Town (699.0),South Africa
+700.0,Avondale,Sea,Unknown,Open,USA,29.921300000000628,-90.19939999999895,Avondale (700.0),United States of America
+703.0,Melilla,Sea,Unknown,Open,ESP,35.29749999999997,-2.9397000000000006,Melilla (703.0),Spain
+704.0,Harbour Grace,Sea,Unknown,Open,CAN,47.69990000000001,-53.21019999999999,Harbour Grace (704.0),Canada
+709.0,Bagnoli,Sea,Unknown,Unknown,ITA,40.79959999999883,14.161299999999809,Bagnoli (709.0),Italy
+710.0,Gijon,Sea,Unknown,Unknown,ESP,43.54850000000019,-5.675800000000227,Gijon (710.0),Spain
+711.0,Constanta,Sea,Unknown,Unknown,ROU,44.16450000000579,28.641899999999247,Constanta (711.0),Romania
+712.0,Vallvik,Sea,Unknown,Unknown,SWE,61.1789,17.183899999999998,Vallvik (712.0),Sweden
+713.0,Essaouira,Sea,Unknown,Unknown,MAR,31.5114,-9.77161,Essaouira (713.0),Morocco
+714.0,Sandnessjoen,Sea,Unknown,Unknown,NOR,66.02050000000477,12.63309999999928,Sandnessjoen (714.0),Norway
+715.0,Skjervoy,Sea,Unknown,Unknown,NOR,70.03049999999568,20.97090000000023,Skjervoy (715.0),Norway
+716.0,Termoli,Sea,Unknown,Unknown,ITA,41.9998,14.9995,Termoli (716.0),Italy
+717.0,Santander,Sea,Unknown,Unknown,ESP,43.46249999999897,-3.795000000000061,Santander (717.0),Spain
+721.0,Portici,Sea,Unknown,Unknown,ITA,40.83669999999888,14.258700000002724,Portici (721.0),Italy
+722.0,Bari,Sea,Unknown,Unknown,ITA,41.13090000000002,16.8501,Bari (722.0),Italy
+723.0,Harlingen,Sea,Unknown,Unknown,NLD,53.160200000000124,5.415300000000171,Harlingen (723.0),Netherlands
+725.0,Honsater,Sea,Unknown,Unknown,SWE,58.63350000000002,13.447100000000004,Honsater (725.0),Sweden
+743.0,Blind River,Lake,Unknown,Open,CAN,46.1754,-82.9363,Blind River (743.0),Canada
+744.0,Harrisville,Lake,Unknown,Open,USA,44.6673,-83.2729,Harrisville (744.0),United States of America
+749.0,Oakville,Lake,Unknown,Open,CAN,43.4367,-79.6606,Oakville (749.0),Canada
+750.0,Revere,Sea,Unknown,Open,USA,42.41460000000004,-70.99150000000007,Revere (750.0),United States of America
+753.0,Good Hope,Sea,Unknown,Open,USA,29.983500000000177,-90.39680000000017,Good Hope (753.0),United States of America
+754.0,Port Wentworth,Sea,Unknown,Open,USA,32.192000000001194,-81.16519999999261,Port Wentworth (754.0),United States of America
+755.0,Bridgeport,Sea,Unknown,Open,USA,41.17759999999999,-73.1603,Bridgeport (755.0),United States of America
+757.0,Vancouver,Sea,Unknown,Open,USA,45.611300000001194,-122.61099999999567,Vancouver (757.0),United States of America
+758.0,Astoria,Sea,Unknown,Open,USA,46.1886999999992,-123.84500000000101,Astoria (758.0),United States of America
+760.0,Crofton,Sea,Unknown,Open,CAN,48.86309999999947,-123.62799999999831,Crofton (760.0),Canada
+761.0,Port Sulphur,Sea,Unknown,Open,USA,29.4597,-89.68469999999994,Port Sulphur (761.0),United States of America
+762.0,Antioch,Sea,Unknown,Open,USA,38.02289999999994,-121.81700000000089,Antioch (762.0),United States of America
+763.0,Marion,Sea,Unknown,Open,USA,41.6945,-70.76109999999998,Marion (763.0),United States of America
+767.0,Ketchikan,Sea,Unknown,Open,USA,55.3297,-131.631,Ketchikan (767.0),United States of America
+768.0,Edmonds,Sea,Unknown,Open,USA,47.82170000000033,-122.37999999999917,Edmonds (768.0),United States of America
+769.0,Orehoved,Sea,Unknown,Unknown,DNK,54.95609999999963,11.852700000000093,Orehoved (769.0),Denmark
+770.0,Vordingborg,Sea,Unknown,Unknown,DNK,54.9779000000002,11.903100000000157,Vordingborg (770.0),Denmark
+771.0,Limhamn,Sea,Unknown,Unknown,SWE,55.56030000000342,12.904099999999772,Limhamn (771.0),Sweden
+772.0,Ayr,Sea,Unknown,Unknown,GBR,55.4617,-4.6493,Ayr (772.0),U.K. of Great Britain & Northern Ireland
+773.0,Kalamaki,Sea,Unknown,Unknown,GRC,37.858200000000004,23.005699999999994,Kalamaki (773.0),Greece
+774.0,Vieste,Sea,Unknown,Unknown,ITA,41.8869,16.1709,Vieste (774.0),Italy
+776.0,La Pallice,Sea,Unknown,Unknown,FRA,46.16820000000006,-1.2372000000000194,La Pallice (776.0),France
+777.0,Langesund,Sea,Unknown,Unknown,NOR,58.996700000001304,9.738300000000113,Langesund (777.0),Norway
+778.0,Paskallavik,Sea,Unknown,Unknown,SWE,57.17390000000102,16.46830000000033,Paskallavik (778.0),Sweden
+779.0,Gary,Lake,Unknown,Open,USA,41.65030000000003,-87.4280999999997,Gary (779.0),United States of America
+780.0,Amherstburg,Lake,Unknown,Open,CAN,42.097900000000436,-83.10749999999882,Amherstburg (780.0),Canada
+781.0,Benicia,Sea,Unknown,Open,USA,38.051300000000055,-122.16299999999997,Benicia (781.0),United States of America
+783.0,New Haven,Sea,Unknown,Open,USA,41.27630000000017,-72.90710000000021,New Haven (783.0),United States of America
+790.0,Nesseby,Sea,Unknown,Unknown,NOR,70.15110000000003,28.894499999999997,Nesseby (790.0),Norway
+791.0,Appledore,Sea,Unknown,Unknown,GBR,51.0477,-4.2412,Appledore (791.0),U.K. of Great Britain & Northern Ireland
+792.0,Ramsgate,Sea,Unknown,Unknown,GBR,51.34080000000237,1.4248999999999814,Ramsgate (792.0),U.K. of Great Britain & Northern Ireland
+793.0,Padstow,Sea,Unknown,Unknown,GBR,50.54930000000001,-4.935900000000002,Padstow (793.0),U.K. of Great Britain and Northern Ireland
+794.0,Hamble,Sea,Unknown,Unknown,GBR,50.82420000000171,-1.3117999999999588,Hamble (794.0),U.K. of Great Britain and Northern Ireland
+795.0,Maastricht,Sea,Unknown,Unknown,NLD,50.858500000000035,5.699900000000006,Maastricht (795.0),Netherlands
+796.0,Bridgwater,Sea,Unknown,Unknown,GBR,51.125500000000066,-2.998400000000003,Bridgwater (796.0),U.K. of Great Britain and Northern Ireland
+797.0,Zeebrugge,Sea,Unknown,Unknown,BEL,51.337199999983625,3.1978999999993376,Zeebrugge (797.0),Belgium
+798.0,Newport,Sea,Unknown,Unknown,GBR,51.57110000000056,-2.9837000000000606,Newport (798.0),U.K. of Great Britain and Northern Ireland
+799.0,Emmerich,Sea,Unknown,Unknown,DEU,51.83130000000025,6.240899999999966,Emmerich (799.0),Germany
+800.0,Waterford,Sea,Unknown,Unknown,IRL,52.26280000000037,-7.099999999999964,Waterford (800.0),Ireland
+802.0,Elsfleth,Sea,Unknown,Unknown,DEU,53.24209999999967,8.480700000000052,Elsfleth (802.0),Germany
+803.0,Warrington,Sea,Unknown,Unknown,GBR,53.38729999999999,-2.5866,Warrington (803.0),U.K. of Great Britain and Northern Ireland
+804.0,Gabes,Sea,Unknown,Open,TUN,33.917699999999975,10.105299999999968,Gabes (804.0),Tunisia
+805.0,Rabat,Sea,Unknown,Open,MAR,34.0537,-6.8233,Rabat (805.0),Morocco
+809.0,Mostaganem,Sea,Unknown,Open,DZA,35.9375,0.07830000000000004,Mostaganem (809.0),Algeria
+810.0,Dellys,Sea,Unknown,Open,DZA,36.9235,3.8797,Dellys (810.0),Algeria
+817.0,Bluff,Sea,Unknown,Unknown,NZL,-46.611100000000036,168.35499999999976,Bluff (817.0),New Zealand
+819.0,Broome,Sea,Unknown,Unknown,AUS,-17.97559999999999,122.22699999999996,Broome (819.0),Australia
+826.0,Anamur,Sea,Unknown,Unknown,TUR,36.0526,32.8577,Anamur (826.0),Turkey
+832.0,Mangalia,Sea,Unknown,Unknown,ROU,43.81480000000009,28.59429999999994,Mangalia (832.0),Romania
+836.0,Geraldton,Sea,Unknown,Unknown,AUS,-28.774300000000014,114.596,Geraldton (836.0),Australia
+838.0,Minamata,Sea,Unknown,Unknown,JPN,32.21,130.394,Minamata (838.0),Japan
+839.0,Sasebo,Sea,Unknown,Unknown,JPN,33.161,129.727,Sasebo (839.0),Japan
+840.0,Karatsu,Sea,Unknown,Unknown,JPN,33.46630000000004,129.94900000000038,Karatsu (840.0),Japan
+842.0,Darwin,Sea,Unknown,Unknown,AUS,-12.42829999999976,130.8380000000023,Darwin (842.0),Australia
+843.0,Tanjong Pagar,Sea,Unknown,Unknown,SGP,1.2650299999992034,103.83899999981656,Tanjong Pagar (843.0),Singapore
+854.0,Hibi,Sea,Unknown,Unknown,JPN,34.44869999999998,133.92900000000006,Hibi (854.0),Japan
+856.0,Ishinomaki,Sea,Unknown,Unknown,JPN,38.4121,141.318,Ishinomaki (856.0),Japan
+857.0,Dalian,Sea,Unknown,Unknown,CHN,38.926800000000014,121.612999999999,Dalian (857.0),China
+862.0,Tongling,River,Unknown,Unknown,CHN,30.9481,117.777,Tongling (862.0),China
+863.0,Santos,Sea,Medium,Unknown,BRA,-23.92770000000018,-46.30689999999768,Santos (863.0),Brazil
+868.0,Quequen,Sea,Medium,Unknown,ARG,-38.57749999999999,-58.7038,Quequen (868.0),Argentina
+869.0,Itajai,Sea,Medium,Unknown,BRA,-26.905399999999993,-48.65499999999999,Itajai (869.0),Brazil
+873.0,Cristobal,Sea,Medium,Unknown,PAN,9.347130000000066,-79.90520000000011,Cristobal (873.0),Panama
+878.0,Christiansted,Sea,Small,Unknown,VIR,17.753400000000003,-64.69849999999998,Christiansted (878.0),United States Virgin Island
+879.0,Nueva Palmira,Sea,Small,Unknown,URY,-33.858999999999995,-58.41700000000002,Nueva Palmira (879.0),Uruguay
+882.0,Coatzacoalcos,Sea,Small,Unknown,MEX,18.1337,-94.40830000000001,Coatzacoalcos (882.0),Mexico
+885.0,Nassau,Sea,Small,Unknown,BHS,25.0771,-77.3337,Nassau (885.0),Bahamas
+887.0,Campana,River,Small,Unknown,ARG,-34.158400000000015,-58.96150000000001,Campana (887.0),Argentina
+888.0,Zarate,River,Small,Unknown,ARG,-34.0815,-59.0348,Zarate (888.0),Argentina
+897.0,Doha,Sea,Medium,Open,QAT,25.291699999999995,51.52710000000001,Doha (897.0),Qatar
+901.0,Kpeme,Sea,Very Small,Open,TGO,6.1987299999999985,1.5004999999999995,Kpeme (901.0),Togo
+903.0,Wilhelmshaven,Sea,Unknown,Unknown,DEU,53.52529999999758,8.122899999999873,Wilhelmshaven (903.0),Germany
+904.0,Fleetwood,Sea,Unknown,Unknown,GBR,53.92099999999975,-3.0115000000000283,Fleetwood (904.0),U.K. of Great Britain and Northern Ireland
+905.0,Iskenderun,Sea,Small,Unknown,TUR,36.593499999999956,36.1875,Iskenderun (905.0),Turkey
+906.0,Bangor,Sea,Unknown,Unknown,GBR,54.66909999999919,-5.653200000000458,Bangor (906.0),U.K. of Great Britain and Northern Ireland
+907.0,Gelting,Sea,Unknown,Unknown,DEU,54.767799999999816,9.908899999999969,Gelting (907.0),Germany
+908.0,Torekov,Sea,Unknown,Unknown,SWE,56.42589999999998,12.631699999999997,Torekov (908.0),Sweden
+909.0,Coleraine,Sea,Unknown,Unknown,GBR,55.1403,-6.6743,Coleraine (909.0),U.K. of Great Britain and Northern Ireland
+910.0,Sakskobing,Sea,Unknown,Unknown,DNK,54.8141,11.6181,Sakskobing (910.0),Denmark
+911.0,Horsens,Sea,Unknown,Unknown,DNK,55.858200000000025,9.86329999999999,Horsens (911.0),Denmark
+912.0,Aberdeen,Sea,Unknown,Unknown,GBR,57.141299999997564,-2.087900000000271,Aberdeen (912.0),U.K. of Great Britain and Northern Ireland
+913.0,Halden,Sea,Unknown,Unknown,NOR,59.1195000000005,11.356300000000127,Halden (913.0),Norway
+914.0,Fredrikstad,Sea,Unknown,Unknown,NOR,59.206699999998094,10.958500000000392,Fredrikstad (914.0),Norway
+915.0,Vanersborg,Sea,Unknown,Unknown,SWE,58.36669999999923,12.328099999999981,Vanersborg (915.0),Sweden
+917.0,Skogby,Sea,Unknown,Unknown,FIN,59.91430000000002,23.30689999999999,Skogby (917.0),Finland
+918.0,Hallstavik,Sea,Unknown,Unknown,SWE,60.05290000000022,18.588900000000027,Hallstavik (918.0),Sweden
+919.0,Rauma,Sea,Unknown,Unknown,FIN,61.13610000000222,21.472300000000605,Rauma (919.0),Finland
+923.0,Sete,Sea,Unknown,Unknown,FRA,43.40269999999916,3.6925000000000847,Sete (923.0),France
+924.0,Trollhattan,Sea,Unknown,Unknown,SWE,58.288300000000156,12.310700000000162,Trollhattan (924.0),Sweden
+925.0,Batroun,Unknown,Very Small,Open,LBN,34.257200000000005,35.65740000000003,Batroun (925.0),Lebanon
+929.0,Nouadhibou,Sea,Medium,Open,MRT,20.898899999999973,-17.052599999999988,Nouadhibou (929.0),Mauritania
+940.0,Panama City,Sea,Unknown,Open,USA,30.151299999999996,-85.65789999999997,Panama City (940.0),United States of America
+942.0,Richmond,Sea,Unknown,Open,USA,37.93340000000091,-122.40999999999313,Richmond (942.0),United States of America
+943.0,Fenit,Sea,Unknown,Unknown,IRL,52.2823,-9.8503,Fenit (943.0),Ireland
+944.0,Portland,Unknown,Unknown,Unknown,USA,45.51669999999735,-122.66699999999568,Portland (944.0),United States of America
+948.0,Westwego,Sea,Unknown,Open,USA,29.916499999999505,-90.13880000000057,Westwego (948.0),United States of America
+950.0,Victoria,Sea,Unknown,Open,CAN,48.434800000001864,-123.36900000000449,Victoria (950.0),Canada
+954.0,Brownsville,Sea,Unknown,Open,USA,25.89470000000002,-97.49870000000006,Brownsville (954.0),United States of America
+956.0,Stockton,Sea,Unknown,Open,USA,37.955300000000044,-121.33499999999991,Stockton (956.0),United States of America
+959.0,Norfolk,Unknown,Unknown,Unknown,USA,36.85000000000288,-76.29999999999403,Norfolk (959.0),United States of America
+960.0,Invergordon,Sea,Unknown,Unknown,GBR,57.68759999999999,-4.1766,Invergordon (960.0),U.K. of Great Britain & Northern Ireland
+961.0,Ribadeo,Sea,Unknown,Unknown,ESP,43.533300000000004,-7.034000000000002,Ribadeo (961.0),Spain
+962.0,Arbatax,Sea,Unknown,Unknown,ITA,39.940599999999975,9.7029,Arbatax (962.0),Italy
+963.0,Thasos,Sea,Unknown,Unknown,GRC,40.784499999998985,24.73030000000096,Thasos (963.0),Greece
+964.0,Sligo,Sea,Unknown,Unknown,IRL,54.277899999999995,-8.480000000000002,Sligo (964.0),Ireland
+965.0,Gdansk,Sea,Unknown,Unknown,POL,54.410499999998414,18.6708999999982,Gdansk (965.0),Poland
+967.0,Dartmouth,Sea,Unknown,Unknown,GBR,50.350900000000074,-3.579999999999997,Dartmouth (967.0),U.K. of Great Britain & Northern Ireland
+968.0,Palamos,Sea,Unknown,Unknown,ESP,41.85459999999997,3.1173,Palamos (968.0),Spain
+970.0,Treguier,Sea,Unknown,Unknown,FRA,48.7917,-3.2292000000000005,Treguier (970.0),France
+971.0,Rota,Sea,Unknown,Unknown,ESP,36.62089999999999,-6.352800000000001,Rota (971.0),Spain
+972.0,Adra,Sea,Unknown,Unknown,ESP,36.7503,-3.0141000000000004,Adra (972.0),Spain
+973.0,Siracusa,Sea,Unknown,Unknown,ITA,37.0607,15.293299999999999,Siracusa (973.0),Italy
+975.0,Grenaa,Sea,Unknown,Unknown,DNK,56.410500000000575,10.925699999999877,Grenaa (975.0),Denmark
+976.0,Risor,Sea,Unknown,Unknown,NOR,58.71409999999999,9.238499999999991,Risor (976.0),Norway
+977.0,Balsta,Sea,Unknown,Unknown,SWE,59.554500000000154,17.55969999999993,Balsta (977.0),Sweden
+982.0,Jbail,Sea,Very Small,Open,LBN,34.11950000000001,35.6433,Jbail (982.0),Lebanon
+984.0,Livorno,Sea,Unknown,Unknown,ITA,43.576300000000025,10.31470000000155,Livorno (984.0),Italy
+994.0,Jebel Dhanna,Unknown,Very Small,Unknown,ARE,24.186200000000056,52.62449999999992,Jebel Dhanna (994.0),United Arab Emirates
+996.0,Can Tho,River,Unknown,Unknown,VNM,10.0351,105.78700000000002,Can Tho (996.0),Viet Nam
+1009.0,Hahnville,Sea,Unknown,Open,USA,29.983199999999993,-90.41170000000008,Hahnville (1009.0),United States of America
+1010.0,Norco,Sea,Unknown,Open,USA,29.993999999999886,-90.4118000000004,Norco (1010.0),United States of America
+1011.0,Beaumont,Sea,Unknown,Open,USA,30.073099999998952,-94.08780000000041,Beaumont (1011.0),United States of America
+1012.0,Savannah,Sea,Unknown,Open,USA,32.02349999999851,-81.0557999999959,Savannah (1012.0),United States of America
+1013.0,Georgetown,Sea,Unknown,Open,USA,33.3695,-79.2972,Georgetown (1013.0),United States of America
+1014.0,Baltimore,Sea,Unknown,Open,USA,39.27270000000121,-76.58079999999715,Baltimore (1014.0),United States of America
+1017.0,Longview,Sea,Unknown,Open,USA,46.18249999999995,-122.89999999999996,Longview (1017.0),United States of America
+1018.0,Palmetto,Sea,Unknown,Open,USA,27.502500000000065,-82.54729999999914,Palmetto (1018.0),United States of America
+1019.0,Chemainus,Sea,Unknown,Open,CAN,48.91680000000035,-123.70900000000036,Chemainus (1019.0),Canada
+1020.0,Port Arthur,Sea,Unknown,Open,USA,29.867899999999977,-93.93440000000007,Port Arthur (1020.0),United States of America
+1021.0,Mobile,Sea,Unknown,Open,USA,30.655200000000047,-88.04370000000013,Mobile (1021.0),United States of America
+1022.0,Cambridge,Sea,Unknown,Open,USA,38.5673,-76.0705,Cambridge (1022.0),United States of America
+1023.0,Salem,Sea,Unknown,Open,USA,42.509100000000146,-70.8881000000001,Salem (1023.0),United States of America
+1025.0,Port Moody,Sea,Unknown,Open,CAN,49.282099999997826,-122.86300000000527,Port Moody (1025.0),Canada
+1026.0,Ocean Falls,Sea,Unknown,Open,CAN,52.34589999999992,-127.69499999999987,Ocean Falls (1026.0),Canada
+1029.0,Foynes,Sea,Unknown,Unknown,IRL,52.6159,-9.1057,Foynes (1029.0),Ireland
+1030.0,Marstal,Sea,Unknown,Unknown,DNK,54.851900000000455,10.525700000000075,Marstal (1030.0),Denmark
+1031.0,Sunderland,Sea,Unknown,Unknown,GBR,54.911899999999434,-1.3582999999999943,Sunderland (1031.0),U.K. of Great Britain & Northern Ireland
+1032.0,Oban,Sea,Unknown,Unknown,GBR,56.41670000000098,-5.471899999999961,Oban (1032.0),U.K. of Great Britain & Northern Ireland
+1033.0,Sines,Sea,Unknown,Unknown,PRT,37.94950000000167,-8.86279999999976,Sines (1033.0),Portugal
+1034.0,Arcachon,Sea,Unknown,Unknown,FRA,44.66269999999999,-1.1588999999999996,Arcachon (1034.0),France
+1035.0,Dieppe,Sea,Unknown,Unknown,FRA,49.93729999999974,1.0859000000000014,Dieppe (1035.0),France
+1036.0,Galway,Sea,Unknown,Unknown,IRL,53.26670000000007,-9.048300000000005,Galway (1036.0),Ireland
+1037.0,Ustka,Sea,Unknown,Unknown,POL,54.588899999999995,16.858499999999996,Ustka (1037.0),Poland
+1038.0,Nykobing Mors,Sea,Unknown,Unknown,DNK,56.78790000000002,8.874900000000018,Nykobing Mors (1038.0),Denmark
+1039.0,Oxelosund,Sea,Unknown,Unknown,SWE,58.662899999999055,17.130300000000496,Oxelosund (1039.0),Sweden
+1040.0,Skudeneshavn,Sea,Unknown,Unknown,NOR,59.14579999999855,5.260300000000216,Skudeneshavn (1040.0),Norway
+1041.0,Wyandotte,Lake,Unknown,Open,USA,42.215499999998876,-83.13880000000059,Wyandotte (1041.0),United States of America
+1044.0,Rorvik,Sea,Unknown,Unknown,NOR,64.83790000000224,11.174699999999639,Rorvik (1044.0),Norway
+1045.0,Seaham,Sea,Unknown,Unknown,GBR,54.82779999999987,-1.3231999999999935,Seaham (1045.0),U.K. of Great Britain & Northern Ireland
+1046.0,Sharpness,Sea,Unknown,Unknown,GBR,51.712700000000034,-2.490599999999987,Sharpness (1046.0),U.K. of Great Britain & Northern Ireland
+1047.0,Hartlepool,Sea,Unknown,Unknown,GBR,54.70030000000032,-1.1974000000000025,Hartlepool (1047.0),U.K. of Great Britain & Northern Ireland
+1048.0,Monfalcone,Sea,Unknown,Unknown,ITA,45.79099999999979,13.538899999999712,Monfalcone (1048.0),Italy
+1051.0,Fowey,Sea,Unknown,Unknown,GBR,50.32780000000001,-4.6567,Fowey (1051.0),U.K. of Great Britain and Northern Ireland
+1052.0,Teignmouth,Sea,Unknown,Unknown,GBR,50.54850000000042,-3.501999999999973,Teignmouth (1052.0),U.K. of Great Britain and Northern Ireland
+1053.0,Cowes,Sea,Unknown,Unknown,GBR,50.76570000000141,-1.300500000000036,Cowes (1053.0),U.K. of Great Britain and Northern Ireland
+1054.0,Fawley,Sea,Unknown,Unknown,GBR,50.84569999999948,-1.3584000000000183,Fawley (1054.0),U.K. of Great Britain and Northern Ireland
+1055.0,Purfleet,Sea,Unknown,Unknown,GBR,51.475899999996585,0.24530000000001953,Purfleet (1055.0),U.K. of Great Britain and Northern Ireland
+1056.0,Oosterhout,Sea,Unknown,Unknown,NLD,51.63529999999995,4.857700000000001,Oosterhout (1056.0),Netherlands
+1057.0,Dordrecht,Sea,Unknown,Unknown,NLD,51.81309999999943,4.657699999999844,Dordrecht (1057.0),Netherlands
+1059.0,Mistley,Sea,Unknown,Unknown,GBR,51.95749999999889,1.0742999999999943,Mistley (1059.0),U.K. of Great Britain and Northern Ireland
+1060.0,Varberg,Sea,Unknown,Unknown,SWE,57.1059999999998,12.245100000000082,Varberg (1060.0),Sweden
+1063.0,Funabashi,Sea,Unknown,Open,JPN,35.67699999999811,139.97600000001358,Funabashi (1063.0),Japan
+1065.0,Tangier,Sea,Unknown,Open,MAR,35.793199999999985,-5.788000000000001,Tangier (1065.0),Morocco
+1070.0,Hobart,Sea,Unknown,Unknown,AUS,-42.86640000000001,147.32900000000066,Hobart (1070.0),Australia
+1077.0,Beihai,Sea,Unknown,Unknown,CHN,21.483900000000112,109.08099999999912,Beihai (1077.0),China
+1079.0,Kiire,Sea,Unknown,Unknown,JPN,31.3753,130.557,Kiire (1079.0),Japan
+1081.0,Cheju,Sea,Unknown,Unknown,KOR,33.513900000000014,126.51200000000004,Cheju (1081.0),Republic of Korea
+1082.0,Yosu,Sea,Unknown,Unknown,KOR,34.73149999999995,127.75100000000018,Yosu (1082.0),Republic of Korea
+1087.0,Motueka,Sea,Unknown,Unknown,NZL,-41.0992,173.00700000000003,Motueka (1087.0),New Zealand
+1088.0,Napier,Sea,Unknown,Unknown,NZL,-39.48120000000013,176.89199999999985,Napier (1088.0),New Zealand
+1089.0,Gisborne,Sea,Unknown,Unknown,NZL,-38.675900000000006,177.989,Gisborne (1089.0),New Zealand
+1090.0,Auckland,Sea,Unknown,Unknown,NZL,-36.865299999999145,174.78999999999942,Auckland (1090.0),New Zealand
+1093.0,Brisbane,Sea,Unknown,Unknown,AUS,-27.471299999999832,153.01499999999947,Brisbane (1093.0),Australia
+1095.0,Wyndham,Sea,Unknown,Unknown,AUS,-15.450799999999994,128.10200000000003,Wyndham (1095.0),Australia
+1097.0,Santana,Sea,Unknown,Unknown,BRA,-0.046370000000000855,-51.18119999999949,Santana (1097.0),Brazil
+1099.0,Karwar,Sea,Unknown,Unknown,IND,14.8035,74.1171,Karwar (1099.0),India
+1102.0,Kwinana,Sea,Unknown,Unknown,AUS,-32.2350000000005,115.75899999999666,Kwinana (1102.0),Australia
+1104.0,Pasir Gudang,Sea,Unknown,Unknown,MYS,1.4359299999997597,103.90200000000178,Pasir Gudang (1104.0),Malaysia
+1109.0,Kotka,Sea,Unknown,Unknown,FIN,60.469899999997075,26.939100000001773,Kotka (1109.0),Finland
+1110.0,Fukue,Sea,Unknown,Unknown,JPN,32.6839,128.85300000000004,Fukue (1110.0),Japan
+1111.0,Tonghae,Sea,Unknown,Unknown,KOR,37.489300000000746,129.13899999999717,Tonghae (1111.0),Republic of Korea
+1115.0,Zhenjiang,River,Unknown,Unknown,CHN,32.214400000000005,119.43499999999997,Zhenjiang (1115.0),China
+1120.0,Ashdod,Sea,Medium,Unknown,ISR,31.82479999999942,34.648199999999775,Ashdod (1120.0),Israel
+1122.0,Szczecin,Sea,Unknown,Unknown,POL,53.42790000000236,14.563099999999501,Szczecin (1122.0),Poland
+1127.0,Chaguaramas,Sea,Small,Unknown,TTO,10.689699999999995,-61.66490000000113,Chaguaramas (1127.0),Trinidad and Tobago
+1128.0,Kingstown,Sea,Small,Unknown,VCT,13.150299999999998,-61.23199999999999,Kingstown (1128.0),Saint Vincent and the Grenadines
+1129.0,Belize City,Sea,Small,Unknown,BLZ,17.48540000000002,-88.18490000000011,Belize City (1129.0),Belize
+1130.0,Frederiksted,Sea,Small,Unknown,VIR,17.7183,-64.88940000000001,Frederiksted (1130.0),United States Virgin Island
+1135.0,Puerto Cortes,Sea,Small,Unknown,HND,15.82189999999993,-87.93439999999904,Puerto Cortes (1135.0),Honduras
+1137.0,Mariel,Sea,Small,Unknown,CUB,23.0082,-82.7635,Mariel (1137.0),Cuba
+1141.0,Basseterre,Sea,Small,Unknown,KNA,17.292699999999975,-62.71570000000022,Basseterre (1141.0),Saint Kitts and Nevis
+1144.0,Tasucu,Sea,Small,Unknown,TUR,36.31449999999999,33.88750000000001,Tasucu (1144.0),Turkey
+1145.0,Bodrum,Sea,Small,Unknown,TUR,37.0294,27.436699999999995,Bodrum (1145.0),Turkey
+1146.0,San Lorenzo,River,Small,Unknown,ARG,-32.7546,-60.7228,San Lorenzo (1146.0),Argentina
+1150.0,Livingston,Sea,Very Small,Unknown,GTM,15.825600000000007,-88.7482,Livingston (1150.0),Guatemala
+1156.0,Clifden,Sea,Unknown,Unknown,IRL,53.489699999999985,-10.0259,Clifden (1156.0),Ireland
+1157.0,Schleswig,Sea,Unknown,Unknown,DEU,54.5157,9.5561,Schleswig (1157.0),Germany
+1158.0,Cairnryan,Sea,Unknown,Unknown,GBR,54.96290000000003,-5.014400000000006,Cairnryan (1158.0),U.K. of Great Britain and Northern Ireland
+1159.0,Ronne,Sea,Unknown,Unknown,DNK,55.09730000000037,14.69570000000015,Ronne (1159.0),Denmark
+1160.0,Naestved,Sea,Unknown,Unknown,DNK,55.22769999999994,11.761299999999979,Naestved (1160.0),Denmark
+1161.0,Rudkobing,Sea,Unknown,Unknown,DNK,54.94129999999972,10.716300000000043,Rudkobing (1161.0),Denmark
+1162.0,Skive,Sea,Unknown,Unknown,DNK,56.57420000000001,9.05550000000002,Skive (1162.0),Denmark
+1163.0,Norresundby,Sea,Unknown,Unknown,DNK,57.04899999999928,9.934499999999717,Norresundby (1163.0),Denmark
+1164.0,Rekefjord,Sea,Unknown,Unknown,NOR,58.33130000000149,6.247900000000164,Rekefjord (1164.0),Norway
+1165.0,Porsgrunn,Sea,Unknown,Unknown,NOR,59.13950000000003,9.638699999999945,Porsgrunn (1165.0),Norway
+1166.0,Sarpsborg,Sea,Unknown,Unknown,NOR,59.2848999999995,11.131300000000008,Sarpsborg (1166.0),Norway
+1167.0,Karlstad,Sea,Unknown,Unknown,SWE,59.37289999999995,13.52269999999999,Karlstad (1167.0),Sweden
+1168.0,Drammen,Sea,Unknown,Unknown,NOR,59.74149999999968,10.216500000000329,Drammen (1168.0),Norway
+1170.0,Levanger,Sea,Unknown,Unknown,NOR,63.755900000000054,11.302899999999937,Levanger (1170.0),Norway
+1171.0,Le Treport,Sea,Unknown,Unknown,FRA,50.06809999999998,1.3774999999999993,Le Treport (1171.0),France
+1172.0,Lorain,Lake,Unknown,Open,USA,41.46070000000003,-82.19970000000008,Lorain (1172.0),United States of America
+1175.0,Baytown,Sea,Unknown,Open,USA,29.714700000006378,-95.01359999997368,Baytown (1175.0),United States of America
+1176.0,Pascagoula,Sea,Unknown,Open,USA,30.34729999999996,-88.56030000000007,Pascagoula (1176.0),United States of America
+1177.0,Probolinggo,Sea,Small,Open,IDN,-7.72999,113.218,Probolinggo (1177.0),
+1183.0,Cartagena,Unknown,Unknown,Unknown,ESP,37.583300000000115,-0.9833300000000009,Cartagena (1183.0),Spain
+1185.0,Morehead City,Sea,Unknown,Open,USA,34.71770000000006,-76.67449999999995,Morehead City (1185.0),United States of America
+1186.0,Morro Bay,Sea,Unknown,Open,USA,35.3568,-120.85,Morro Bay (1186.0),United States of America
+1190.0,Yorktown,Sea,Unknown,Open,USA,37.22240000000002,-76.49839999999996,Yorktown (1190.0),United States of America
+1193.0,Varna,Unknown,Unknown,Unknown,BGR,43.183299999999186,27.966699999999612,Varna (1193.0),Bulgaria
+1194.0,Visby,Sea,Unknown,Unknown,SWE,57.63999999999978,18.295500000000093,Visby (1194.0),Sweden
+1195.0,Pozzallo,Sea,Unknown,Unknown,ITA,36.72089999999999,14.845700000000026,Pozzallo (1195.0),Italy
+1196.0,Ustica,Sea,Unknown,Unknown,ITA,38.70489999999993,13.185699999999999,Ustica (1196.0),Italy
+1198.0,Stralsund,Sea,Unknown,Unknown,DEU,54.30389999999992,13.113299999999988,Stralsund (1198.0),Germany
+1199.0,Hamina,Sea,Unknown,Unknown,FIN,60.566899999999414,27.181499999999623,Hamina (1199.0),Finland
+1200.0,Kaskinen,Sea,Unknown,Unknown,FIN,62.38199999999999,21.2373,Kaskinen (1200.0),Finland
+1201.0,Brixham,Sea,Unknown,Unknown,GBR,50.40009999999975,-3.514699999999963,Brixham (1201.0),U.K. of Great Britain & Northern Ireland
+1202.0,Moana,Sea,Unknown,Unknown,ESP,42.286599999999595,-8.720699999999896,Moana (1202.0),Spain
+1203.0,Muros,Sea,Unknown,Unknown,ESP,42.7808,-9.055,Muros (1203.0),Spain
+1204.0,San Sebastian,Sea,Unknown,Unknown,ESP,43.32610000000033,-1.9782000000000137,San Sebastian (1204.0),Spain
+1207.0,Bejaia,Sea,Unknown,Open,DZA,36.75120000000017,5.079700000000002,Bejaia (1207.0),Algeria
+1211.0,Ayamonte,Sea,Unknown,Unknown,ESP,37.2144,-7.4069,Ayamonte (1211.0),Spain
+1213.0,Calvi,Sea,Unknown,Unknown,FRA,42.574699999999964,8.755900000000084,Calvi (1213.0),France
+1214.0,Sidi Ifni,Sea,Unknown,Unknown,MAR,29.3582,-10.1909,Sidi Ifni (1214.0),Morocco
+1222.0,Tripoli,Sea,Medium,Unknown,LBY,32.90409999999999,13.18100000000003,Tripoli (1222.0),Libya
+1223.0,Manila,Sea,Large,Unknown,PHL,14.589399999998479,120.96100000000797,Manila (1223.0),Philippines
+1228.0,Escanaba,Lake,Unknown,Open,USA,45.7523,-87.0564,Escanaba (1228.0),United States of America
+1229.0,Duluth,Lake,Unknown,Open,USA,46.80290000000005,-92.04829999999971,Duluth (1229.0),United States of America
+1230.0,Silver Bay,Lake,Unknown,Open,USA,47.2771,-91.257,Silver Bay (1230.0),United States of America
+1232.0,Petoskey,Lake,Unknown,Open,USA,45.372,-84.9652,Petoskey (1232.0),United States of America
+1248.0,Orange,Sea,Unknown,Open,USA,30.09009999999994,-93.73619999999949,Orange (1248.0),United States of America
+1249.0,Burlington,Sea,Unknown,Open,USA,40.08190000000027,-74.85259999999889,Burlington (1249.0),United States of America
+1250.0,Port Jefferson,Sea,Unknown,Open,USA,40.95550000000002,-73.05000000000007,Port Jefferson (1250.0),United States of America
+1251.0,Saugerties,Sea,Unknown,Open,USA,42.0737000000001,-73.94379999999967,Saugerties (1251.0),United States of America
+1255.0,Kelso,Sea,Unknown,Open,USA,46.10010000000061,-122.89499999999694,Kelso (1255.0),United States of America
+1257.0,Galveston,Sea,Unknown,Open,USA,29.27650000000507,-94.8349999999966,Galveston (1257.0),United States of America
+1258.0,Marrero,Sea,Unknown,Open,USA,29.9032999999998,-90.10389999999863,Marrero (1258.0),United States of America
+1259.0,Salisbury,Sea,Unknown,Open,USA,38.34910000000001,-75.62080000000002,Salisbury (1259.0),United States of America
+1260.0,Hoboken,Sea,Unknown,Open,USA,40.740900000002554,-74.02689999999741,Hoboken (1260.0),United States of America
+1265.0,Bay Roberts,Sea,Unknown,Open,CAN,47.58799999999999,-53.27590000000001,Bay Roberts (1265.0),Canada
+1266.0,Orcas,Sea,Unknown,Open,USA,48.59799999999996,-122.93600000000039,Orcas (1266.0),United States of America
+1272.0,Kastrup,Sea,Unknown,Unknown,DNK,55.63639999999962,12.65909999999946,Kastrup (1272.0),Denmark
+1273.0,Itea,Sea,Unknown,Unknown,GRC,38.4321,22.4231,Itea (1273.0),Greece
+1274.0,Portoferraio,Sea,Unknown,Unknown,ITA,42.814100000001844,10.309099999999956,Portoferraio (1274.0),Italy
+1275.0,Deauville,Sea,Unknown,Unknown,FRA,49.36850000000002,0.08170000000000006,Deauville (1275.0),France
+1276.0,Bar,Sea,Unknown,Unknown,MNE,42.085,19.0919,Bar (1276.0),Montenegro
+1277.0,Norderney,Sea,Unknown,Unknown,DEU,53.709300000001114,7.20529999999979,Norderney (1277.0),Germany
+1278.0,Farsund,Sea,Unknown,Unknown,NOR,58.08069999999924,6.809299999999916,Farsund (1278.0),Norway
+1279.0,Lillesand,Sea,Unknown,Unknown,NOR,58.23459999999984,8.352099999999991,Lillesand (1279.0),Norway
+1282.0,Ambriz,Sea,Unknown,Open,AGO,-7.84837,13.1149,Ambriz (1282.0),Angola
+1284.0,Paranagua,Sea,Unknown,Unknown,BRA,-25.5075,-48.508,Paranagua (1284.0),Brazil
+1286.0,Harwich,Sea,Unknown,Unknown,GBR,51.936500000002646,1.274100000000007,Harwich (1286.0),U.K. of Great Britain & Northern Ireland
+1287.0,Cannes,Sea,Unknown,Unknown,FRA,43.54959999999868,7.026699999999816,Cannes (1287.0),France
+1288.0,Koper,Sea,Unknown,Unknown,SVN,45.54349999999978,13.744500000000503,Koper (1288.0),Slovenia
+1289.0,Porto Santo Stefano,Sea,Unknown,Unknown,ITA,42.43429999999996,11.0933,Porto Santo Stefano (1289.0),Italy
+1290.0,Pula,Sea,Unknown,Unknown,HRV,44.87199999999967,13.840900000000088,Pula (1290.0),Croatia
+1292.0,Truro,Sea,Unknown,Unknown,GBR,50.25990000000001,-5.045399999999985,Truro (1292.0),U.K. of Great Britain and Northern Ireland
+1293.0,Par,Sea,Unknown,Unknown,GBR,50.34929999999999,-4.700000000000001,Par (1293.0),U.K. of Great Britain and Northern Ireland
+1294.0,Deal,Sea,Unknown,Unknown,GBR,51.2088999999985,1.39789999999996,Deal (1294.0),U.K. of Great Britain and Northern Ireland
+1295.0,Cardiff,Sea,Unknown,Unknown,GBR,51.46299999999981,-3.1729000000000216,Cardiff (1295.0),U.K. of Great Britain and Northern Ireland
+1296.0,Avonmouth,Sea,Unknown,Unknown,GBR,51.49980000000017,-2.7182000000000697,Avonmouth (1296.0),U.K. of Great Britain and Northern Ireland
+1297.0,Portbury,Sea,Unknown,Unknown,GBR,51.501200000000125,-2.7309000000000108,Portbury (1297.0),U.K. of Great Britain and Northern Ireland
+1298.0,Coryton,Sea,Unknown,Unknown,GBR,51.518600000003424,0.5202999999999764,Coryton (1298.0),U.K. of Great Britain and Northern Ireland
+1299.0,Pembroke,Sea,Unknown,Unknown,GBR,51.6828999999998,-4.9243999999999115,Pembroke (1299.0),U.K. of Great Britain and Northern Ireland
+1300.0,Dunmore East,Sea,Unknown,Unknown,IRL,52.15490000000014,-6.987000000000049,Dunmore East (1300.0),Ireland
+1301.0,Groningen,Sea,Unknown,Unknown,NLD,53.2246,6.602100000000005,Groningen (1301.0),Netherlands
+1302.0,Ghazaouet,Sea,Unknown,Open,DZA,35.10989999999997,-1.8632000000000022,Ghazaouet (1302.0),Algeria
+1303.0,Al Hoceima,Sea,Unknown,Open,MAR,35.257,-3.9107,Al Hoceima (1303.0),Morocco
+1304.0,Skikda,Sea,Unknown,Open,DZA,36.890500000000095,6.907100000000011,Skikda (1304.0),Algeria
+1311.0,Stanley,Sea,Unknown,Unknown,AUS,-40.7625,145.299,Stanley (1311.0),Australia
+1313.0,Port Kembla,Sea,Unknown,Unknown,AUS,-34.46349999999993,150.90199999999987,Port Kembla (1313.0),Australia
+1316.0,Tramandai,Sea,Unknown,Unknown,BRA,-29.9726,-50.1111,Tramandai (1316.0),Brazil
+1317.0,Imbituba,Sea,Unknown,Unknown,BRA,-28.2267,-48.6484,Imbituba (1317.0),Brazil
+1324.0,Okha,Sea,Unknown,Unknown,IND,22.470199999999995,69.0831,Okha (1324.0),India
+1325.0,Yantian,Sea,Unknown,Unknown,CHN,22.5764000000004,114.26099999999869,Yantian (1325.0),China
+1326.0,Sakito,Sea,Unknown,Unknown,JPN,33.0095,129.562,Sakito (1326.0),Japan
+1329.0,Yokosuka,Sea,Unknown,Unknown,JPN,35.284299999999426,139.65799999999695,Yokosuka (1329.0),Japan
+1331.0,Hereke,Sea,Unknown,Unknown,TUR,40.707100000000054,29.621500000000047,Hereke (1331.0),Turkey
+1332.0,Ayancik,Sea,Unknown,Unknown,TUR,41.9495,34.5779,Ayancik (1332.0),Turkey
+1340.0,Tauranga,Sea,Unknown,Unknown,NZL,-37.6942,176.162,Tauranga (1340.0),New Zealand
+1347.0,Fayid,Sea,Unknown,Unknown,EGY,30.334399999999988,32.30470000000002,Fayid (1347.0),Egypt
+1348.0,Miike,Sea,Unknown,Unknown,JPN,33.0063,130.431,Miike (1348.0),Japan
+1353.0,Seletar,Sea,Unknown,Unknown,SGP,1.4095299999999953,103.83599999999977,Seletar (1353.0),Singapore
+1358.0,Pusan,Sea,Unknown,Unknown,KOR,35.1236999999967,129.0619999999721,Pusan (1358.0),Republic of Korea
+1361.0,Yingkou,Sea,Unknown,Unknown,CHN,40.6892,122.27,Yingkou (1361.0),China
+1362.0,Tuzla,Sea,Unknown,Unknown,TUR,40.82709999999776,29.32550000000171,Tuzla (1362.0),Turkey
+1364.0,Turku,Sea,Unknown,Unknown,FIN,60.44250000000161,22.219299999999492,Turku (1364.0),Finland
+1366.0,Canakkale,Sea,Large,Unknown,TUR,40.1483,26.402300000000004,Canakkale (1366.0),Turkey
+1367.0,Buenos Aires,Sea,Large,Unknown,ARG,-34.602600000000116,-58.37470000000018,Buenos Aires (1367.0),Argentina
+1369.0,Valparaiso,Sea,Medium,Unknown,CHL,-33.036700000000074,-71.63310000000038,Valparaiso (1369.0),Chile
+1373.0,Freeport,Sea,Medium,Unknown,BHS,26.515000000000114,-78.63239999999993,Freeport (1373.0),Bahamas
+1376.0,Quintero,Sea,Small,Unknown,CHL,-32.77980000000021,-71.55060000000095,Quintero (1376.0),Chile
+1383.0,Inebolu,Sea,Small,Unknown,TUR,41.98450000000002,33.75070000000004,Inebolu (1383.0),Turkey
+1386.0,Bridgetown,Sea,Small,Unknown,BRB,13.099500000000008,-59.625,Bridgetown (1386.0),Barbados
+1391.0,Cienfuegos,Sea,Medium,Unknown,CUB,22.1412,-80.4563,Cienfuegos (1391.0),Cuba
+1394.0,Ramallo,River,Small,Unknown,ARG,-33.4667,-60.0235,Ramallo (1394.0),Argentina
+1395.0,Hambantota,Sea,Very Small,Unknown,LKA,6.12893,81.1347,Hambantota (1395.0),Sri Lanka
+1400.0,Port Said,Sea,Medium,Open,EGY,31.243300000000445,32.30090000000058,Port Said (1400.0),Egypt
+1403.0,Hadera,Sea,Very Small,Open,ISR,32.46309999999995,34.88720000000007,Hadera (1403.0),Israel
+1404.0,Hamburg,Sea,Unknown,Unknown,DEU,53.54630000000348,9.98089999999802,Hamburg (1404.0),Germany
+1405.0,Norddeich,Sea,Unknown,Unknown,DEU,53.62529999999972,7.157699999999871,Norddeich (1405.0),Germany
+1406.0,Goole,Sea,Unknown,Unknown,GBR,53.70579999999981,-0.8720000000000079,Goole (1406.0),U.K. of Great Britain and Northern Ireland
+1407.0,Drogheda,Sea,Unknown,Unknown,IRL,53.71730000000018,-6.329999999999963,Drogheda (1407.0),Ireland
+1408.0,Whitby,Sea,Unknown,Unknown,GBR,54.49040000000085,-0.6204000000000102,Whitby (1408.0),U.K. of Great Britain and Northern Ireland
+1409.0,Nysted,Sea,Unknown,Unknown,DNK,54.66510000000014,11.734100000000021,Nysted (1409.0),Denmark
+1410.0,Kerteminde,Sea,Unknown,Unknown,DNK,55.45110000000019,10.659299999999952,Kerteminde (1410.0),Denmark
+1411.0,Kolding,Sea,Unknown,Unknown,DNK,55.48949999999978,9.509499999999996,Kolding (1411.0),Denmark
+1412.0,Old Kilpatrick,Sea,Unknown,Unknown,GBR,55.91409999999997,-4.450500000000005,Old Kilpatrick (1412.0),U.K. of Great Britain and Northern Ireland
+1413.0,Ardrishaig,Sea,Unknown,Unknown,GBR,56.0215,-5.449,Ardrishaig (1413.0),U.K. of Great Britain and Northern Ireland
+1415.0,North Berwick,Sea,Unknown,Unknown,GBR,56.060300000000275,-2.7172000000000307,North Berwick (1415.0),U.K. of Great Britain and Northern Ireland
+1416.0,Randers,Sea,Unknown,Unknown,DNK,56.457099999999684,10.067299999999971,Randers (1416.0),Denmark
+1417.0,Mariager,Sea,Unknown,Unknown,DNK,56.65189999999998,9.987899999999998,Mariager (1417.0),Denmark
+1418.0,Strangnas,Sea,Unknown,Unknown,SWE,59.37840000000003,17.0481,Strangnas (1418.0),Sweden
+1419.0,Lysaker,Sea,Unknown,Unknown,NOR,59.90189999999751,10.611900000001212,Lysaker (1419.0),Norway
+1420.0,Sandarne,Sea,Unknown,Unknown,SWE,61.2603,17.1803,Sandarne (1420.0),Sweden
+1427.0,Santa Marta,Sea,Small,Open,COL,11.249200000000096,-74.21570000000044,Santa Marta (1427.0),
+1428.0,Jakarta,Sea,Large,Open,IDN,-6.1043399999999695,106.8029999999999,Jakarta (1428.0),
+1429.0,Tanjung Priok,Sea,Large,Open,IDN,-6.104920000000147,106.8760000000074,Tanjung Priok (1429.0),Indonesia
+1435.0,Port Tampa,Sea,Unknown,Open,USA,27.87909999999948,-82.53179999999755,Port Tampa (1435.0),United States of America
+1437.0,El Segundo,Sea,Unknown,Open,USA,33.90029999999981,-118.41500000000075,El Segundo (1437.0),United States of America
+1444.0,Davant,Sea,Unknown,Open,USA,29.597299999999958,-89.84059999999975,Davant (1444.0),United States of America
+1445.0,Pasadena,Sea,Unknown,Open,USA,29.72070000000003,-95.2168999999995,Pasadena (1445.0),United States of America
+1446.0,Cameron,Sea,Unknown,Open,USA,29.78600000000005,-93.32160000000097,Cameron (1446.0),United States of America
+1447.0,Everett,Sea,Unknown,Open,USA,47.966599999999794,-122.22099999999972,Everett (1447.0),United States of America
+1448.0,Hopewell,Sea,Unknown,Open,USA,37.3059,-77.2835,Hopewell (1448.0),United States of America
+1449.0,San Mateo,Sea,Unknown,Open,USA,37.57250000000019,-122.3020000000011,San Mateo (1449.0),United States of America
+1451.0,Alexandria,Unknown,Unknown,Unknown,USA,38.799999999999976,-77.03330000000004,Alexandria (1451.0),United States of America
+1453.0,Antibes,Sea,Unknown,Unknown,FRA,43.588900000001736,7.122699999999901,Antibes (1453.0),France
+1454.0,Wallhamn,Sea,Unknown,Unknown,SWE,58.0095000000001,11.705500000000027,Wallhamn (1454.0),Sweden
+1455.0,Skiathos,Sea,Unknown,Unknown,GRC,39.1701,23.501300000000008,Skiathos (1455.0),Greece
+1456.0,Sagunto,Sea,Unknown,Unknown,ESP,39.652699999999115,-0.21120000000000205,Sagunto (1456.0),Spain
+1457.0,Biarritz,Sea,Unknown,Unknown,FRA,43.487099999999494,-1.5669000000000102,Biarritz (1457.0),France
+1458.0,Forsmark,Sea,Unknown,Unknown,SWE,60.390000000000015,18.2269,Forsmark (1458.0),Sweden
+1459.0,Mongstad,Sea,Unknown,Unknown,NOR,60.81390000000424,5.031900000000768,Mongstad (1459.0),Norway
+1460.0,Torquay,Sea,Unknown,Unknown,GBR,50.46509999999983,-3.537000000000013,Torquay (1460.0),U.K. of Great Britain & Northern Ireland
+1461.0,Parga,Sea,Unknown,Unknown,GRC,39.2881,20.3883,Parga (1461.0),Greece
+1462.0,Douarnenez,Sea,Unknown,Unknown,FRA,48.099100000000064,-4.342600000000002,Douarnenez (1462.0),France
+1463.0,Paris,Sea,Unknown,Unknown,FRA,48.8604,2.3393,Paris (1463.0),France
+1464.0,Faro,Sea,Unknown,Unknown,PRT,37.01360000000005,-7.941599999999996,Faro (1464.0),Portugal
+1465.0,Portimao,Sea,Unknown,Unknown,PRT,37.13050000000013,-8.52839999999999,Portimao (1465.0),Portugal
+1466.0,Denia,Sea,Unknown,Unknown,ESP,38.836099999999995,0.11850000000000002,Denia (1466.0),Spain
+1467.0,Keramoti,Sea,Unknown,Unknown,GRC,40.87120000000085,24.71970000000054,Keramoti (1467.0),Greece
+1468.0,Bordeaux,Sea,Unknown,Unknown,FRA,44.8397,-0.5656,Bordeaux (1468.0),France
+1469.0,Lyngor,Sea,Unknown,Unknown,NOR,58.641900000000035,9.122099999999994,Lyngor (1469.0),Norway
+1470.0,Otterbacken,Sea,Unknown,Unknown,SWE,58.95640000000002,14.0437,Otterbacken (1470.0),Sweden
+1471.0,Enkoping,Sea,Unknown,Unknown,SWE,59.6046,17.073299999999996,Enkoping (1471.0),Sweden
+1472.0,Norrtalje,Sea,Unknown,Unknown,SWE,59.757,18.730099999999997,Norrtalje (1472.0),Sweden
+1477.0,Selaata,Sea,Very Small,Open,LBN,34.28160000000002,35.6567,Selaata (1477.0),Lebanon
+1489.0,Kopmanholmen,Sea,Unknown,Unknown,SWE,63.1787,18.5917,Kopmanholmen (1489.0),Sweden
+1495.0,Limassol,Sea,Unknown,Open,CYP,34.68090000000254,33.06449999999749,Limassol (1495.0),Cyprus
+1498.0,Ahus,Sea,Unknown,Unknown,SWE,55.93230000000025,14.322099999999978,Ahus (1498.0),Sweden
+1500.0,Hamilton,Lake,Unknown,Open,CAN,43.250600000000006,-79.75109999999998,Hamilton (1500.0),Canada
+1508.0,Searsport,Sea,Unknown,Open,USA,44.4547,-68.92830000000002,Searsport (1508.0),United States of America
+1511.0,Masset,Sea,Unknown,Open,CAN,54.0383,-132.144,Masset (1511.0),Canada
+1512.0,Donaldsonville,Sea,Unknown,Open,USA,30.108099999999425,-90.99700000000232,Donaldsonville (1512.0),United States of America
+1513.0,Clinton,Sea,Unknown,Open,USA,41.26749999999996,-72.52109999999996,Clinton (1513.0),United States of America
+1514.0,Provincetown,Sea,Unknown,Open,USA,42.0567,-70.1853,Provincetown (1514.0),United States of America
+1515.0,Alsen,Sea,Unknown,Open,USA,42.22550000000032,-73.87380000000084,Alsen (1515.0),United States of America
+1516.0,Cornwall,Sea,Unknown,Open,CAN,45.015,-74.7434,Cornwall (1516.0),Canada
+1517.0,Kalama,Sea,Unknown,Open,USA,46.01140000000145,-122.85300000000218,Kalama (1517.0),United States of America
+1518.0,Olympia,Sea,Unknown,Open,USA,47.046499999999966,-122.89699999999995,Olympia (1518.0),United States of America
+1519.0,Holyrood,Sea,Unknown,Open,CAN,47.3864,-53.1383,Holyrood (1519.0),Canada
+1521.0,Freeport,Sea,Unknown,Open,USA,28.94700000000011,-95.35070000000238,Freeport (1521.0),United States of America
+1522.0,San Diego,Sea,Unknown,Open,USA,32.65160000000012,-117.11500000000082,San Diego (1522.0),United States of America
+1523.0,Perth Amboy,Sea,Unknown,Open,USA,40.513500000000846,-74.26720000000186,Perth Amboy (1523.0),United States of America
+1524.0,Yarmouth,Sea,Unknown,Open,USA,43.7973,-70.1808,Yarmouth (1524.0),United States of America
+1525.0,Le Havre,Sea,Unknown,Unknown,FRA,49.48530000000027,0.10810000000001296,Le Havre (1525.0),France
+1526.0,Nanaimo,Sea,Unknown,Open,CAN,49.16599999999855,-123.93499999999811,Nanaimo (1526.0),Canada
+1529.0,Grasten,Sea,Unknown,Unknown,DNK,54.90970000000005,9.6007,Grasten (1529.0),Denmark
+1530.0,Tayport,Sea,Unknown,Unknown,GBR,56.44059999999996,-2.948600000000023,Tayport (1530.0),U.K. of Great Britain & Northern Ireland
+1531.0,Buckie,Sea,Unknown,Unknown,GBR,57.685300000000005,-2.9554999999999993,Buckie (1531.0),U.K. of Great Britain & Northern Ireland
+1532.0,Katakolon,Sea,Unknown,Unknown,GRC,37.6493,21.3227,Katakolon (1532.0),Greece
+1533.0,Perama,Sea,Unknown,Unknown,GRC,37.96329999997775,23.566700000007174,Perama (1533.0),Greece
+1534.0,Messina,Sea,Unknown,Unknown,ITA,38.175700000000354,15.567499999999542,Messina (1534.0),Italy
+1535.0,Piombino,Sea,Unknown,Unknown,ITA,42.932100000000936,10.544499999999973,Piombino (1535.0),Italy
+1536.0,Oaxen,Sea,Unknown,Unknown,SWE,58.95720000000018,17.716100000000388,Oaxen (1536.0),Sweden
+1537.0,Gluckstadt,Sea,Unknown,Unknown,DEU,53.74760000000103,9.3995,Gluckstadt (1537.0),Germany
+1538.0,Vallejo,Sea,Unknown,Open,USA,38.076900000000016,-122.26800000000333,Vallejo (1538.0),United States of America
+1539.0,Piney Point,Sea,Unknown,Open,USA,38.135599999999926,-76.52759999999994,Piney Point (1539.0),United States of America
+1540.0,New Castle,Sea,Unknown,Open,USA,39.65350000000027,-75.55870000000081,New Castle (1540.0),United States of America
+1541.0,Camden,Sea,Unknown,Open,USA,39.92749999999665,-75.12920000000973,Camden (1541.0),United States of America
+1542.0,Woods Hole,Sea,Unknown,Open,USA,41.523300000000496,-70.6704000000007,Woods Hole (1542.0),United States of America
+1543.0,Emden,Sea,Unknown,Unknown,DEU,53.35769999999502,7.2019000000000215,Emden (1543.0),Germany
+1544.0,Sakai,Sea,Unknown,Unknown,JPN,34.555500000007505,135.41900000002897,Sakai (1544.0),Japan
+1546.0,Heroya,Sea,Unknown,Unknown,NOR,59.1022999999988,9.587500000000446,Heroya (1546.0),Norway
+1547.0,Maloy,Sea,Unknown,Unknown,NOR,61.934799999995384,5.039500000000064,Maloy (1547.0),Norway
+1548.0,Canvey Island,Sea,Unknown,Unknown,GBR,51.51670000000008,0.6085000000000013,Canvey Island (1548.0),U.K. of Great Britain & Northern Ireland
+1549.0,Whitstable,Sea,Unknown,Unknown,GBR,51.356700000000046,1.0065000000000017,Whitstable (1549.0),U.K. of Great Britain & Northern Ireland
+1550.0,Bayonne,Sea,Unknown,Unknown,FRA,43.495399999999805,-1.4663000000000272,Bayonne (1550.0),France
+1551.0,Medgidia,Sea,Unknown,Unknown,ROU,44.254100000000065,28.277700000000035,Medgidia (1551.0),Romania
+1552.0,Libourne,Sea,Unknown,Unknown,FRA,44.9077,-0.2436,Libourne (1552.0),France
+1555.0,Penzance,Sea,Unknown,Unknown,GBR,50.11679999999995,-5.5328000000000035,Penzance (1555.0),U.K. of Great Britain and Northern Ireland
+1556.0,Duisburg,Sea,Unknown,Unknown,DEU,51.40729999999938,6.7527000000000035,Duisburg (1556.0),Germany
+1557.0,Fishguard,Sea,Unknown,Unknown,GBR,52.00330000000002,-4.973200000000001,Fishguard (1557.0),U.K. of Great Britain and Northern Ireland
+1558.0,Beaumaris,Sea,Unknown,Unknown,GBR,53.26499999999994,-4.101599999999989,Beaumaris (1558.0),U.K. of Great Britain and Northern Ireland
+1559.0,Port Sunlight,Sea,Unknown,Unknown,GBR,53.34929999999998,-2.9786,Port Sunlight (1559.0),U.K. of Great Britain and Northern Ireland
+1564.0,Sakaide,Sea,Unknown,Open,JPN,34.3566,133.852,Sakaide (1564.0),Japan
+1566.0,Annaba,Sea,Unknown,Open,DZA,36.907899999999984,7.7808999999999955,Annaba (1566.0),Algeria
+1569.0,Uraga,Sea,Unknown,Open,JPN,35.224600000001324,139.71900000002518,Uraga (1569.0),Japan
+1572.0,Bunbury,Sea,Unknown,Unknown,AUS,-33.3218,115.64199999999991,Bunbury (1572.0),Australia
+1577.0,Port Hedland,Sea,Unknown,Unknown,AUS,-20.300400000000078,118.57199999999291,Port Hedland (1577.0),Australia
+1578.0,Maceio,Sea,Unknown,Unknown,BRA,-9.673369999999988,-35.727599999999995,Maceio (1578.0),Brazil
+1582.0,Cavite,Sea,Unknown,Unknown,PHL,14.480900000000084,120.90500000000674,Cavite (1582.0),Philippines
+1584.0,Cide,Sea,Unknown,Unknown,TUR,41.91649999999996,33.011099999999985,Cide (1584.0),Turkey
+1587.0,Kronshtadt,Sea,Unknown,Unknown,RUS,59.98850000000249,29.775099999999345,Kronshtadt (1587.0),Russian Federation
+1588.0,Primorsk,Sea,Unknown,Unknown,RUS,60.36250000000205,28.62449999999952,Primorsk (1588.0),Russian Federation
+1590.0,Launceston,Sea,Unknown,Unknown,AUS,-41.4402,147.12699999999998,Launceston (1590.0),Australia
+1591.0,Ulverstone,Sea,Unknown,Unknown,AUS,-41.1549,146.182,Ulverstone (1591.0),Australia
+1593.0,Portland,Sea,Unknown,Unknown,AUS,-38.3332,141.607,Portland (1593.0),Australia
+1594.0,Melbourne,Sea,Unknown,Unknown,AUS,-37.82430000000021,144.9469999999961,Melbourne (1594.0),Australia
+1595.0,San Fernando,Sea,Unknown,Unknown,ARG,-34.4526,-58.50529999999999,San Fernando (1595.0),Argentina
+1607.0,Kawasaki,Sea,Unknown,Unknown,JPN,35.53049999999423,139.75999999997208,Kawasaki (1607.0),Japan
+1608.0,Choshi,Sea,Unknown,Unknown,JPN,35.736499999999594,140.82899999999847,Choshi (1608.0),Japan
+1611.0,Qinhuangdao,Sea,Unknown,Unknown,CHN,39.91370000000004,119.59499999999981,Qinhuangdao (1611.0),China
+1614.0,Anan,Sea,Unknown,Unknown,JPN,33.92900000000008,134.68799999999973,Anan (1614.0),Japan
+1615.0,Eden,Sea,Unknown,Unknown,AUS,-37.0727,149.9,Eden (1615.0),Australia
+1616.0,Fremantle,Sea,Unknown,Unknown,AUS,-32.098400000001654,115.76000000000526,Fremantle (1616.0),Australia
+1618.0,Kuala Belait,Sea,Unknown,Unknown,BRN,4.58933,114.177,Kuala Belait (1618.0),Brunei Darussalam
+1619.0,Muara,Sea,Unknown,Unknown,BRN,5.01893,115.067,Muara (1619.0),Brunei Darussalam
+1622.0,Basuo,Sea,Unknown,Unknown,CHN,19.096599999999995,108.61799999999997,Basuo (1622.0),China
+1628.0,Shiogama,Sea,Unknown,Unknown,JPN,38.3213999999999,141.0319999999996,Shiogama (1628.0),Japan
+1639.0,Balboa,Sea,Medium,Unknown,PAN,8.96003,-79.5613,Balboa (1639.0),Panama
+1640.0,Cirebon,Sea,Medium,Unknown,IDN,-6.70907,108.57100000000001,Cirebon (1640.0),
+1643.0,Mudanya,Sea,Small,Unknown,TUR,40.39409999999999,28.863699999999998,Mudanya (1643.0),Turkey
+1644.0,Karabiga,Sea,Small,Unknown,TUR,40.41460000000003,27.30009999999998,Karabiga (1644.0),Turkey
+1645.0,Sinop,Sea,Small,Unknown,TUR,42.0178,35.1523,Sinop (1645.0),Turkey
+1649.0,Progreso,Sea,Small,Unknown,MEX,21.292400000000168,-89.65050000000139,Progreso (1649.0),Mexico
+1653.0,Rize,Sea,Small,Unknown,TUR,41.02530000000001,40.5211,Rize (1653.0),Turkey
+1656.0,La Brea,Sea,Very Small,Unknown,TTO,10.24180000000001,-61.62740000000008,La Brea (1656.0),Trinidad and Tobago
+1658.0,Carrington,Sea,Unknown,Unknown,GBR,53.46799999999995,-2.3409000000000026,Carrington (1658.0),U.K. of Great Britain and Northern Ireland
+1661.0,Suez,Sea,Large,Open,EGY,29.966699999999953,32.550000000000075,Suez (1661.0),Egypt
+1666.0,Abu Qir,Sea,Small,Open,EGY,31.31669999999996,30.066699999999948,Abu Qir (1666.0),Egypt
+1671.0,Makassar,Sea,Medium,Open,IDN,-5.132219999999968,119.40299999999971,Makassar (1671.0),Indonesia
+1673.0,Balikpapan,Sea,Medium,Open,IDN,-1.2552699999999974,116.8159999999999,Balikpapan (1673.0),
+1680.0,Lavan,Sea,Very Small,Open,IRN,26.794599999999974,53.33009999999996,Lavan (1680.0),Iran (Islamic Republic of)
+1684.0,Phu My,River,Small,Open,VNM,10.5983,107.024,Phu My (1684.0),Viet Nam
+1688.0,Hull,Sea,Unknown,Unknown,GBR,53.73989999999128,-0.33799999999999464,Hull (1688.0),U.K. of Great Britain and Northern Ireland
+1689.0,Wismar,Sea,Unknown,Unknown,DEU,53.8993999999998,11.454299999999785,Wismar (1689.0),Germany
+1690.0,Greenore,Sea,Unknown,Unknown,IRL,54.029900000000595,-6.132500000000067,Greenore (1690.0),Ireland
+1693.0,Palnackie,Sea,Unknown,Unknown,GBR,54.8761,-3.831,Palnackie (1693.0),U.K. of Great Britain and Northern Ireland
+1694.0,Odense,Sea,Unknown,Unknown,DNK,55.39849999999995,10.400300000000005,Odense (1694.0),Denmark
+1695.0,Skoghall,Sea,Unknown,Unknown,SWE,59.3184,13.473099999999999,Skoghall (1695.0),Sweden
+1696.0,Struer,Sea,Unknown,Unknown,DNK,56.49170000000003,8.60430000000001,Struer (1696.0),Denmark
+1697.0,Portree,Sea,Unknown,Unknown,GBR,57.41820000000006,-6.190800000000003,Portree (1697.0),U.K. of Great Britain and Northern Ireland
+1698.0,Menstad,Sea,Unknown,Unknown,NOR,59.14800000000001,9.6545,Menstad (1698.0),Norway
+1699.0,Fagerstrand,Sea,Unknown,Unknown,NOR,59.73009999999999,10.597299999999974,Fagerstrand (1699.0),Norway
+1700.0,Odda,Sea,Unknown,Unknown,NOR,60.07609999999909,6.544100000000052,Odda (1700.0),Norway
+1701.0,Helsinki,Sea,Unknown,Unknown,FIN,60.157899999998406,24.9375,Helsinki (1701.0),Finland
+1702.0,Norheimsund,Sea,Unknown,Unknown,NOR,60.36589999999913,6.159299999999999,Norheimsund (1702.0),Norway
+1703.0,Isnas,Sea,Unknown,Unknown,FIN,60.4039,26.0323,Isnas (1703.0),Finland
+1704.0,Akranes,Sea,Unknown,Unknown,ISL,64.3286,-22.0791,Akranes (1704.0),Iceland
+1707.0,Ej Jiye,Unknown,Very Small,Open,LBN,33.64930000000002,35.40689999999997,Ej Jiye (1707.0),Lebanon
+1710.0,Huron,Lake,Unknown,Open,USA,41.4091,-82.5855,Huron (1710.0),United States of America
+1712.0,Enfe,Unknown,Very Small,Open,LBN,34.3602,35.7298,Enfe (1712.0),Lebanon
+1714.0,Grand Isle,Sea,Unknown,Open,USA,29.233899999999977,-90.0,Grand Isle (1714.0),United States of America
+1715.0,Gulfport,Sea,Unknown,Open,USA,30.35450000000002,-89.08729999999997,Gulfport (1715.0),United States of America
+1716.0,Alameda,Sea,Unknown,Open,USA,37.79629999999355,-122.3129999999897,Alameda (1716.0),United States of America
+1717.0,Whitegate,Sea,Unknown,Unknown,IRL,51.83140000000071,-8.251200000000072,Whitegate (1717.0),Ireland
+1720.0,La Goulette,Sea,Unknown,Open,TUN,36.81410000000004,10.298499999999994,La Goulette (1720.0),Tunisia
+1721.0,Port Gamble,Sea,Unknown,Open,USA,47.85740000000009,-122.58199999999957,Port Gamble (1721.0),United States of America
+1722.0,Coupeville,Sea,Unknown,Open,USA,48.219300000000274,-122.67899999999939,Coupeville (1722.0),United States of America
+1723.0,Makurazaki,Sea,Unknown,Open,JPN,31.26159999999999,130.29199999999997,Makurazaki (1723.0),Japan
+1724.0,Port Everglades,Sea,Unknown,Open,USA,26.090200000001836,-80.11680000000044,Port Everglades (1724.0),United States of America
+1726.0,Tappahannock,Sea,Unknown,Open,USA,37.9207,-76.855,Tappahannock (1726.0),United States of America
+1730.0,Port Hardy,Sea,Unknown,Open,CAN,50.71930000000023,-127.49100000000097,Port Hardy (1730.0),Canada
+1732.0,Uig,Sea,Unknown,Unknown,GBR,57.59110000000002,-6.3647,Uig (1732.0),U.K. of Great Britain and Northern Ireland
+1733.0,Lochmaddy,Sea,Unknown,Unknown,GBR,57.596500000000056,-7.177500000000006,Lochmaddy (1733.0),U.K. of Great Britain and Northern Ireland
+1735.0,Amorgos,Sea,Unknown,Unknown,GRC,36.8321,25.864100000000004,Amorgos (1735.0),Greece
+1736.0,Kos,Sea,Unknown,Unknown,GRC,36.90630000000004,27.287900000000015,Kos (1736.0),Greece
+1737.0,Gandia,Sea,Unknown,Unknown,ESP,38.98950000000001,-0.14789999999999998,Gandia (1737.0),Spain
+1738.0,Procida,Sea,Unknown,Unknown,ITA,40.76190000000472,14.029899999999543,Procida (1738.0),Italy
+1739.0,Anzio,Sea,Unknown,Unknown,ITA,41.4481,12.633299999999998,Anzio (1739.0),Italy
+1740.0,Viareggio,Sea,Unknown,Unknown,ITA,43.86369999999997,10.242900000000079,Viareggio (1740.0),Italy
+1741.0,Almeria,Sea,Unknown,Unknown,ESP,36.837999999999795,-2.4659999999999576,Almeria (1741.0),Spain
+1742.0,Civitavecchia,Sea,Unknown,Unknown,ITA,42.09109999999991,11.78709999999992,Civitavecchia (1742.0),Italy
+1747.0,Gennevilliers,Sea,Unknown,Unknown,FRA,48.9445,2.3188999999999997,Gennevilliers (1747.0),France
+1748.0,Ponta Delgada,Sea,Unknown,Unknown,PRT,37.73730000000049,-25.658500000000245,Ponta Delgada (1748.0),Azores Islands
+1749.0,Horta,Sea,Unknown,Unknown,PRT,38.53470000000013,-28.62700000000023,Horta (1749.0),Azores Islands
+1752.0,Umea,Sea,Unknown,Unknown,SWE,63.8089,20.280899999999885,Umea (1752.0),Sweden
+1764.0,Paphos,Sea,Unknown,Open,CYP,34.7537,32.4157,Paphos (1764.0),Cyprus
+1767.0,Sorel,Sea,Unknown,Open,CAN,46.05180000000065,-73.13099999999952,Sorel (1767.0),Canada
+1770.0,Leland,Lake,Unknown,Open,USA,45.0106,-85.7757,Leland (1770.0),United States of America
+1771.0,Charlevoix,Lake,Unknown,Open,USA,45.3134,-85.2641,Charlevoix (1771.0),United States of America
+1772.0,Oshawa,Lake,Unknown,Open,CAN,43.85889999999998,-78.82860000000002,Oshawa (1772.0),Canada
+1781.0,Dungarvan,Sea,Unknown,Unknown,IRL,52.0935,-7.6247,Dungarvan (1781.0),Ireland
+1782.0,Boston,Sea,Unknown,Open,USA,42.355999999999796,-71.03489999999901,Boston (1782.0),United States of America
+1783.0,Jonesport,Sea,Unknown,Open,USA,44.5285,-67.6093,Jonesport (1783.0),United States of America
+1786.0,Corner Brook,Sea,Unknown,Open,CAN,48.96029999999997,-57.9589999999999,Corner Brook (1786.0),Canada
+1787.0,Prince Rupert,Sea,Unknown,Open,CAN,54.321899999998585,-130.29800000000438,Prince Rupert (1787.0),Canada
+1789.0,Taft,Sea,Unknown,Open,USA,29.996200000000258,-90.42199999999976,Taft (1789.0),United States of America
+1790.0,Convent,Sea,Unknown,Open,USA,30.008500000001217,-90.83460000000137,Convent (1790.0),United States of America
+1792.0,Paulsboro,Sea,Unknown,Open,USA,39.84299999999661,-75.25250000000199,Paulsboro (1792.0),United States of America
+1793.0,New London,Sea,Unknown,Open,USA,41.35150000000038,-72.1032000000003,New London (1793.0),United States of America
+1794.0,Vineyard Haven,Sea,Unknown,Open,USA,41.461500000000264,-70.60389999999974,Vineyard Haven (1794.0),United States of America
+1795.0,Scituate,Sea,Unknown,Open,USA,42.1942,-70.7287,Scituate (1795.0),United States of America
+1799.0,Shelton,Sea,Unknown,Open,USA,47.2071999999999,-123.09300000000032,Shelton (1799.0),United States of America
+1800.0,Fort Pierce,Sea,Unknown,Open,USA,27.4389,-80.31830000000001,Fort Pierce (1800.0),United States of America
+1801.0,Texas City,Sea,Unknown,Open,USA,29.379199999997823,-94.88850000000087,Texas City (1801.0),United States of America
+1802.0,Braithwaite,Sea,Unknown,Open,USA,29.851699999999298,-89.97320000000505,Braithwaite (1802.0),United States of America
+1804.0,Baton Rouge,Sea,Unknown,Open,USA,30.466099999999823,-91.19830000000049,Baton Rouge (1804.0),United States of America
+1805.0,Providence,Sea,Unknown,Open,USA,41.80249999999959,-71.39740000000133,Providence (1805.0),United States of America
+1806.0,Portsmouth,Sea,Unknown,Open,USA,43.06829999999996,-70.7591000000001,Portsmouth (1806.0),United States of America
+1808.0,Bellingham,Sea,Unknown,Open,USA,48.76350000000027,-122.50800000000127,Bellingham (1808.0),United States of America
+1811.0,Jedway,Sea,Unknown,Open,CAN,52.2896,-131.212,Jedway (1811.0),Canada
+1814.0,Newport Beach,Sea,Unknown,Open,USA,33.62619999999999,-117.95200000000013,Newport Beach (1814.0),United States of America
+1815.0,Cockenzie,Sea,Unknown,Unknown,GBR,55.975200000000406,-2.9519999999999986,Cockenzie (1815.0),U.K. of Great Britain & Northern Ireland
+1816.0,Lochaline,Sea,Unknown,Unknown,GBR,56.5290999999998,-5.7647,Lochaline (1816.0),U.K. of Great Britain & Northern Ireland
+1817.0,Ermioni,Sea,Unknown,Unknown,GRC,37.379700000000376,23.25029999999977,Ermioni (1817.0),Greece
+1818.0,Alicante,Sea,Unknown,Unknown,ESP,38.337199999999946,-0.4868999999999982,Alicante (1818.0),Spain
+1819.0,Benidorm,Sea,Unknown,Unknown,ESP,38.53050000000001,-0.1159,Benidorm (1819.0),Spain
+1820.0,Dun Laoghaire,Sea,Unknown,Unknown,IRL,53.2900999999986,-6.1268999999998215,Dun Laoghaire (1820.0),Ireland
+1821.0,Thisted,Sea,Unknown,Unknown,DNK,56.94550000000002,8.717299999999998,Thisted (1821.0),Denmark
+1822.0,Kopervik,Sea,Unknown,Unknown,NOR,59.283500000008694,5.318500000000749,Kopervik (1822.0),Norway
+1823.0,Erie,Lake,Unknown,Open,USA,42.1291,-80.09130000000003,Erie (1823.0),United States of America
+1826.0,Arzew,Sea,Unknown,Open,DZA,35.85070000000034,-0.3053000000000018,Arzew (1826.0),Algeria
+1827.0,Nishinomiya,Sea,Unknown,Unknown,JPN,34.726699999999305,135.3339999999879,Nishinomiya (1827.0),Japan
+1828.0,Beykoz,Sea,Unknown,Unknown,TUR,41.127500000000026,29.100500000000007,Beykoz (1828.0),Turkey
+1830.0,Larkollen,Sea,Unknown,Unknown,NOR,59.32090000000005,10.688499999999989,Larkollen (1830.0),Norway
+1832.0,Rasa,Sea,Unknown,Unknown,HRV,45.02569999999998,14.052899999999955,Rasa (1832.0),Croatia
+1833.0,Brightlingsea,Sea,Unknown,Unknown,GBR,51.80730000000002,1.0275000000000023,Brightlingsea (1833.0),U.K. of Great Britain and Northern Ireland
+1834.0,Schiedam,Sea,Unknown,Unknown,NLD,51.89769999998006,4.407900000000197,Schiedam (1834.0),Netherlands
+1835.0,Boston,Sea,Unknown,Unknown,GBR,52.97449999999994,-0.026399999999999983,Boston (1835.0),U.K. of Great Britain and Northern Ireland
+1836.0,Papenburg,Sea,Unknown,Unknown,DEU,53.073499999999534,7.365499999999969,Papenburg (1836.0),Germany
+1837.0,Eastham,Sea,Unknown,Unknown,GBR,53.347099999999564,-2.976000000000065,Eastham (1837.0),U.K. of Great Britain and Northern Ireland
+1839.0,Casablanca,Sea,Unknown,Open,MAR,33.613899999999184,-7.611199999999945,Casablanca (1839.0),Morocco
+1842.0,Cabinda,Sea,Unknown,Open,AGO,-5.5483900000000155,12.196799999999982,Cabinda (1842.0),Angola
+1847.0,Burnie,Sea,Unknown,Unknown,AUS,-41.05169999999999,145.906000000001,Burnie (1847.0),Australia
+1848.0,Port Latta,Sea,Unknown,Unknown,AUS,-40.852,145.379,Port Latta (1848.0),Australia
+1849.0,Numazu,Sea,Unknown,Unknown,JPN,35.08550000000004,138.86800000000025,Numazu (1849.0),Japan
+1852.0,Sipitang,Sea,Unknown,Unknown,MYS,5.06873,115.54,Sipitang (1852.0),Malaysia
+1854.0,Nantong,Sea,Unknown,Unknown,CHN,32.00010000000118,120.8190000000032,Nantong (1854.0),China
+1856.0,Larnaca,Sea,Small,Open,CYP,34.910200000000096,33.64810000000013,Larnaca (1856.0),Cyprus
+1857.0,Famagusta,Sea,Small,Open,CYP,35.11950000000019,33.95950000000028,Famagusta (1857.0),Cyprus
+1865.0,Wanganui,Sea,Unknown,Unknown,NZL,-39.951,175.028,Wanganui (1865.0),New Zealand
+1872.0,Xiamen,Sea,Unknown,Unknown,CHN,24.44990000000206,118.07699999999343,Xiamen (1872.0),China
+1873.0,Ismailia,Sea,Unknown,Unknown,EGY,30.5872,32.270100000000006,Ismailia (1873.0),Egypt
+1875.0,Amagasaki,Sea,Unknown,Unknown,JPN,34.70059999999798,135.4000000000001,Amagasaki (1875.0),Japan
+1876.0,Eceabat,Sea,Unknown,Unknown,TUR,40.2045,26.365900000000003,Eceabat (1876.0),Turkey
+1877.0,Veraval,Sea,Medium,Unknown,IND,20.9043,70.3565,Veraval (1877.0),India
+1878.0,Surat,Sea,Medium,Unknown,IND,21.1673,72.8317,Surat (1878.0),India
+1879.0,Kartal,Sea,Unknown,Unknown,TUR,40.8947000000016,29.19109999999764,Kartal (1879.0),Turkey
+1880.0,Amasra,Sea,Unknown,Unknown,TUR,41.7491,32.39909999999998,Amasra (1880.0),Turkey
+1881.0,Vyborg,Sea,Unknown,Unknown,RUS,60.71550000000001,28.742099999999997,Vyborg (1881.0),Russian Federation
+1883.0,Shanghai,River,Unknown,Unknown,CHN,31.23790000000007,121.48799999999994,Shanghai (1883.0),China
+1889.0,Ensenada,Sea,Medium,Unknown,MEX,31.86130000000002,-116.62200000000004,Ensenada (1889.0),Mexico
+1890.0,Gemlik,Sea,Medium,Unknown,TUR,40.4340000000007,29.15810000000042,Gemlik (1890.0),Turkey
+1895.0,Frontera,Sea,Small,Unknown,MEX,18.5771,-92.6618,Frontera (1895.0),Mexico
+1897.0,Giresun,Sea,Small,Unknown,TUR,40.92039999999999,38.3907,Giresun (1897.0),Turkey
+1898.0,Trabzon,Sea,Small,Unknown,TUR,41.00480000000004,39.75930000000004,Trabzon (1898.0),Turkey
+1900.0,Castries,Sea,Small,Unknown,LCA,14.011700000000017,-61.00400000000033,Castries (1900.0),Saint Lucia
+1901.0,La Ceiba,Sea,Small,Unknown,HND,15.7642,-86.8313,La Ceiba (1901.0),Honduras
+1902.0,Tela,Sea,Small,Unknown,HND,15.7741,-87.4755,Tela (1902.0),Honduras
+1903.0,Partington,Sea,Unknown,Unknown,GBR,53.42889999999993,-2.4363000000000015,Partington (1903.0),U.K. of Great Britain and Northern Ireland
+1904.0,Tekirdag,Sea,Small,Unknown,TUR,40.986699999999985,27.52350000000001,Tekirdag (1904.0),Turkey
+1907.0,San Pedro,River,Small,Unknown,ARG,-33.6723,-59.6645,San Pedro (1907.0),Argentina
+1914.0,Haifa,Sea,Medium,Open,ISR,32.81870000000238,35.01410000000031,Haifa (1914.0),Israel
+1915.0,Damietta,Sea,Medium,Open,EGY,31.438399999999454,31.826099999999823,Damietta (1915.0),Egypt
+1920.0,Barranquilla,Sea,Medium,Unknown,COL,10.96290000000029,-74.75960000000018,Barranquilla (1920.0),Colombia
+1930.0,Tel Aviv,Sea,Very Small,Open,ISR,32.0928,34.7723,Tel Aviv (1930.0),Israel
+1932.0,Sekondi,Sea,Very Small,Open,GHA,4.936080000000002,-1.7107900000000018,Sekondi (1932.0),Ghana
+1933.0,Sfax,Sea,Unknown,Open,TUN,34.729299999999974,10.761500000000025,Sfax (1933.0),Tunisia
+1936.0,Oran,Sea,Unknown,Open,DZA,35.71800000000036,-0.6487999999999956,Oran (1936.0),Algeria
+1937.0,Dundalk,Sea,Unknown,Unknown,IRL,54.013500000000015,-6.403099999999997,Dundalk (1937.0),Ireland
+1938.0,Grossenbrode,Sea,Unknown,Unknown,DEU,54.3603000000002,11.069500000000028,Grossenbrode (1938.0),Germany
+1940.0,Campbeltown,Sea,Unknown,Unknown,GBR,55.4282000000001,-5.607099999999963,Campbeltown (1940.0),U.K. of Great Britain and Northern Ireland
+1941.0,Port Ellen,Sea,Unknown,Unknown,GBR,55.63149999999985,-6.190100000000017,Port Ellen (1941.0),U.K. of Great Britain and Northern Ireland
+1942.0,Skaerbaek,Sea,Unknown,Unknown,DNK,55.518600000000625,9.607699999999799,Skaerbaek (1942.0),Denmark
+1943.0,Borgholm,Sea,Unknown,Unknown,SWE,56.884100000000004,16.6543,Borgholm (1943.0),Sweden
+1944.0,Grimstad,Sea,Unknown,Unknown,NOR,58.34430000000035,8.610499999999929,Grimstad (1944.0),Norway
+1945.0,Larvik,Sea,Unknown,Unknown,NOR,59.04129999999887,10.046299999999976,Larvik (1945.0),Norway
+1946.0,Stockholm,Sea,Unknown,Unknown,SWE,59.315600000001574,18.035700000000332,Stockholm (1946.0),Sweden
+1947.0,Lappohja,Sea,Unknown,Unknown,FIN,59.9115,23.2981,Lappohja (1947.0),Finland
+1948.0,Trondheim,Sea,Unknown,Unknown,NOR,63.44769999999692,10.435300000000119,Trondheim (1948.0),Norway
+1950.0,Port Maitland,Lake,Unknown,Open,CAN,42.858200000000004,-79.56860000000002,Port Maitland (1950.0),Canada
+1951.0,Buffalo,Lake,Unknown,Open,USA,42.90430000000005,-78.8964999999999,Buffalo (1951.0),United States of America
+1953.0,Dbaiye,Unknown,Very Small,Open,LBN,33.945600000000006,35.59009999999996,Dbaiye (1953.0),Lebanon
+1955.0,Toronto,Lake,Unknown,Open,CAN,43.63999999999999,-79.35709999999997,Toronto (1955.0),Canada
+1957.0,Santa Barbara,Sea,Unknown,Open,USA,34.41769999999998,-119.67100000000002,Santa Barbara (1957.0),United States of America
+1958.0,Alexandria,Sea,Large,Open,EGY,31.19529999999996,29.881499999999967,Alexandria (1958.0),Egypt
+1961.0,Zarzis,Sea,Unknown,Open,TUN,33.48319999999996,11.112599999999995,Zarzis (1961.0),Tunisia
+1964.0,Palm Beach,Sea,Unknown,Open,USA,26.763099999999433,-80.03780000000181,Palm Beach (1964.0),United States of America
+1965.0,Wilmington,Sea,Unknown,Open,USA,33.7771000000047,-118.23999999999246,Wilmington (1965.0),United States of America
+1967.0,Nishinoomote,Sea,Unknown,Open,JPN,30.7328,130.99400000000006,Nishinoomote (1967.0),Japan
+1969.0,La Spezia,Unknown,Unknown,Unknown,ITA,44.11669999999891,9.833330000000268,La Spezia (1969.0),Italy
+1970.0,Wexford,Sea,Unknown,Unknown,IRL,52.32829999999999,-6.449599999999953,Wexford (1970.0),Ireland
+1972.0,Valencia,Sea,Unknown,Unknown,ESP,39.45909999999551,-0.32299999999998646,Valencia (1972.0),Spain
+1973.0,Capraia,Sea,Unknown,Unknown,ITA,43.025099999999576,9.823900000000135,Capraia (1973.0),Italy
+1975.0,Nea Karvali,Sea,Unknown,Unknown,GRC,40.96070000000145,24.51249999999999,Nea Karvali (1975.0),Greece
+1976.0,Barcelona,Sea,Unknown,Unknown,ESP,41.37369999999674,2.180499999999787,Barcelona (1976.0),Spain
+1977.0,Ajaccio,Sea,Unknown,Unknown,FRA,41.93010000000047,8.738299999999983,Ajaccio (1977.0),France
+1979.0,Quimper,Sea,Unknown,Unknown,FRA,47.9719,-4.109399999999998,Quimper (1979.0),France
+1984.0,Skopelos,Sea,Unknown,Unknown,GRC,39.1251,23.7355,Skopelos (1984.0),Greece
+1986.0,Portland,Sea,Unknown,Unknown,GBR,50.561699999998886,-2.4573999999999434,Portland (1986.0),U.K. of Great Britain and Northern Ireland
+1987.0,Tonsberg,Sea,Unknown,Unknown,NOR,59.2596999999997,10.425699999999887,Tonsberg (1987.0),Norway
+1988.0,Lidkoping,Sea,Unknown,Unknown,SWE,58.50050000000006,13.197700000000006,Lidkoping (1988.0),Sweden
+1989.0,Hafnarfjordur,Sea,Unknown,Unknown,ISL,64.0639,-21.9453,Hafnarfjordur (1989.0),Iceland
+1990.0,Brunsbuttel,Sea,Unknown,Unknown,DEU,53.88989999998047,9.15750000000102,Brunsbuttel (1990.0),Germany
+1992.0,Ed Daoura,Sea,Very Small,Open,LBN,33.89849999999996,35.55490000000007,Ed Daoura (1992.0),Lebanon
+2000.0,Halifax,Sea,Unknown,Open,CAN,44.666299999998536,-63.58209999999964,Halifax (2000.0),Canada
+2010.0,Mackinac Island,Lake,Unknown,Open,USA,45.84350000000016,-84.60889999999947,Mackinac Island (2010.0),United States of America
+2011.0,Superior,Lake,Unknown,Open,USA,46.73150000000118,-92.06399999999873,Superior (2011.0),United States of America
+2020.0,North Weymouth,Sea,Unknown,Open,USA,42.25410000000007,-70.93580000000011,North Weymouth (2020.0),United States of America
+2024.0,Port Edward,Sea,Unknown,Open,CAN,54.228799999998465,-130.27900000000204,Port Edward (2024.0),Canada
+2028.0,Portland,Sea,Unknown,Open,USA,43.649399999999964,-70.23689999999996,Portland (2028.0),United States of America
+2031.0,Massena,Sea,Unknown,Open,USA,44.9633,-74.8272,Massena (2031.0),United States of America
+2034.0,Warrenton,Sea,Unknown,Open,USA,46.16729999999965,-123.91100000000003,Warrenton (2034.0),United States of America
+2035.0,Port Royal,Sea,Unknown,Open,USA,32.38350000000001,-80.68339999999993,Port Royal (2035.0),United States of America
+2036.0,Port Alberni,Sea,Unknown,Open,CAN,49.25050000000007,-124.82699999999997,Port Alberni (2036.0),Canada
+2037.0,Port Mellon,Sea,Unknown,Open,CAN,49.51550000000087,-123.48600000000158,Port Mellon (2037.0),Canada
+2038.0,Comox,Sea,Unknown,Open,CAN,49.673899999999826,-124.93300000000065,Comox (2038.0),Canada
+2042.0,Caen,Sea,Unknown,Unknown,FRA,49.184799999999846,-0.3213000000000008,Caen (2042.0),France
+2043.0,Bogense,Sea,Unknown,Unknown,DNK,55.572799999999944,10.093700000000005,Bogense (2043.0),Denmark
+2044.0,Figeholm,Sea,Unknown,Unknown,SWE,57.37110000000015,16.566899999999954,Figeholm (2044.0),Sweden
+2045.0,Girvan,Sea,Unknown,Unknown,GBR,55.2379,-4.8611,Girvan (2045.0),U.K. of Great Britain & Northern Ireland
+2046.0,Vardo,Sea,Unknown,Unknown,NOR,70.3782999999985,31.069100000000407,Vardo (2046.0),Norway
+2047.0,Korsor,Sea,Unknown,Unknown,DNK,55.33630000000073,11.145900000000085,Korsor (2047.0),Denmark
+2048.0,Rorvig,Sea,Unknown,Unknown,DNK,55.9294999999989,11.755499999999909,Rorvig (2048.0),Denmark
+2049.0,Corinth,Sea,Unknown,Unknown,GRC,37.94700000000011,22.94450000000051,Corinth (2049.0),Greece
+2050.0,Milazzo,Sea,Unknown,Unknown,ITA,38.21150000000216,15.259899999999014,Milazzo (2050.0),Italy
+2051.0,La Rochelle,Sea,Unknown,Unknown,FRA,46.15329999999995,-1.1601999999999975,La Rochelle (2051.0),France
+2052.0,Kalmar,Sea,Unknown,Unknown,SWE,56.65710000000029,16.32750000000009,Kalmar (2052.0),Sweden
+2053.0,Stavanger,Sea,Unknown,Unknown,NOR,58.95970000000596,5.744299999998934,Stavanger (2053.0),Norway
+2054.0,Toledo,Lake,Unknown,Open,USA,41.6428,-83.52950000000006,Toledo (2054.0),United States of America
+2055.0,Wilmington,Sea,Unknown,Open,USA,39.73089999999959,-75.50379999999916,Wilmington (2055.0),United States of America
+2056.0,Marcus Hook,Sea,Unknown,Open,USA,39.80319999999975,-75.41349999999768,Marcus Hook (2056.0),United States of America
+2060.0,Vasteras,Sea,Unknown,Unknown,SWE,59.60510000000051,16.558699999999767,Vasteras (2060.0),Sweden
+2062.0,Holyhead,Sea,Unknown,Unknown,GBR,53.31480000000008,-4.636499999999985,Holyhead (2062.0),U.K. of Great Britain & Northern Ireland
+2063.0,Pontevedra,Sea,Unknown,Unknown,ESP,42.419899999999956,-8.660200000000005,Pontevedra (2063.0),Spain
+2065.0,Rouen,Sea,Unknown,Unknown,FRA,49.450900000000935,1.0533000000000126,Rouen (2065.0),France
+2066.0,Poole,Sea,Unknown,Unknown,GBR,50.72520000000054,-1.9915999999999914,Poole (2066.0),U.K. of Great Britain and Northern Ireland
+2067.0,Newhaven,Sea,Unknown,Unknown,GBR,50.78510000000002,0.04069999999999992,Newhaven (2067.0),U.K. of Great Britain and Northern Ireland
+2068.0,Portslade,Sea,Unknown,Unknown,GBR,50.836900000000604,-0.26179999999999515,Portslade (2068.0),U.K. of Great Britain and Northern Ireland
+2069.0,Faversham,Sea,Unknown,Unknown,GBR,51.34370000000021,0.8903000000000073,Faversham (2069.0),U.K. of Great Britain and Northern Ireland
+2070.0,Felixstowe,Sea,Unknown,Unknown,GBR,51.95989999999864,1.3420999999999346,Felixstowe (2070.0),U.K. of Great Britain and Northern Ireland
+2071.0,Deventer,Sea,Unknown,Unknown,NLD,52.2605,6.1495,Deventer (2071.0),Netherlands
+2072.0,New Ross,Sea,Unknown,Unknown,IRL,52.38009999999999,-6.961199999999998,New Ross (2072.0),Ireland
+2073.0,Mostyn,Sea,Unknown,Unknown,GBR,53.3161,-3.256799999999999,Mostyn (2073.0),U.K. of Great Britain and Northern Ireland
+2074.0,Garston,Sea,Unknown,Unknown,GBR,53.34610000000007,-2.906600000000019,Garston (2074.0),U.K. of Great Britain and Northern Ireland
+2075.0,Bromborough,Sea,Unknown,Unknown,GBR,53.35630000000314,-2.9858000000002,Bromborough (2075.0),U.K. of Great Britain and Northern Ireland
+2079.0,Sousse,Sea,Unknown,Open,TUN,35.84130000000004,10.643099999999954,Sousse (2079.0),Tunisia
+2085.0,Mount Maunganui,Sea,Unknown,Unknown,NZL,-37.638200000000914,176.17599999999774,Mount Maunganui (2085.0),New Zealand
+2086.0,Maldonado,Sea,Unknown,Unknown,URY,-34.9618,-54.92100000000002,Maldonado (2086.0),Uruguay
+2090.0,Sao Sebastiao,Sea,Unknown,Unknown,BRA,-23.802199999999992,-45.3913,Sao Sebastiao (2090.0),Brazil
+2091.0,Point Samson,Sea,Unknown,Unknown,AUS,-20.63140000000018,117.1999999999984,Point Samson (2091.0),Australia
+2093.0,Macapa,Sea,Unknown,Unknown,BRA,0.0280300000000006,-51.03910000000026,Macapa (2093.0),Brazil
+2094.0,Male,Sea,Unknown,Unknown,MDV,4.16603,73.5015,Male (2094.0),Maldives
+2095.0,Kota Kinabalu,Sea,Unknown,Unknown,MYS,5.971529999999961,116.0670000000015,Kota Kinabalu (2095.0),Malaysia
+2097.0,Mangrol,Sea,Unknown,Unknown,IND,21.1024,70.1075,Mangrol (2097.0),India
+2099.0,Macau,Sea,Unknown,Unknown,MAC,22.18700000000265,113.54599999998327,Macau (2099.0),Macao
+2101.0,Omaezaki,Sea,Unknown,Unknown,JPN,34.62220000000025,138.21300000000016,Omaezaki (2101.0),Japan
+2102.0,Kisarazu,Sea,Unknown,Unknown,JPN,35.3868999999974,139.92100000001844,Kisarazu (2102.0),Japan
+2104.0,Sochi,Sea,Unknown,Unknown,RUS,43.5684,39.7303,Sochi (2104.0),Russian Federation
+2105.0,Dunedin,Sea,Unknown,Unknown,NZL,-45.88430000000006,170.50599999999977,Dunedin (2105.0),New Zealand
+2107.0,Wellington,Sea,Unknown,Unknown,NZL,-41.32019999999569,174.80700000000508,Wellington (2107.0),New Zealand
+2110.0,Carmelo,Sea,Unknown,Unknown,URY,-33.997,-58.303,Carmelo (2110.0),Uruguay
+2115.0,Zhangjiagang,Sea,Unknown,Unknown,CHN,31.962999999996875,120.39899999998444,Zhangjiagang (2115.0),China
+2119.0,Johor Bahru,Sea,Unknown,Unknown,MYS,1.45793,103.738,Johor Bahru (2119.0),Malaysia
+2126.0,Bedi,Sea,Unknown,Unknown,IND,22.5427,70.00610000000005,Bedi (2126.0),India
+2127.0,Keelung,Sea,Unknown,Unknown,TWN,25.134200000000405,121.73600000000177,Keelung (2127.0),China
+2129.0,Kuchinotsu,Sea,Unknown,Unknown,JPN,32.6002,130.18000000000004,Kuchinotsu (2129.0),Japan
+2131.0,Shimoda,Sea,Unknown,Unknown,JPN,34.67180000000007,138.95799999999898,Shimoda (2131.0),Japan
+2132.0,Masan,Sea,Unknown,Unknown,KOR,35.1839,128.56999999999996,Masan (2132.0),Republic of Korea
+2133.0,Ulsan,Sea,Unknown,Unknown,KOR,35.50250000000004,129.35099999999994,Ulsan (2133.0),Republic of Korea
+2135.0,Longkou,Sea,Unknown,Unknown,CHN,37.64769999999999,120.32500000000019,Longkou (2135.0),China
+2136.0,Maltepe,Sea,Unknown,Unknown,TUR,40.90729999999969,29.16029999999964,Maltepe (2136.0),Turkey
+2137.0,Naantali,Sea,Unknown,Unknown,FIN,60.46649999999976,22.018100000000334,Naantali (2137.0),Finland
+2140.0,Diu,Sea,Unknown,Unknown,IND,20.7105,70.9997,Diu (2140.0),India
+2141.0,Jiangmen,River,Unknown,Unknown,CHN,22.60149999999998,113.11200000000048,Jiangmen (2141.0),China
+2142.0,Eregli,Sea,Medium,Unknown,TUR,41.29089999999997,31.413300000000127,Eregli (2142.0),Turkey
+2145.0,Kas,Sea,Unknown,Unknown,TUR,36.197,29.6285,Kas (2145.0),Turkey
+2146.0,Veracruz,Sea,Large,Unknown,MEX,19.202199999999745,-96.12419999999933,Veracruz (2146.0),Mexico
+2147.0,Manaus,River,Medium,Unknown,BRA,-3.1324700000000107,-60.01929999999994,Manaus (2147.0),Brazil
+2152.0,Zonguldak,Sea,Small,Unknown,TUR,41.47290000000018,31.803499999999993,Zonguldak (2152.0),Turkey
+2155.0,Marmaris,Sea,Small,Unknown,TUR,36.8537,28.2763,Marmaris (2155.0),Turkey
+2158.0,Izmit,Sea,Small,Unknown,TUR,40.7694,29.9367,Izmit (2158.0),Turkey
+2162.0,Liverpool,Sea,Unknown,Unknown,GBR,53.4629000000021,-3.0263000000000155,Liverpool (2162.0),U.K. of Great Britain and Northern Ireland
+2170.0,Semarang,Sea,Medium,Unknown,IDN,-6.9467,110.425,Semarang (2170.0),Indonesia
+2171.0,Ambon,Sea,Small,Unknown,IDN,-3.6940999999999953,128.17599999999985,Ambon (2171.0),Indonesia
+2180.0,Palmeira,Sea,Very Small,Open,CPV,16.752,-22.9766,Palmeira (2180.0),Cape Verde
+2183.0,Itzehoe,Sea,Unknown,Unknown,DEU,53.9254,9.5025,Itzehoe (2183.0),Germany
+2184.0,Hochdonn,Sea,Unknown,Unknown,DEU,54.000499999999725,9.299899999999981,Hochdonn (2184.0),Germany
+2185.0,Greifswald,Sea,Unknown,Unknown,DEU,54.10010000000006,13.450699999999994,Greifswald (2185.0),Germany
+2187.0,Aabenraa,Sea,Unknown,Unknown,DNK,55.0393,9.429099999999984,Aabenraa (2187.0),Denmark
+2188.0,Flekkefjord,Sea,Unknown,Unknown,NOR,58.299299999999164,6.661699999999905,Flekkefjord (2188.0),Norway
+2189.0,Skaelskor,Sea,Unknown,Unknown,DNK,55.25050000000001,11.2933,Skaelskor (2189.0),Denmark
+2190.0,Klaipeda,Sea,Unknown,Unknown,LTU,55.7125000000042,21.114700000002404,Klaipeda (2190.0),Lithuania
+2191.0,Ronneby,Sea,Unknown,Unknown,SWE,56.16289999999995,15.28809999999999,Ronneby (2191.0),Sweden
+2192.0,Klintehamn,Sea,Unknown,Unknown,SWE,57.38830000000002,18.1807,Klintehamn (2192.0),Sweden
+2193.0,Wick,Sea,Unknown,Unknown,GBR,58.443100000000086,-3.0902000000000007,Wick (2193.0),U.K. of Great Britain and Northern Ireland
+2194.0,Norrsundet,Sea,Unknown,Unknown,SWE,60.9347,17.1549,Norrsundet (2194.0),Sweden
+2195.0,Orkanger,Sea,Unknown,Unknown,NOR,63.31729999999985,9.851099999999922,Orkanger (2195.0),Norway
+2196.0,Malm,Sea,Unknown,Unknown,NOR,64.07410000000073,11.223299999999961,Malm (2196.0),Norway
+2197.0,Logstor,Sea,Unknown,Unknown,DNK,56.96129999999996,9.25049999999999,Logstor (2197.0),Denmark
+2198.0,Guangzhou,Sea,Unknown,Unknown,CHN,23.10740000000001,113.29299999999994,Guangzhou (2198.0),China
+2201.0,Sarnia,Lake,Unknown,Open,CAN,42.9813,-82.4073,Sarnia (2201.0),Canada
+2205.0,Kingston,Lake,Unknown,Open,CAN,44.219699999999996,-76.50610000000002,Kingston (2205.0),Canada
+2206.0,Morgan City,Sea,Unknown,Open,USA,29.703900000000097,-91.21229999999964,Morgan City (2206.0),United States of America
+2207.0,Kfar Aabida,Unknown,Very Small,Open,LBN,34.2274,35.6547,Kfar Aabida (2207.0),Lebanon
+2208.0,Pensacola,Sea,Unknown,Open,USA,30.405200000000004,-87.2057,Pensacola (2208.0),United States of America
+2209.0,Roscoff,Sea,Unknown,Unknown,FRA,48.72630000000008,-3.9832999999999887,Roscoff (2209.0),France
+2213.0,Benghazi,Sea,Medium,Unknown,LBY,32.10399999999999,20.039600000000004,Benghazi (2213.0),Libyan Arab Jamahiriya
+2215.0,Gretna,Sea,Unknown,Open,USA,29.914600000000032,-90.06949999999871,Gretna (2215.0),United States of America
+2217.0,Carbonear,Sea,Unknown,Open,CAN,47.74149999999999,-53.20460000000002,Carbonear (2217.0),Canada
+2220.0,Brindisi,Unknown,Unknown,Unknown,ITA,40.64360000000003,17.98450000000001,Brindisi (2220.0),Italy
+2221.0,Inverness,Sea,Unknown,Unknown,GBR,57.4807,-4.2362,Inverness (2221.0),U.K. of Great Britain and Northern Ireland
+2222.0,Blankaholm,Sea,Unknown,Unknown,SWE,57.580800000000046,16.52369999999998,Blankaholm (2222.0),Sweden
+2223.0,Stenungsund,Sea,Unknown,Unknown,SWE,58.06449999999714,11.821899999999935,Stenungsund (2223.0),Sweden
+2224.0,Kristiansand,Sea,Unknown,Unknown,NOR,58.13989999999778,8.01729999999985,Kristiansand (2224.0),Norway
+2225.0,Naxos,Sea,Unknown,Unknown,GRC,37.1203999999998,25.392300000000358,Naxos (2225.0),Greece
+2226.0,Porto Garibaldi,Sea,Unknown,Unknown,ITA,44.6555,12.2543,Porto Garibaldi (2226.0),Italy
+2227.0,Split,Sea,Unknown,Unknown,HRV,43.5033,16.428300000000004,Split (2227.0),Croatia
+2228.0,Zadar,Sea,Unknown,Unknown,HRV,44.11029999999994,15.228900000000001,Zadar (2228.0),Croatia
+2232.0,Vasto,Sea,Unknown,Unknown,ITA,42.106800000000014,14.719699999999992,Vasto (2232.0),Italy
+2233.0,Corcubion,Sea,Unknown,Unknown,ESP,42.95,-9.1806,Corcubion (2233.0),Spain
+2235.0,Salerno,Sea,Unknown,Unknown,ITA,40.67850000000032,14.75309999999992,Salerno (2235.0),Italy
+2236.0,Nantes,Sea,Unknown,Unknown,FRA,47.206399999999384,-1.568099999999984,Nantes (2236.0),France
+2237.0,Lezardrieux,Sea,Unknown,Unknown,FRA,48.78809999999999,-3.048099999999999,Lezardrieux (2237.0),France
+2238.0,Torre Annunziata,Sea,Unknown,Unknown,ITA,40.69729999999982,14.470099999999219,Torre Annunziata (2238.0),Italy
+2239.0,Marseille,Sea,Unknown,Unknown,FRA,43.30320000000015,5.369899999999947,Marseille (2239.0),France
+2240.0,Blyth,Sea,Unknown,Unknown,GBR,55.13089999999969,-1.5086999999999828,Blyth (2240.0),U.K. of Great Britain and Northern Ireland
+2241.0,Perth,Sea,Unknown,Unknown,GBR,56.38999999999999,-3.4269,Perth (2241.0),U.K. of Great Britain and Northern Ireland
+2242.0,Tallinn,Sea,Unknown,Unknown,EST,59.454099999991364,24.747899999997887,Tallinn (2242.0),Estonia
+2243.0,Skanevik,Sea,Unknown,Unknown,NOR,59.7343000000017,5.93430000000042,Skanevik (2243.0),Norway
+2245.0,Bronnoysund,Sea,Unknown,Unknown,NOR,65.45859999999881,12.192699999999677,Bronnoysund (2245.0),Norway
+2252.0,Cua Lo,Sea,Unknown,Open,VNM,18.828599999999998,105.70200000000004,Cua Lo (2252.0),Vietnam
+2253.0,Clayton,Lake,Unknown,Open,USA,44.232700000000015,-76.09889999999999,Clayton (2253.0),United States of America
+2259.0,Vancouver,Sea,Unknown,Open,CAN,49.28379999999737,-123.10800000000573,Vancouver (2259.0),Canada
+2260.0,Cheboygan,Lake,Unknown,Open,USA,45.6535,-84.47859999999999,Cheboygan (2260.0),United States of America
+2264.0,Welland,Lake,Unknown,Open,CAN,42.99179999999991,-79.24690000000007,Welland (2264.0),Canada
+2271.0,Port Neches,Sea,Unknown,Open,USA,29.99330000000025,-93.94769999999885,Port Neches (2271.0),United States of America
+2272.0,Gramercy,Sea,Unknown,Open,USA,30.048200000000378,-90.67759999999934,Gramercy (2272.0),United States of America
+2273.0,Reserve,Sea,Unknown,Open,USA,30.05010000000035,-90.5548000000019,Reserve (2273.0),United States of America
+2274.0,Geismar,Sea,Unknown,Open,USA,30.20449999999984,-91.02880000000003,Geismar (2274.0),United States of America
+2275.0,New Bedford,Sea,Unknown,Open,USA,41.649299999999855,-70.93050000000017,New Bedford (2275.0),United States of America
+2276.0,Quincy,Sea,Unknown,Open,USA,42.25530000000002,-70.99299999999995,Quincy (2276.0),United States of America
+2277.0,Waddington,Sea,Unknown,Open,USA,44.8779,-75.1881,Waddington (2277.0),United States of America
+2279.0,Port Orchard,Sea,Unknown,Open,USA,47.54129999999847,-122.63699999999625,Port Orchard (2279.0),United States of America
+2280.0,Ostrica,Sea,Unknown,Open,USA,29.3601,-89.53929999999995,Ostrica (2280.0),United States of America
+2281.0,Martinez,Sea,Unknown,Open,USA,38.02569999999879,-122.14499999999722,Martinez (2281.0),United States of America
+2284.0,Sandwich,Sea,Unknown,Open,USA,41.7645,-70.476,Sandwich (2284.0),United States of America
+2286.0,Ladysmith,Sea,Unknown,Open,CAN,48.987900000000074,-123.80700000000056,Ladysmith (2286.0),Canada
+2287.0,Powell River,Sea,Unknown,Open,CAN,49.845700000000626,-124.52599999999907,Powell River (2287.0),Canada
+2288.0,Aviles,Sea,Unknown,Unknown,ESP,43.594899999999626,-5.941399999999998,Aviles (2288.0),Spain
+2290.0,Port Townsend,Sea,Unknown,Open,USA,48.10889999999942,-122.75599999999783,Port Townsend (2290.0),United States of America
+2291.0,Dragor,Sea,Unknown,Unknown,DNK,55.59440000000162,12.677900000000397,Dragor (2291.0),Denmark
+2292.0,Silloth,Sea,Unknown,Unknown,GBR,54.86040000000002,-3.4057000000000004,Silloth (2292.0),U.K. of Great Britain & Northern Ireland
+2293.0,Ardrossan,Sea,Unknown,Unknown,GBR,55.65009999999992,-4.824099999999992,Ardrossan (2293.0),U.K. of Great Britain & Northern Ireland
+2294.0,Catania,Sea,Unknown,Unknown,ITA,37.48389999999997,15.091099999999996,Catania (2294.0),Italy
+2295.0,Megara,Sea,Unknown,Unknown,GRC,37.9786999999997,23.395700000000335,Megara (2295.0),Greece
+2296.0,Burgas,Sea,Unknown,Unknown,BGR,42.4945,27.477299999999847,Burgas (2296.0),Bulgaria
+2297.0,Venice,Sea,Unknown,Unknown,ITA,45.43189999999767,12.317699999999636,Venice (2297.0),Italy
+2298.0,Ashtabula,Lake,Unknown,Open,USA,41.9035,-80.81330000000001,Ashtabula (2298.0),United States of America
+2301.0,Sparrows Point,Sea,Unknown,Open,USA,39.200499999999394,-76.49180000000237,Sparrows Point (2301.0),United States of America
+2303.0,Tiverton,Sea,Unknown,Open,USA,41.64789999999996,-71.21670000000033,Tiverton (2303.0),United States of America
+2304.0,Asilah,Sea,Unknown,Open,MAR,35.4712,-6.03424,Asilah (2304.0),Morocco
+2305.0,Sariyer,Sea,Unknown,Unknown,TUR,41.17250000000045,29.066100000000002,Sariyer (2305.0),Turkey
+2307.0,Holmestrand,Sea,Unknown,Unknown,NOR,59.488200000000916,10.330900000000293,Holmestrand (2307.0),Norway
+2308.0,Hargshamn,Sea,Unknown,Unknown,SWE,60.159700000000136,18.492900000000127,Hargshamn (2308.0),Sweden
+2309.0,Fosnavag,Sea,Unknown,Unknown,NOR,62.348700000001486,5.6531000000000535,Fosnavag (2309.0),Norway
+2311.0,Narvik,Sea,Unknown,Unknown,NOR,68.43110000000094,17.41589999999997,Narvik (2311.0),Norway
+2312.0,Ravenna,Sea,Unknown,Unknown,ITA,44.412400000000204,12.202299999999937,Ravenna (2312.0),Italy
+2313.0,Bassens,Sea,Unknown,Unknown,FRA,44.90370000000026,-0.5346000000000017,Bassens (2313.0),France
+2314.0,Vannes,Sea,Unknown,Unknown,FRA,47.641300000000065,-2.7569000000000012,Vannes (2314.0),France
+2315.0,Southampton,Sea,Unknown,Unknown,GBR,50.91729999999281,-1.3780000000000048,Southampton (2315.0),U.K. of Great Britain and Northern Ireland
+2317.0,North Woolwich,Sea,Unknown,Unknown,GBR,51.49979999999955,0.05590000000000068,North Woolwich (2317.0),U.K. of Great Britain and Northern Ireland
+2318.0,Moerdijk,Sea,Unknown,Unknown,NLD,51.69060000000159,4.6052999999996125,Moerdijk (2318.0),Netherlands
+2320.0,Vlaardingen,Sea,Unknown,Unknown,NLD,51.89789999998687,4.324299999997753,Vlaardingen (2320.0),Netherlands
+2321.0,Rotterdam,Sea,Unknown,Unknown,NLD,51.90789999999805,4.405899999999964,Rotterdam (2321.0),Netherlands
+2322.0,Zaandam,Sea,Unknown,Unknown,NLD,52.42969999998991,4.821300000000952,Zaandam (2322.0),Netherlands
+2323.0,Wisbech,Sea,Unknown,Unknown,GBR,52.672700000000006,0.15569999999999998,Wisbech (2323.0),U.K. of Great Britain and Northern Ireland
+2324.0,Den Helder,Sea,Unknown,Unknown,NLD,52.960699999998454,4.781300000000123,Den Helder (2324.0),Netherlands
+2325.0,Mega,Sea,Unknown,Open,JPN,34.77550000000081,134.6909999999998,Mega (2325.0),Japan
+2326.0,Dublin,Sea,Unknown,Unknown,IRL,53.362299999995685,-6.236499999999589,Dublin (2326.0),Ireland
+2327.0,Agadir,Sea,Unknown,Open,MAR,30.420899999999673,-9.629199999999985,Agadir (2327.0),Morocco
+2329.0,Shimotsu,Sea,Unknown,Open,JPN,34.11840000000327,135.1400000000105,Shimotsu (2329.0),Japan
+2331.0,Mohammedia,Sea,Unknown,Open,MAR,33.71789999999983,-7.38940000000002,Mohammedia (2331.0),Morocco
+2333.0,Larache,Sea,Unknown,Open,MAR,35.2049,-6.152,Larache (2333.0),Morocco
+2336.0,Kaikoura,Sea,Unknown,Unknown,NZL,-42.405300000000004,173.689,Kaikoura (2336.0),New Zealand
+2337.0,Devonport,Sea,Unknown,Unknown,AUS,-41.166399999999875,146.3559999999998,Devonport (2337.0),Australia
+2344.0,Imari,Sea,Unknown,Unknown,JPN,33.304300000000005,129.81900000000005,Imari (2344.0),Japan
+2345.0,Kyrenia,Sea,Small,Open,CYP,35.3367,33.3473,Kyrenia (2345.0),Cyprus
+2347.0,Tolkkinen,Sea,Unknown,Unknown,FIN,60.329700000000145,25.583299999999973,Tolkkinen (2347.0),Finland
+2350.0,Geelong,Sea,Unknown,Unknown,AUS,-38.1485,144.361,Geelong (2350.0),Australia
+2353.0,Dampier,Sea,Unknown,Unknown,AUS,-20.66419999999987,116.70500000000129,Dampier (2353.0),Australia
+2358.0,Slavyanka,Sea,Unknown,Unknown,RUS,42.8687,131.38499999999974,Slavyanka (2358.0),Russian Federation
+2367.0,Izuhara,Sea,Unknown,Unknown,JPN,34.18620000000006,129.29199999999992,Izuhara (2367.0),Japan
+2369.0,Changhang,Sea,Unknown,Unknown,KOR,35.98149999999999,126.72500000000001,Changhang (2369.0),Republic of Korea
+2372.0,Murmansk,Sea,Unknown,Unknown,RUS,68.97809999999937,33.05629999999988,Murmansk (2372.0),Russian Federation
+2373.0,Ciudad Guayana,River,Unknown,Unknown,VEN,8.37093,-62.6634,Ciudad Guayana (2373.0),Venezuela
+2374.0,Huangshi,River,Unknown,Unknown,CHN,30.2093,115.148,Huangshi (2374.0),China
+2377.0,San Juan,Sea,Medium,Unknown,PRI,18.430299999999992,-66.10500000000096,San Juan (2377.0),Puerto Rico
+2378.0,Montevideo,Sea,Medium,Unknown,URY,-34.899799999999416,-56.195800000000936,Montevideo (2378.0),Uruguay
+2380.0,Georgetown,Sea,Medium,Unknown,GUY,6.80983,-58.1614,Georgetown (2380.0),Guyana
+2382.0,Charlestown,Sea,Small,Unknown,KNA,17.126699999999882,-62.63290000000024,Charlestown (2382.0),Saint Kitts and Nevis
+2383.0,Fray Bentos,Sea,Small,Unknown,URY,-33.1197,-58.3306,Fray Bentos (2383.0),Uruguay
+2385.0,Point Fortin,Sea,Small,Unknown,TTO,10.1754,-61.68329999999998,Point Fortin (2385.0),Trinidad and Tobago
+2397.0,Guanaja,Sea,Very Small,Unknown,HND,16.4589,-85.8792,Guanaja (2397.0),Honduras
+2405.0,Rendsburg,Sea,Unknown,Unknown,DEU,54.31030000000924,9.666100000001432,Rendsburg (2405.0),Germany
+2406.0,Gdynia,Sea,Unknown,Unknown,POL,54.535899999999266,18.52929999999819,Gdynia (2406.0),Poland
+2407.0,Gateshead,Sea,Unknown,Unknown,GBR,54.96510000000056,-1.5774000000000097,Gateshead (2407.0),U.K. of Great Britain and Northern Ireland
+2409.0,Rosyth,Sea,Unknown,Unknown,GBR,56.025099999999256,-3.4358000000000914,Rosyth (2409.0),U.K. of Great Britain and Northern Ireland
+2410.0,Inverkeithing,Sea,Unknown,Unknown,GBR,56.03050000000063,-3.3973999999999442,Inverkeithing (2410.0),U.K. of Great Britain and Northern Ireland
+2411.0,Kirkcaldy,Sea,Unknown,Unknown,GBR,56.1190000000008,-3.151100000000037,Kirkcaldy (2411.0),U.K. of Great Britain and Northern Ireland
+2412.0,Degerhamn,Sea,Unknown,Unknown,SWE,56.32989999999997,16.41090000000003,Degerhamn (2412.0),Sweden
+2413.0,Halmstad,Sea,Unknown,Unknown,SWE,56.662099999999704,12.847900000000049,Halmstad (2413.0),Sweden
+2414.0,Tvedestrand,Sea,Unknown,Unknown,NOR,58.61709999999982,8.940099999999973,Tvedestrand (2414.0),Norway
+2415.0,Skien,Sea,Unknown,Unknown,NOR,59.196300000000015,9.616700000000002,Skien (2415.0),Norway
+2416.0,Molde,Sea,Unknown,Unknown,NOR,62.73429999999929,7.151099999999559,Molde (2416.0),Norway
+2418.0,Colon,Sea,Medium,Unknown,PAN,9.353230000000297,-79.90599999999962,Colon (2418.0),Panama
+2419.0,Sandusky,Lake,Unknown,Open,USA,41.451699999999995,-82.71070000000002,Sandusky (2419.0),United States of America
+2420.0,Tolu,Sea,Small,Unknown,COL,9.521770000000002,-75.58649999999996,Tolu (2420.0),
+2421.0,Surabaya,Sea,Medium,Open,IDN,-7.202029999999957,112.73300000000012,Surabaya (2421.0),
+2422.0,Gresik,Sea,Medium,Open,IDN,-7.144489999999989,112.65100000000032,Gresik (2422.0),
+2431.0,Cape Vincent,Lake,Unknown,Open,USA,44.13029999999987,-76.33710000000013,Cape Vincent (2431.0),United States of America
+2433.0,Key West,Sea,Unknown,Open,USA,24.5532,-81.81,Key West (2433.0),United States of America
+2441.0,Myrtle Grove,Sea,Unknown,Open,USA,29.638500000000015,-89.94549999999984,Myrtle Grove (2441.0),United States of America
+2442.0,Neah Bay,Sea,Unknown,Open,USA,48.36849999999879,-124.61999999999786,Neah Bay (2442.0),United States of America
+2444.0,Rhyl,Sea,Unknown,Unknown,GBR,53.32109999999981,-3.4969999999999923,Rhyl (2444.0),U.K. of Great Britain & Northern Ireland
+2445.0,Peterhead,Sea,Unknown,Unknown,GBR,57.50560000000221,-1.7934999999999963,Peterhead (2445.0),U.K. of Great Britain and Northern Ireland
+2446.0,Amalfi,Sea,Unknown,Unknown,ITA,40.643900000001004,14.61829999999957,Amalfi (2446.0),Italy
+2447.0,Golfo Aranci,Sea,Unknown,Unknown,ITA,40.99470000000032,9.633900000000029,Golfo Aranci (2447.0),Italy
+2448.0,Wolgast,Sea,Unknown,Unknown,DEU,54.05040000000004,13.786500000000002,Wolgast (2448.0),Germany
+2449.0,Oregrund,Sea,Unknown,Unknown,SWE,60.34079999999996,18.454299999999993,Oregrund (2449.0),Sweden
+2454.0,Cascais,Sea,Unknown,Unknown,PRT,38.699899999999666,-9.407900000000119,Cascais (2454.0),Portugal
+2456.0,Bastad,Sea,Unknown,Unknown,SWE,56.4273,12.8727,Bastad (2456.0),Sweden
+2460.0,Finnsnes,Sea,Unknown,Unknown,NOR,69.23629999999984,18.042099999999365,Finnsnes (2460.0),Norway
+2465.0,Cam Pha,Sea,Small,Open,VNM,20.999799999999723,107.31299999999992,Cam Pha (2465.0),Viet Nam
+2471.0,Skadovsk,Sea,Small,Open,UKR,46.1097,32.9109,Skadovsk (2471.0),Ukraine
+2475.0,Port Stanley,Sea,Small,Unknown,FLK,-51.69799999999999,-57.8263,Port Stanley (2475.0),Falkland Islands (Malvinas)
+2478.0,Tanjong Penjuru,Sea,Unknown,Unknown,SGP,1.2995300000002399,103.73199999989305,Tanjong Penjuru (2478.0),Singapore
+2484.0,Sodertalje,Sea,Unknown,Unknown,SWE,59.20769999999932,17.6345000000001,Sodertalje (2484.0),Sweden
+2487.0,Port St Joe,Sea,Unknown,Open,USA,29.8123,-85.305,Port St Joe (2487.0),United States of America
+2490.0,Gustavia,Sea,Small,Unknown,GLP,17.899299999999847,-62.853599999999666,Gustavia (2490.0),Guadeloupe
+2492.0,Bataan,Sea,Small,Unknown,PHL,14.500100000000126,120.60700000000124,Bataan (2492.0),Philippines
+2494.0,Fangcheng,Sea,Unknown,Unknown,CHN,21.54270000000046,108.27999999999896,Fangcheng (2494.0),China
+2495.0,Port Qaboos,Sea,Large,Open,OMN,23.6277,58.5666,Port Qaboos (2495.0),Oman
+2499.0,Rosas,Sea,Unknown,Unknown,ESP,42.2722,3.1682999999999995,Rosas (2499.0),Spain
+2513.0,Ghent,Sea,Unknown,Unknown,BEL,51.050400000000074,3.73930000000006,Ghent (2513.0),Belgium
+2518.0,Mellville,Sea,Unknown,Open,USA,41.57269999999956,-71.306600000001,Mellville (2518.0),United States of America
+2519.0,Doornzelle,Sea,Unknown,Unknown,BEL,51.121199999995916,3.7574999999997893,Doornzelle (2519.0),Belgium
+2520.0,Angra Dos Reis,Sea,Unknown,Unknown,BRA,-23.013799999999982,-44.3089,Angra Dos Reis (2520.0),Brazil
+2522.0,Fanara,Sea,Unknown,Unknown,EGY,30.28110000000001,32.36889999999995,Fanara (2522.0),Egypt
+2524.0,Sika,Sea,Unknown,Unknown,IND,22.436199999999992,69.8193,Sika (2524.0),India
+2529.0,Basse Terre,Sea,Small,Unknown,GLP,15.9933,-61.7273,Basse Terre (2529.0),Guadeloupe
+2530.0,Georgetown,Sea,Small,Unknown,CYM,19.302899999999877,-81.36839999999957,Georgetown (2530.0),Cayman Islands
+2531.0,Laem Chabang,Sea,Large,Open,THA,13.069199999999999,100.90099999999998,Laem Chabang (2531.0),Thailand
+2535.0,Loviisa,Sea,Unknown,Unknown,FIN,60.45030000000033,26.243499999999894,Loviisa (2535.0),Finland
+2536.0,Sault Ste Marie,Lake,Unknown,Open,USA,46.49690000000007,-84.35620000000011,Sault Ste Marie (2536.0),United States of America
+2538.0,Norfolk-Newport News,Sea,Unknown,Open,USA,36.97790000000077,-76.44520000000058,Norfolk-Newport News (2538.0),United States of America
+2540.0,L'Ile Rousse,Sea,Unknown,Unknown,FRA,42.641900000000106,8.952099999999975,L'Ile Rousse (2540.0),France
+2542.0,Kungsor,Sea,Unknown,Unknown,SWE,59.427100000000486,16.12089999999991,Kungsor (2542.0),Sweden
+2545.0,Oktyabrsk,Sea,Small,Open,UKR,46.83690000000036,31.95350000000077,Oktyabrsk (2545.0),Ukraine
+2547.0,San Carlos De La Rapita,Sea,Unknown,Unknown,ESP,40.6159,0.5931,San Carlos De La Rapita (2547.0),Spain
+2555.0,Morbylanga,Sea,Unknown,Unknown,SWE,56.52929999999997,16.38310000000001,Morbylanga (2555.0),Sweden
+2556.0,Ilyichevsk,Sea,Medium,Open,UKR,46.340100000000874,30.64050000000076,Ilyichevsk (2556.0),Ukraine
+2558.0,Ciudad Del Carmen,Sea,Small,Unknown,MEX,18.648,-91.8449,Ciudad Del Carmen (2558.0),Mexico
+2561.0,Rogers,Lake,Unknown,Open,USA,45.42030000000052,-83.815799999999,Rogers (2561.0),United States of America
+2563.0,Bandar Taheri,Sea,Very Small,Open,IRN,27.6568,52.3542,Bandar Taheri (2563.0),Iran (Islamic Republic of)
+2565.0,Hornefors,Sea,Unknown,Unknown,SWE,63.622,19.9103,Hornefors (2565.0),Sweden
+2566.0,Lanshan,Sea,Unknown,Unknown,CHN,35.10020000000002,119.3630000000001,Lanshan (2566.0),China
+2568.0,Sevastopol,Sea,Large,Open,UKR,44.60709999999997,33.52909999999998,Sevastopol (2568.0),Ukraine
+2570.0,Izmail,River,Small,Open,UKR,45.32349999999999,28.851400000000005,Izmail (2570.0),Ukraine
+2571.0,Evpatoria,Sea,Medium,Open,UKR,45.18849999999999,33.375499999999995,Evpatoria (2571.0),Ukraine
+2572.0,Feodosia,Sea,Medium,Open,UKR,45.0267,35.3923,Feodosia (2572.0),Ukraine
+2578.0,Mersin,Sea,Medium,Unknown,TUR,36.79149999999965,34.625700000000215,Mersin (2578.0),Turkey
+2582.0,Chesapeake,Sea,Unknown,Open,USA,39.521099999999976,-75.80450000000008,Chesapeake (2582.0),United States of America
+2583.0,Skaramanga,Sea,Unknown,Unknown,GRC,37.98760000000027,23.56090000000021,Skaramanga (2583.0),Greece
+2584.0,Castellammare Del Golfo,Sea,Unknown,Unknown,ITA,38.0396,12.8843,Castellammare Del Golfo (2584.0),Italy
+2585.0,Petit Couronne,Sea,Unknown,Unknown,FRA,49.383499999999486,1.0133000000000314,Petit Couronne (2585.0),France
+2586.0,Tonnay Charente,Sea,Unknown,Unknown,FRA,45.93969999999997,-0.8905999999999994,Tonnay Charente (2586.0),France
+2587.0,La Skhirra,Sea,Unknown,Open,TUN,34.282699999999984,10.094299999999993,La Skhirra (2587.0),Tunisia
+2589.0,Ajman,Sea,Unknown,Open,ARE,25.41089999999995,55.457300000000046,Ajman (2589.0),United Arab Emirates
+2590.0,Tokushima,Sea,Unknown,Open,JPN,34.05210000000026,134.59399999999917,Tokushima (2590.0),Japan
+2591.0,Caloundra Head,Sea,Unknown,Unknown,AUS,-26.808099999999698,153.15600000000416,Caloundra Head (2591.0),Australia
+2602.0,Ashkelon,Unknown,Small,Unknown,ISR,31.681199999999997,34.55749999999994,Ashkelon (2602.0),Israel
+2604.0,Santo Tomas De Castilla,Sea,Small,Unknown,GTM,15.695299999999996,-88.61079999999998,Santo Tomas De Castilla (2604.0),Guatemala
+2605.0,Liepaya,Sea,Small,Open,LVA,56.52929999999924,21.004899999999918,Liepaya (2605.0),Latvia
+2606.0,Koh Si Chang,Sea,Small,Open,THA,13.160700000000011,100.81400000000004,Koh Si Chang (2606.0),Thailand
+2608.0,Fujairah,Sea,Small,Open,ARE,25.1277,56.356,Fujairah (2608.0),United Arab Emirates
+2609.0,Hormuz,Sea,Very Small,Open,IRN,27.095500000000012,56.451299999999996,Hormuz (2609.0),Iran (Islamic Republic of)
+2610.0,Travemunde,Sea,Unknown,Unknown,DEU,53.958100000002105,10.87930000000019,Travemunde (2610.0),Germany
+2611.0,Aamshite,Unknown,Very Small,Open,LBN,34.152,35.62779999999999,Aamshite (2611.0),Lebanon
+2613.0,St Malo,Sea,Unknown,Unknown,FRA,48.645499999999515,-2.0187000000000057,St Malo (2613.0),France
+2614.0,Stratoni,Sea,Unknown,Unknown,GRC,40.51,23.83010000000001,Stratoni (2614.0),Greece
+2615.0,Tranoy,Sea,Unknown,Unknown,NOR,68.18170000000079,15.652300000000432,Tranoy (2615.0),Norway
+2616.0,Figueira Da Foz,Sea,Unknown,Unknown,PRT,40.14930000000003,-8.860300000000034,Figueira Da Foz (2616.0),Portugal
+2624.0,Newbury,Sea,Unknown,Open,USA,42.8093,-70.8566,Newbury (2624.0),United States of America
+2625.0,Ijmuiden,Sea,Unknown,Unknown,NLD,52.46210000000339,4.591100000000375,Ijmuiden (2625.0),Netherlands
+2626.0,Vastervik,Sea,Unknown,Unknown,SWE,57.75920000000022,16.65389999999996,Vastervik (2626.0),Sweden
+2628.0,Lervik,Sea,Unknown,Unknown,NOR,59.788300000001854,5.500899999999274,Lervik (2628.0),Norway
+2632.0,El Ferrol,Sea,Unknown,Unknown,ESP,43.47959999999999,-8.2329,El Ferrol (2632.0),Spain
+2635.0,Chiba,Sea,Unknown,Unknown,JPN,35.576400000010025,140.0919999999902,Chiba (2635.0),Japan
+2643.0,Pointe A Pierre,Sea,Small,Unknown,TTO,10.315499999999973,-61.4596000000001,Pointe A Pierre (2643.0),Trinidad and Tobago
+2644.0,Clifton Point,Sea,Small,Unknown,BHS,25.0121,-77.5597,Clifton Point (2644.0),Bahamas
+2645.0,Mar Del Plata,Sea,Small,Unknown,ARG,-38.0002,-57.54750000000001,Mar Del Plata (2645.0),Argentina
+2647.0,San Nicolas De Los Los Arroyos,River,Small,Unknown,ARG,-33.3208,-60.2264,San Nicolas De Los Los Arroyos (2647.0),Argentina
+2648.0,Glasson Dock,Sea,Unknown,Unknown,GBR,54.00149999999871,-2.8370000000001676,Glasson Dock (2648.0),U.K. of Great Britain and Northern Ireland
+2649.0,Burns Harbour,Lake,Unknown,Open,USA,41.62839999999977,-87.13899999999954,Burns Harbour (2649.0),United States of America
+2651.0,Simonstown,Sea,Unknown,Open,ZAF,-34.1875,18.431699999999985,Simonstown (2651.0),South Africa
+2657.0,Pointe-aÂ?-Pitre,Sea,Medium,Unknown,GLP,16.2484,-61.5368,Pointe-aÂ?-Pitre (2657.0),Guadeloupe
+2659.0,Dalhousie,Lake,Unknown,Open,CAN,43.201900000000016,-79.2555000000001,Dalhousie (2659.0),Canada
+2662.0,Yumurtalik Bay,Unknown,Very Small,Unknown,TUR,36.7722,35.7865,Yumurtalik Bay (2662.0),Turkey
+2664.0,Kings Bay,Sea,Unknown,Open,USA,30.8065,-81.5248,Kings Bay (2664.0),United States of America
+2667.0,Pozos Colorados,Sea,Very Small,Unknown,COL,11.108999999999968,-74.22889999999929,Pozos Colorados (2667.0),
+2668.0,Tandjung Uban,Sea,Small,Unknown,IDN,1.0556500000000129,104.22500000000282,Tandjung Uban (2668.0),
+2670.0,Pare Pare,Sea,Small,Open,IDN,-4.00265,119.622,Pare Pare (2670.0),
+2672.0,Stadersand,Sea,Unknown,Unknown,DEU,53.61609999999935,9.545299999999907,Stadersand (2672.0),Germany
+2675.0,Laayoune,Sea,Unknown,Open,MAR,27.097999999999967,-13.414500000000018,Laayoune (2675.0),Western Sahara
+2676.0,Haiphong,River,Small,Open,VNM,20.86830000000005,106.6900000000012,Haiphong (2676.0),Viet Nam
+2679.0,Ainoura,Sea,Unknown,Unknown,JPN,33.187599999999996,129.63100000000003,Ainoura (2679.0),Japan
+2680.0,El Beddaoui,Unknown,Very Small,Open,LBN,34.458599999999976,35.86190000000005,El Beddaoui (2680.0),Lebanon
+2681.0,Port Yabucoa,Sea,Small,Unknown,PRI,18.0457,-65.8327,Port Yabucoa (2681.0),Puerto Rico
+2682.0,Blowing Point,Sea,Small,Unknown,AIA,18.180400000000013,-63.08629999999976,Blowing Point (2682.0),Anguilla
+2684.0,Thorshavn,Sea,Unknown,Unknown,FRO,62.01499999999949,-6.75859999999995,Thorshavn (2684.0),Faroe Islands
+2685.0,Aeroskobing,Sea,Unknown,Unknown,DNK,54.88589999999888,10.418299999999798,Aeroskobing (2685.0),Denmark
+2688.0,Vila Do Porto,Sea,Unknown,Unknown,PRT,36.94230000000001,-25.150900000000057,Vila Do Porto (2688.0),Azores Islands
+2689.0,Port La Nouvelle,Sea,Unknown,Unknown,FRA,43.01589999999997,3.053699999999997,Port La Nouvelle (2689.0),France
+2693.0,Villagarcia  (De Arosa),Sea,Unknown,Unknown,ESP,42.601699999999994,-8.765499999999996,Villagarcia  (De Arosa) (2693.0),Spain
+2695.0,Vung Ang,Sea,Unknown,Open,VNM,18.113700000000033,106.41100000000003,Vung Ang (2695.0),Vietnam
+2699.0,Velsen,Sea,Unknown,Unknown,NLD,52.46769999999765,4.645099999999866,Velsen (2699.0),Netherlands
+2700.0,Havre De Grace,Sea,Unknown,Open,USA,39.53150000000004,-76.08550000000007,Havre De Grace (2700.0),United States of America
+2701.0,Boulogne Sur Mer,Sea,Unknown,Unknown,FRA,50.73050000000061,1.6000999999999979,Boulogne Sur Mer (2701.0),France
+2702.0,Yokohama,Sea,Unknown,Open,JPN,35.427999999983804,139.67299999995868,Yokohama (2702.0),Japan
+2704.0,Posyet,Sea,Unknown,Unknown,RUS,42.6543,130.815,Posyet (2704.0),Russian Federation
+2707.0,Dwarkar,Sea,Unknown,Unknown,IND,22.2291,68.9781,Dwarkar (2707.0),India
+2710.0,Tanjung Sekong,Sea,Small,Open,IDN,-5.922859999999622,105.99400000000514,Tanjung Sekong (2710.0),Indonesia
+2713.0,Fort-De-France,Sea,Small,Unknown,MTQ,14.594299999999977,-61.06200000000056,Fort-De-France (2713.0),Martinique
+2714.0,St John'S,Sea,Small,Unknown,ATG,17.119300000000006,-61.856,St John'S (2714.0),Antigua and Barbuda
+2715.0,Husevig,Sea,Unknown,Unknown,FRO,61.818300000000015,-6.661000000000022,Husevig (2715.0),Faroe Islands
+2717.0,Koverhar,Sea,Unknown,Unknown,FIN,59.85099999999979,23.222499999999897,Koverhar (2717.0),Finland
+2719.0,Saldanha Bay,Sea,Unknown,Open,ZAF,-33.00820000000019,17.949499999999894,Saldanha Bay (2719.0),South Africa
+2724.0,Vila Real De Santo Antonio,Sea,Unknown,Unknown,PRT,37.1942,-7.4126,Vila Real De Santo Antonio (2724.0),Portugal
+2727.0,St Helier,Sea,Unknown,Unknown,FRA,49.18329999999885,-2.09949999999998,St Helier (2727.0),Jersey
+2733.0,Sitra,Unknown,Small,Open,BHR,26.150699999999972,50.651600000000045,Sitra (2733.0),Bahrain
+2734.0,Takamatsu,Sea,Unknown,Open,JPN,34.35790000000013,134.06900000000175,Takamatsu (2734.0),Japan
+2735.0,Vestmannaeyjar - Hofn,Sea,Unknown,Unknown,ISL,63.44510000000001,-20.2688,Vestmannaeyjar - Hofn (2735.0),Iceland
+2736.0,King'S Lynn,Sea,Unknown,Unknown,GBR,52.79069999999997,0.3673000000000001,King'S Lynn (2736.0),U.K. of Great Britain & Northern Ireland
+2737.0,Bruges,Sea,Unknown,Unknown,BEL,51.224600000000486,3.2322999999999538,Bruges (2737.0),Belgium
+2739.0,Chiwan,Sea,Unknown,Unknown,CHN,22.467100000006106,113.88499999996273,Chiwan (2739.0),China
+2740.0,El Meks,Sea,Unknown,Open,EGY,31.150900000000053,29.849099999999947,El Meks (2740.0),Egypt
+2741.0,Jurong,Sea,Unknown,Unknown,SGP,1.3045300000006612,103.7190000000333,Jurong (2741.0),Singapore
+2743.0,Bandirmar,Sea,Small,Unknown,TUR,40.36529999999996,27.977900000000005,Bandirmar (2743.0),Turkey
+2745.0,Pakan Baru,River,Small,Unknown,IDN,0.54463,101.454,Pakan Baru (2745.0),Indonesia
+2747.0,Ras Lanuf,Sea,Small,Unknown,LBY,30.4874,18.5863,Ras Lanuf (2747.0),
+2749.0,Pandjang,Sea,Small,Open,IDN,-5.472139999999902,105.31799999999936,Pandjang (2749.0),Indonesia
+2756.0,Middlesborough,Sea,Unknown,Unknown,GBR,54.58749999999993,-1.2289999999999999,Middlesborough (2756.0),U.K. of Great Britain and Northern Ireland
+2757.0,Soderkoping,Sea,Unknown,Unknown,SWE,58.49289999999874,16.32370000000048,Soderkoping (2757.0),Sweden
+2758.0,Stromstad,Sea,Unknown,Unknown,SWE,58.931100000000804,11.18369999999985,Stromstad (2758.0),Sweden
+2759.0,Loppa,Sea,Unknown,Unknown,FRO,61.462700000000005,-6.772099999999999,Loppa (2759.0),Faroe Islands
+2766.0,Alcacer,Sea,Unknown,Unknown,ESP,40.5302,0.5160999999999999,Alcacer (2766.0),Spain
+2767.0,Sriracha,Sea,Small,Open,THA,13.165999999999999,100.92899999999999,Sriracha (2767.0),Thailand
+2768.0,Asalouyeh,Sea,Very Small,Open,IRN,27.5101,52.5776,Asalouyeh (2768.0),Iran (Islamic Republic of)
+2773.0,Monument,Sea,Unknown,Open,USA,41.72769999999999,-70.6226000000001,Monument (2773.0),United States of America
+2774.0,St Johns,Sea,Unknown,Open,CAN,47.571400000000445,-52.70620000000034,St Johns (2774.0),Canada
+2775.0,Komatsujima,Sea,Unknown,Open,JPN,34.00230000000009,134.59999999999928,Komatsujima (2775.0),Japan
+2776.0,Ras Al Khaimah,Sea,Unknown,Open,ARE,25.792300000000004,55.9461,Ras Al Khaimah (2776.0),United Arab Emirates
+2777.0,Nagapattinam,Sea,Unknown,Unknown,IND,10.765300000000002,79.8543,Nagapattinam (2777.0),India
+2779.0,Izumisano,Sea,Unknown,Unknown,JPN,34.41519999999979,135.32299999999867,Izumisano (2779.0),Japan
+2780.0,Buyukcekmece,Sea,Unknown,Unknown,TUR,41.02300000000001,28.58909999999999,Buyukcekmece (2780.0),Turkey
+2781.0,Batumi,Sea,Unknown,Unknown,GEO,41.6533,41.6509,Batumi (2781.0),Georgia
+2782.0,Poti,Sea,Unknown,Unknown,GEO,42.15030000000001,41.6521,Poti (2782.0),Georgia
+2783.0,Botany Bay,Sea,Unknown,Unknown,AUS,-33.94930000000018,151.1819999999976,Botany Bay (2783.0),Australia
+2786.0,Nagasaki,Sea,Unknown,Unknown,JPN,32.753400000000035,129.86300000000003,Nagasaki (2786.0),Japan
+2788.0,Rio De Janeiro,Sea,Medium,Unknown,BRA,-22.896899999999775,-43.20410000000108,Rio De Janeiro (2788.0),Brazil
+2794.0,Bahia De Las Minas,Sea,Very Small,Unknown,PAN,9.403729999999998,-79.81300000000009,Bahia De Las Minas (2794.0),Panama
+2795.0,Adabiya,Sea,Small,Open,EGY,29.865300000000374,32.47350000000005,Adabiya (2795.0),Egypt
+2797.0,Port Novo,Sea,Very Small,Open,BEN,6.45993,2.6177,Port Novo (2797.0),Benin
+2799.0,Aarhus,Unknown,Unknown,Unknown,DNK,56.149999999996375,10.216700000000214,Aarhus (2799.0),Denmark
+2801.0,Goteborg,Sea,Unknown,Unknown,SWE,57.70429999999533,11.962700000000037,Goteborg (2801.0),Sweden
+2807.0,Farosund,Sea,Unknown,Unknown,SWE,57.8632,19.0691,Farosund (2807.0),Sweden
+2808.0,Bantry Bay,Sea,Unknown,Unknown,IRL,51.68370000000004,-9.4648,Bantry Bay (2808.0),Ireland
+2809.0,Leksvik,Sea,Unknown,Unknown,NOR,63.84249999999999,10.710899999999999,Leksvik (2809.0),Norway
+2811.0,Viana Do Castelo,Sea,Unknown,Unknown,PRT,41.69059999999995,-8.821300000000003,Viana Do Castelo (2811.0),Portugal
+2814.0,Sao Francisco Do Sul,Sea,Unknown,Unknown,BRA,-26.23840000000001,-48.63819999999999,Sao Francisco Do Sul (2814.0),Brazil
+2819.0,Bakirkoy,Sea,Unknown,Unknown,TUR,40.96390000000006,28.822899999999464,Bakirkoy (2819.0),Turkey
+2820.0,Stromma,Sea,Unknown,Unknown,FIN,60.180699999999966,22.8931,Stromma (2820.0),Finland
+2822.0,Yura,Sea,Unknown,Unknown,JPN,33.95750000000038,135.1169999999986,Yura (2822.0),Japan
+2824.0,Lianyungang,Sea,Unknown,Unknown,CHN,34.73170000000002,119.45800000000006,Lianyungang (2824.0),China
+2825.0,Rizhao,Sea,Unknown,Unknown,CHN,35.32310000000004,119.43000000000015,Rizhao (2825.0),China
+2827.0,Jubail,Sea,Medium,Unknown,SAU,27.01670000000001,49.6603,Jubail (2827.0),Saudi Arabia
+2828.0,Zuara,Sea,Small,Unknown,LBY,32.92049999999997,12.121100000000006,Zuara (2828.0),Libya
+2829.0,Zawia Terminal,Unknown,Very Small,Unknown,LBY,32.7926,12.676899999999996,Zawia Terminal (2829.0),Libya
+2830.0,Misurata,Sea,Small,Unknown,LBY,32.36629999999986,15.219399999999958,Misurata (2830.0),Libya
+2832.0,Marsa El Brega,Sea,Medium,Unknown,LBY,30.4172,19.5823,Marsa El Brega (2832.0),
+2833.0,Zueitina,Sea,Very Small,Unknown,LBY,30.8987,20.0746,Zueitina (2833.0),
+2834.0,Ras El Hilal,Sea,Small,Unknown,LBY,32.9127,22.1713,Ras El Hilal (2834.0),Libya
+2836.0,Tan Tan,Sea,Unknown,Unknown,MAR,28.458999999999993,-11.296699999999994,Tan Tan (2836.0),Morocco
+2839.0,Ambarli,Sea,Medium,Unknown,TUR,40.976300000000066,28.695700000000176,Ambarli (2839.0),Turkey
+2845.0,Thorold,Lake,Unknown,Open,CAN,43.04449999999998,-79.11300000000003,Thorold (2845.0),Canada
+2848.0,Algonac,Lake,Unknown,Open,CAN,42.61650000000003,-82.51830000000007,Algonac (2848.0),United States of America
+2849.0,Vestvagoy,Sea,Unknown,Unknown,NOR,68.16490000000141,13.793299999999867,Vestvagoy (2849.0),Norway
+2850.0,Point Of Ayre,Sea,Unknown,Unknown,TUR,54.4189,-4.3672,Point Of Ayre (2850.0),Isle of Man
+2855.0,Naoshima,Sea,Unknown,Unknown,JPN,34.4925,133.954,Naoshima (2855.0),Japan
+2857.0,Ducos,Sea,Unknown,Unknown,NCL,-22.23830000000033,166.39599999999808,Ducos (2857.0),New Caledonia
+2864.0,Hovic,Sea,Very Small,Unknown,VIR,17.712199999999967,-64.74519999999988,Hovic (2864.0),United States Virgin Islands
+2865.0,Da Nang,Sea,Medium,Open,VNM,16.07140000000042,108.21000000000105,Da Nang (2865.0),Viet Nam
+2867.0,Rasta,Sea,Unknown,Unknown,SWE,59.33429999999987,18.004899999999925,Rasta (2867.0),Sweden
+2868.0,Kobe,Sea,Unknown,Open,JPN,34.67550000000974,135.22500000005462,Kobe (2868.0),Japan
+2869.0,Rijeka Bakar,Sea,Unknown,Unknown,HRV,45.326399999999744,14.440300000000079,Rijeka Bakar (2869.0),Croatia
+2876.0,Kemaman,Sea,Unknown,Unknown,MYS,4.25483,103.478,Kemaman (2876.0),Malaysia
+2877.0,New Mangalore,Sea,Unknown,Unknown,IND,12.935300000000074,74.82449999999959,New Mangalore (2877.0),India
+2879.0,Bajo Grande / Maracaibo L,Sea,Unknown,Unknown,VEN,10.4805,-71.6316,Bajo Grande / Maracaibo L (2879.0),Venezuela
+2882.0,Norwich,Sea,Unknown,Open,USA,41.32229999999983,-72.08140000000095,Norwich (2882.0),United States of America
+2883.0,Silvertown,Sea,Unknown,Unknown,GBR,51.504800000000245,-0.058199999999999676,Silvertown (2883.0),U.K. of Great Britain and Northern Ireland
+2884.0,Blenheim,Sea,Unknown,Unknown,NZL,-41.6523,174.08400000000003,Blenheim (2884.0),New Zealand
+2885.0,Kumlinge,Sea,Unknown,Unknown,FIN,60.2487,20.7597,Kumlinge (2885.0),Finland
+2889.0,Vassiliko,Sea,Unknown,Open,CYP,34.72049999999965,33.31350000000018,Vassiliko (2889.0),Cyprus
+2890.0,Dhekelia,Sea,Small,Open,CYP,34.9745,33.74990000000001,Dhekelia (2890.0),Dhekelia and Akrotiri SBA
+2895.0,Amamioshima,Sea,Unknown,Unknown,JPN,31.563899999999993,130.56500000000003,Amamioshima (2895.0),Japan
+2898.0,Cayo Arcas Terminal,Sea,Very Small,Unknown,MEX,20.1833,-92.0,Cayo Arcas Terminal (2898.0),Mexico
+2904.0,Parainen,Sea,Unknown,Unknown,FIN,60.29730000000015,22.30349999999999,Parainen (2904.0),Finland
+2907.0,Loch Ewe,Sea,Unknown,Unknown,GBR,57.842999999999996,-5.596000000000003,Loch Ewe (2907.0),U.K. of Great Britain and Northern Ireland
+2911.0,Kashab,Sea,Unknown,Open,OMN,26.1993,56.2446,Kashab (2911.0),Oman
+2917.0,Bamberton,Sea,Unknown,Open,CAN,48.582199999999766,-123.51900000000022,Bamberton (2917.0),Canada
+2918.0,San Clemente,Sea,Unknown,Open,USA,32.8161,-118.43100000000003,San Clemente (2918.0),United States of America
+2920.0,Tammisaari,Sea,Unknown,Unknown,FIN,59.97810000000002,23.431899999999995,Tammisaari (2920.0),Finland
+2922.0,Moni Anchorage,Sea,Unknown,Open,CYP,34.71069999999986,33.1543000000001,Moni Anchorage (2922.0),Cyprus
+2924.0,Rhodes,Sea,Unknown,Unknown,GRC,36.43529999999999,28.239899999999995,Rhodes (2924.0),Greece
+2926.0,Shahid Rajee,Sea,Small,Open,IRN,27.10379999999999,56.06330000000002,Shahid Rajee (2926.0),Iran (Islamic Republic of)
+2927.0,Inchon,Sea,Unknown,Unknown,KOR,37.45909999999647,126.60899999999701,Inchon (2927.0),Republic of Korea
+2928.0,Zouq,Unknown,Very Small,Open,LBN,33.973,35.6051,Zouq (2928.0),Lebanon
+2931.0,Leixoes,Sea,Unknown,Unknown,PRT,41.18650000000148,-8.702199999999761,Leixoes (2931.0),Portugal
+2933.0,Karskar,Sea,Unknown,Unknown,SWE,60.68089999999997,17.275499999999983,Karskar (2933.0),Sweden
+2939.0,Hoquiam-Aberdeen Apt,Sea,Unknown,Open,USA,46.97209999999999,-123.923,Hoquiam-Aberdeen Apt (2939.0),United States of America
+2940.0,Destrehan,Sea,Unknown,Open,USA,29.927300000000816,-90.06770000000532,Destrehan (2940.0),United States of America
+2941.0,Ellsworth,Sea,Unknown,Open,USA,44.4821,-68.8553,Ellsworth (2941.0),United States of America
+2942.0,Portofino,Sea,Unknown,Unknown,ITA,44.39310000000083,8.995300000000135,Portofino (2942.0),Italy
+2943.0,Gravenchon,Sea,Unknown,Unknown,FRA,49.47019999999946,0.5276999999999988,Gravenchon (2943.0),France
+2944.0,Dunkerque (Dunkirk),Sea,Unknown,Unknown,FRA,51.04930000000366,2.384100000000074,Dunkerque (Dunkirk) (2944.0),France
+2945.0,Hemiksem (Hemixen),Sea,Unknown,Unknown,BEL,51.143100000000715,4.33410000000003,Hemiksem (Hemixen) (2945.0),Belgium
+2946.0,Barry Dock,Sea,Unknown,Unknown,GBR,51.395799999999056,-3.2836999999999636,Barry Dock (2946.0),U.K. of Great Britain and Northern Ireland
+2947.0,Shikama,Sea,Unknown,Open,JPN,34.78079999999921,134.65799999999703,Shikama (2947.0),Japan
+2948.0,Sriracha,Sea,Unknown,Open,THA,13.1136,100.891,Sriracha (2948.0),Thailand
+2950.0,Westernport,Sea,Unknown,Unknown,AUS,-38.3708,145.216,Westernport (2950.0),Australia
+2952.0,Streator,Sea,Unknown,Open,USA,29.936499999999537,-90.31599999999618,Streator (2952.0),United States of America
+2953.0,Kings Mountain,Sea,Unknown,Open,USA,41.90079999999995,-73.96700000000007,Kings Mountain (2953.0),United States of America
+2954.0,Redcliff Bay,Sea,Unknown,Unknown,GBR,51.47810000000015,-2.816100000000005,Redcliff Bay (2954.0),U.K. of Great Britain & Northern Ireland
+2955.0,Voltri,Sea,Unknown,Unknown,ITA,44.41670000000152,8.9128999999999,Voltri (2955.0),Italy
+2957.0,Karachi,Sea,Large,Open,PAK,24.834200000000003,66.97859999999999,Karachi (2957.0),Pakistan
+2958.0,Pietarsaari,Sea,Unknown,Unknown,FIN,63.68870000000005,22.68910000000003,Pietarsaari (2958.0),Finland
+2959.0,Texel,Sea,Unknown,Unknown,NLD,53.17750000000034,4.8433,Texel (2959.0),Netherlands
+2960.0,Vila De Conde,Sea,Unknown,Unknown,BRA,-1.54727,-48.7616,Vila De Conde (2960.0),Brazil
+2961.0,Mersa El Hamra,Sea,Unknown,Open,EGY,30.962100000000003,28.777499999999993,Mersa El Hamra (2961.0),Egypt
+2962.0,Hannan,Sea,Unknown,Open,JPN,34.46400000000467,135.34900000000653,Hannan (2962.0),Japan
+2965.0,Matsushima,Sea,Unknown,Unknown,JPN,32.9319,129.623,Matsushima (2965.0),Japan
+2966.0,Jambongan,Sea,Unknown,Unknown,MYS,1.4514300000000038,103.76199999999956,Jambongan (2966.0),Malaysia
+2969.0,Bahia De Sepetiba,Sea,Unknown,Unknown,BRA,-22.928899999999995,-43.8240000000002,Bahia De Sepetiba (2969.0),Brazil
+2970.0,Zhanjiang,Sea,Unknown,Unknown,CHN,21.189199999999932,110.40199999999996,Zhanjiang (2970.0),China
+2971.0,Suao,Sea,Unknown,Unknown,CHN,24.6024,121.855,Suao (2971.0),China
+2972.0,Zhoushan,Sea,Unknown,Unknown,CHN,30.006900000000222,122.09900000000063,Zhoushan (2972.0),China
+2974.0,Okpo,Sea,Unknown,Unknown,KOR,34.89129999999968,128.7480000000002,Okpo (2974.0),Republic of Korea
+2976.0,Port Isabel-Brownsville,Sea,Unknown,Open,USA,26.075299999999988,-97.21129999999997,Port Isabel-Brownsville (2976.0),United States of America
+2984.0,Sopot,Sea,Unknown,Unknown,POL,54.44280000000001,18.574099999999945,Sopot (2984.0),Poland
+2988.0,Brekstad,Sea,Unknown,Unknown,NOR,63.505299999999295,9.839299999999863,Brekstad (2988.0),Norway
+2989.0,Londonderry,Sea,Unknown,Unknown,GBR,54.98819999999981,-7.317700000000028,Londonderry (2989.0),U.K. of Great Britain and Northern Ireland
+2990.0,Enstedvaerkets Havn,Sea,Unknown,Unknown,DNK,55.01999999999999,9.444900000000006,Enstedvaerkets Havn (2990.0),Denmark
+2995.0,Yali Island,Sea,Unknown,Unknown,GRC,36.66330000000001,27.127100000000013,Yali Island (2995.0),Greece
+2996.0,Zante,Sea,Unknown,Unknown,GRC,37.7387,20.9023,Zante (2996.0),Greece
+2998.0,Redi,Sea,Unknown,Unknown,IND,15.7385,73.6513,Redi (2998.0),India
+2999.0,Dos Bocas Terminal,Sea,Medium,Unknown,MEX,18.614,-93.16449999999999,Dos Bocas Terminal (2999.0),Mexico
+3002.0,Porto,Sea,Unknown,Unknown,PRT,33.04750000000001,-16.332400000000003,Porto (3002.0),Madeira Islands
+3003.0,Yarimca,Sea,Unknown,Unknown,TUR,40.75689999999995,29.763899999999953,Yarimca (3003.0),Turkey
+3004.0,Taichung,Sea,Unknown,Unknown,TWN,24.23049999999997,120.50800000000045,Taichung (3004.0),China
+3006.0,Port Rashid,Sea,Medium,Unknown,ARE,25.253700000000762,55.27109999999967,Port Rashid (3006.0),United Arab Emirates
+3007.0,Quanzhou,Sea,Unknown,Unknown,CHN,24.880599999999973,118.6569999999998,Quanzhou (3007.0),China
+3009.0,Agio Theodoroi,Sea,Unknown,Unknown,GRC,37.91730000000076,23.083100000001586,Agio Theodoroi (3009.0),Greece
+3013.0,Halytsynove,Sea,Small,Open,UKR,46.770600000001586,31.945800000000766,Halytsynove (3013.0),Ukraine
+3016.0,Esbjerg,Sea,Unknown,Unknown,DNK,55.464299999999675,8.432500000000024,Esbjerg (3016.0),Denmark
+3020.0,Supsa,Sea,Unknown,Open,GEO,42.0005,41.7593,Supsa (3020.0),Georgia
+3025.0,Ithaki (Ithaca),Sea,Unknown,Unknown,GRC,38.32929999999999,20.748100000000015,Ithaki (Ithaca) (3025.0),Greece
+3026.0,Kymi (Kimi),Sea,Unknown,Unknown,GRC,38.6277,24.1251,Kymi (Kimi) (3026.0),Greece
+3027.0,Alger,Sea,Unknown,Open,DZA,36.818299999999645,3.004100000000067,Alger (3027.0),Algeria
+3030.0,Levkas,Sea,Unknown,Unknown,GRC,38.8336,20.6923,Levkas (3030.0),Greece
+3032.0,Dajla,Sea,Unknown,Unknown,MAR,23.67930000000001,-15.948200000000003,Dajla (3032.0),Western Sahara
+3034.0,Slagenstangen,Sea,Unknown,Unknown,NOR,59.327799999999236,10.49990000000009,Slagenstangen (3034.0),Norway
+3035.0,Sejero,Sea,Unknown,Unknown,DNK,55.899700000000095,11.149699999999964,Sejero (3035.0),Denmark
+3036.0,Raoul Port,Sea,Unknown,Closed,ISL,64.9874,-13.777900000000033,Raoul Port (3036.0),Iceland
+3040.0,Ust Dunaysk,Sea,Small,Open,UKR,45.467200000000034,29.711600000000033,Ust Dunaysk (3040.0),Ukraine
+3041.0,Colonia,Sea,Small,Unknown,URY,-34.47479999999999,-57.84999999999998,Colonia (3041.0),Uruguay
+3044.0,Lavrion (Laurium),Sea,Unknown,Unknown,GRC,37.714700000000384,24.063099999999704,Lavrion (Laurium) (3044.0),Greece
+3045.0,Belgorod-Dnestrovskiy,Sea,Small,Open,UKR,46.1833,30.373099999999997,Belgorod-Dnestrovskiy (3045.0),Ukraine
+3047.0,Brake,Sea,Unknown,Unknown,DEU,53.33440000000207,8.491099999999573,Brake (3047.0),Germany
+3053.0,Nahr El Kalb,Unknown,Very Small,Open,LBN,33.95939999999998,35.597099999999976,Nahr El Kalb (3053.0),Lebanon
+3056.0,El Maadiya Port,Sea,Very Small,Open,EGY,31.26670000000001,30.14999999999999,El Maadiya Port (3056.0),Egypt
+3057.0,Kilrush,Sea,Unknown,Unknown,IRL,52.63709999999994,-9.493299999999984,Kilrush (3057.0),Ireland
+3062.0,Salinetas,Sea,Unknown,Unknown,ESP,27.962200000000976,-15.383900000000386,Salinetas (3062.0),Spain
+3068.0,Silistra,Sea,Unknown,Unknown,ROU,44.1251,27.2481,Silistra (3068.0),Bulgaria
+3070.0,Dilovasi,Sea,Medium,Open,TUR,40.76940000000012,29.534299999999693,Dilovasi (3070.0),Turkey
+3072.0,Quang Ninh,Sea,Small,Open,VNM,20.972299999999947,107.0519999999998,Quang Ninh (3072.0),Viet Nam
+3073.0,Saigon,River,Medium,Open,VNM,10.7585,106.718,Saigon (3073.0),Viet Nam
+3089.0,Yuzhnyy,Sea,Medium,Open,UKR,46.618799999997364,31.01420000000115,Yuzhnyy (3089.0),Ukraine
+3090.0,Nikolayev,Sea,Large,Open,UKR,46.94220000000105,31.97209999999938,Nikolayev (3090.0),Ukraine
+3093.0,El Sokhna,Sea,Small,Unknown,EGY,29.764000000000006,32.409000000000006,El Sokhna (3093.0),Egypt
+3097.0,Bec D'Ambes,Sea,Unknown,Unknown,FRA,45.033000000000136,-0.5366999999999998,Bec D'Ambes (3097.0),France
+3102.0,Gildeskal,Sea,Unknown,Unknown,NOR,67.09229999999913,14.01989999999951,Gildeskal (3102.0),Norway
+3111.0,Valleyfield,Sea,Unknown,Open,CAN,45.26060000000006,-74.14489999999954,Valleyfield (3111.0),Canada
+3112.0,Tracy,Sea,Unknown,Open,CAN,46.02130000000027,-73.18700000000025,Tracy (3112.0),Canada
+3113.0,Port Canaveral,Sea,Unknown,Open,USA,28.404399999999853,-80.60470000000049,Port Canaveral (3113.0),United States of America
+3114.0,Nanoose,Sea,Unknown,Open,CAN,49.26469999999996,-124.19800000000022,Nanoose (3114.0),Canada
+3115.0,Ioco,Sea,Unknown,Open,CAN,49.3339,-122.604,Ioco (3115.0),Canada
+3116.0,Marieberg,Sea,Unknown,Unknown,SWE,57.894299999999944,11.708300000000056,Marieberg (3116.0),Sweden
+3118.0,Brussel (Bruxelles),Sea,Unknown,Unknown,BEL,50.85569999999999,4.3459,Brussel (Bruxelles) (3118.0),Belgium
+3119.0,Antwerpen (Antwerp),Sea,Unknown,Unknown,BEL,51.21349999998737,4.386499999998162,Antwerpen (Antwerp) (3119.0),Belgium
+3121.0,Kenitra-Media,Sea,Unknown,Open,MAR,34.2639,-6.6734,Kenitra-Media (3121.0),Morocco
+3122.0,Unye,Sea,Unknown,Unknown,TUR,41.1395,37.3015,Unye (3122.0),Turkey
+3125.0,Rottnest Island,Sea,Unknown,Unknown,AUS,-32.0,115.49199999999882,Rottnest Island (3125.0),Australia
+3129.0,Smith'S Bluff,Sea,Unknown,Open,USA,30.000100000000014,-93.96140000000013,Smith'S Bluff (3129.0),United States of America
+3130.0,Stamps,Sea,Unknown,Open,USA,41.04170000000004,-73.5501000000002,Stamps (3130.0),United States of America
+3131.0,Valloy,Sea,Unknown,Unknown,NOR,59.26709999999996,10.49569999999996,Valloy (3131.0),Norway
+3132.0,Saltdal,Sea,Unknown,Unknown,NOR,67.10810000000004,15.4357,Saltdal (3132.0),Norway
+3134.0,Jawaharlal Nehru,Sea,Unknown,Unknown,IND,18.95110000000009,72.9611000000003,Jawaharlal Nehru (3134.0),India
+3140.0,Labuan Hadji,Sea,Unknown,Unknown,MYS,5.283830000000001,115.172,Labuan Hadji (3140.0),Malaysia
+3143.0,Diliskelesi,Sea,Unknown,Unknown,TUR,40.74950000000016,29.517299999999626,Diliskelesi (3143.0),Turkey
+3146.0,Tuticorin,Sea,Medium,Unknown,IND,8.74983,78.1953,Tuticorin (3146.0),India
+3147.0,Kokkola,Sea,Unknown,Unknown,FIN,63.85629999999967,23.11449999999983,Kokkola (3147.0),Finland
+3150.0,Kyndby / Krostrup/,Sea,Unknown,Unknown,DNK,55.8107,11.882100000000001,Kyndby / Krostrup/ (3150.0),Denmark
+3152.0,Fairport,Lake,Unknown,Open,USA,41.762299999999996,-81.2808,Fairport (3152.0),United States of America
+3154.0,Lisboa (Lisbon),Sea,Unknown,Unknown,PRT,38.695099999998526,-9.17780000000055,Lisboa (Lisbon) (3154.0),Portugal
+3155.0,Berre,Sea,Unknown,Unknown,FRA,43.486499999999985,5.174499999999999,Berre (3155.0),France
+3156.0,Falconara,Sea,Unknown,Unknown,ITA,43.63030000000046,13.407900000000108,Falconara (3156.0),Italy
+3160.0,Kalimnos Island,Sea,Unknown,Unknown,GRC,36.95249999999999,26.996499999999997,Kalimnos Island (3160.0),Greece
+3161.0,Kish Island,Sea,Unknown,Unknown,IRN,26.56290000000001,54.004899999999964,Kish Island (3161.0),Iran (Islamic Republic of)
+3162.0,La Plata,Sea,Medium,Unknown,ARG,-34.833199999999636,-57.88829999999972,La Plata (3162.0),Argentina
+3164.0,Strand,Sea,Unknown,Unknown,NOR,59.02580000000264,6.03250000000027,Strand (3164.0),Norway
+3165.0,Olbia (Terranova),Sea,Unknown,Unknown,ITA,40.925900000000155,9.506899999999968,Olbia (Terranova) (3165.0),Italy
+3167.0,Mizushima,Sea,Unknown,Unknown,JPN,34.512499999999996,133.751,Mizushima (3167.0),Japan
+3168.0,Tagonoura,Sea,Unknown,Unknown,JPN,35.13349999999993,138.69900000000038,Tagonoura (3168.0),Japan
+3170.0,Ez Zahrani,Unknown,Very Small,Open,LBN,33.50649999999998,35.34349999999997,Ez Zahrani (3170.0),Lebanon
+3173.0,Point Galeota,Sea,Small,Unknown,TTO,10.1306,-60.99450000000001,Point Galeota (3173.0),Trinidad and Tobago
+3174.0,Sarkoy,Sea,Unknown,Unknown,TUR,40.62010000000001,27.128299999999992,Sarkoy (3174.0),Turkey
+3175.0,Red Beach,Sea,Unknown,Unknown,VNM,16.07060000000001,108.18499999999955,Red Beach (3175.0),Viet Nam
+3181.0,Aughinish Island,Sea,Unknown,Unknown,IRL,52.63049999999999,-9.0479,Aughinish Island (3181.0),Ireland
+3183.0,Golcuk,Sea,Unknown,Unknown,TUR,40.7361,29.8147,Golcuk (3183.0),Turkey
+3186.0,Cozumel,Sea,Small,Unknown,MEX,20.50609999999968,-86.9566000000013,Cozumel (3186.0),Mexico
+3187.0,Port Dalrymple,Sea,Unknown,Unknown,AUS,-41.14240000000001,146.83999999999995,Port Dalrymple (3187.0),Australia
+3188.0,Cape Preston,Sea,Unknown,Unknown,AUS,-20.83579999999994,116.16400000000037,Cape Preston (3188.0),Australia
+3191.0,Gray,Sea,Unknown,Open,USA,46.90509999999996,-124.1319999999998,Gray (3191.0),United States of America
+3192.0,Corpus Christi,Sea,Unknown,Open,USA,27.70969999999976,-97.33879999999922,Corpus Christi (3192.0),United States of America
+3193.0,Halvorshavn,Sea,Unknown,Unknown,NOR,59.576400000000234,10.627899999999917,Halvorshavn (3193.0),Norway
+3194.0,Nador,Sea,Unknown,Open,ESP,35.27709999999995,-2.930299999999993,Nador (3194.0),Morocco
+3196.0,Himeji,Sea,Unknown,Open,JPN,34.76940000000139,134.6039999999953,Himeji (3196.0),Japan
+3197.0,Hiki,Sea,Unknown,Open,JPN,34.23970000000321,135.125,Hiki (3197.0),Japan
+3198.0,Vuda,Unknown,Unknown,Unknown,FJI,-17.6834,177.389,Vuda (3198.0),
+3204.0,Pohang,Sea,Unknown,Unknown,KOR,36.0111,129.40200000000002,Pohang (3204.0),Republic of Korea
+3207.0,Vostochniy,Sea,Unknown,Unknown,RUS,42.7185,133.04600000000002,Vostochniy (3207.0),Russian Federation
+3210.0,Point Lisas,Sea,Small,Unknown,TTO,10.362600000000088,-61.476500000000215,Point Lisas (3210.0),Trinidad and Tobago
+3211.0,Ceyhan,Sea,Small,Unknown,TUR,36.88200000000003,35.93510000000005,Ceyhan (3211.0),Turkey
+3212.0,Puerto Ordaz,River,Small,Unknown,VEN,8.35093,-62.709,Puerto Ordaz (3212.0),Venezuela
+3213.0,Lumut,Sea,Unknown,Unknown,BRN,4.67493,114.467,Lumut (3213.0),Brunei Darussalam
+3216.0,Hamburg-Harburg,Sea,Unknown,Unknown,DEU,53.47810000000435,9.97830000000135,Hamburg-Harburg (3216.0),Germany
+3217.0,Rosarito Terminal,Sea,Very Small,Unknown,MEX,32.34799999999996,-117.06399999999947,Rosarito Terminal (3217.0),Mexico
+3218.0,Shuaiba,Sea,Medium,Open,KWT,29.0419,48.1497,Shuaiba (3218.0),Kuwait
+3220.0,El Dekheila,Sea,Very Small,Open,EGY,31.13260000000047,29.799000000000188,El Dekheila (3220.0),Egypt
+3221.0,Tyne,Sea,Unknown,Unknown,GBR,55.0092000000004,-1.4243999999999921,Tyne (3221.0),U.K. of Great Britain and Northern Ireland
+3222.0,AÂ?lesund,Sea,Unknown,Unknown,NOR,62.472699999995456,6.219499999999387,AÂ?lesund (3222.0),Norway
+3223.0,Ichikikushikino,Sea,Unknown,Open,JPN,31.7246,130.255,Ichikikushikino (3223.0),Japan
+3227.0,Warnemunde,Sea,Unknown,Unknown,DEU,54.173999999999154,12.113499999999565,Warnemunde (3227.0),Germany
+3228.0,Ramsey,Sea,Unknown,Unknown,TUR,54.3107,-4.3504,Ramsey (3228.0),Isle of Man
+3230.0,Suez Canal,Sea,Unknown,Open,EGY,30.586099999999995,32.2915,Suez Canal (3230.0),Egypt
+3232.0,Mumbai,Sea,Large,Unknown,IND,18.900000000000063,72.8166999999998,Mumbai (3232.0),India
+3233.0,Sirri Island,Sea,Small,Open,IRN,25.900099999999927,54.54849999999999,Sirri Island (3233.0),Iran (Islamic Republic of)
+3234.0,Higashikagawa,Sea,Unknown,Open,JPN,34.25749999999973,134.33799999999601,Higashikagawa (3234.0),Japan
+3237.0,Ain El Mraisse _El Manara,Unknown,Very Small,Open,LBN,33.898500000000006,35.468900000000026,Ain El Mraisse _El Manara (3237.0),Lebanon
+3238.0,Ain El Mraisse _El Jisr,Unknown,Very Small,Open,LBN,33.90229999999999,35.4955,Ain El Mraisse _El Jisr (3238.0),Lebanon
+3243.0,Payardi,Sea,Very Small,Unknown,PAN,9.394929999999999,-79.82760000000002,Payardi (3243.0),Panama
+3246.0,Bartin,Sea,Small,Open,TUR,41.686799999999955,32.22959999999994,Bartin (3246.0),Turkey
+3248.0,Ras Sudr,Sea,Very Small,Open,EGY,29.583300000000005,32.68329999999999,Ras Sudr (3248.0),Egypt
+3255.0,Palanca Terminal,Sea,Unknown,Open,AGO,-6.952070000000023,12.403499999999953,Palanca Terminal (3255.0),Angola
+3258.0,Philipsburg,Sea,Small,Unknown,ANT,18.029300000000333,-63.05609999999682,Philipsburg (3258.0),Netherlands Antilles
+3259.0,Zurku Island,Unknown,Very Small,Open,ARE,24.864499999999964,53.068099999999966,Zurku Island (3259.0),United Arab Emirates
+3260.0,Arzanah Island,Sea,Unknown,Open,ARE,24.779800000000012,52.56410000000004,Arzanah Island (3260.0),United Arab Emirates
+3261.0,Das Island,Sea,Unknown,Open,ARE,25.14179999999998,52.879499999999915,Das Island (3261.0),United Arab Emirates
+3262.0,Abu Al Bukhoosh,Unknown,Unknown,Unknown,ARE,25.42849999999999,53.12809999999994,Abu Al Bukhoosh (3262.0),United Arab Emirates
+3263.0,Halul,Sea,Unknown,Unknown,QAT,25.662400000000016,52.413500000000056,Halul (3263.0),Qatar
+3264.0,Fateh Terminal,Unknown,Unknown,Unknown,ARE,25.580799999999876,54.41330000000014,Fateh Terminal (3264.0),United Arab Emirates
+3265.0,Mubarek Terminal,Unknown,Unknown,Unknown,ARE,25.81199999999991,55.18049999999955,Mubarek Terminal (3265.0),United Arab Emirates
+3266.0,Jebel Ali,Sea,Medium,Open,ARE,25.000599999999444,55.04930000000621,Jebel Ali (3266.0),United Arab Emirates
+3267.0,Port Huon,Sea,Unknown,Unknown,AUS,-43.159599999999976,146.97699999999995,Port Huon (3267.0),Australia
+3274.0,Saladin Marine Terminal,Sea,Unknown,Unknown,AUS,-21.397100000000002,115.048,Saladin Marine Terminal (3274.0),Australia
+3275.0,Varanus Island,Sea,Unknown,Unknown,AUS,-20.649499999999996,115.58099999999999,Varanus Island (3275.0),Australia
+3279.0,M'Bya Terminal,Sea,Very Small,Open,GAB,-3.88157,10.9267,M'Bya Terminal (3279.0),Gabon
+3280.0,Saida,Sea,Very Small,Open,LBN,33.564499999999974,35.367500000000014,Saida (3280.0),Lebanon
+3285.0,Newcastle,Sea,Unknown,Unknown,AUS,-32.9767,151.611,Newcastle (3285.0),Australia
+3288.0,Spring Bay,Sea,Unknown,Unknown,AUS,-42.5367,147.956,Spring Bay (3288.0),Australia
+3293.0,Long Pond,Sea,Unknown,Open,CAN,47.53430000000004,-52.96739999999981,Long Pond (3293.0),Canada
+3297.0,Harmac,Sea,Unknown,Open,CAN,49.13409999999856,-123.87400000000584,Harmac (3297.0),Canada
+3298.0,Woodfibre,Sea,Unknown,Open,CAN,49.664099999999976,-123.25199999999997,Woodfibre (3298.0),Canada
+3299.0,Duncan Bay,Sea,Unknown,Open,CAN,50.07409999999962,-125.28100000000117,Duncan Bay (3299.0),Canada
+3300.0,Port Simpson,Sea,Unknown,Open,CAN,54.55569999999992,-130.43000000000015,Port Simpson (3300.0),Canada
+3306.0,Clarkson,Lake,Unknown,Open,CAN,43.5001,-79.6,Clarkson (3306.0),Canada
+3307.0,Parlier,Sea,Unknown,Open,USA,29.86569999999785,-93.93670000000486,Parlier (3307.0),United States of America
+3308.0,Brooklyn,Sea,Unknown,Open,USA,40.683399999987095,-74.0131999999885,Brooklyn (3308.0),United States of America
+3309.0,Cape Fear,Sea,Unknown,Open,USA,33.84300000000001,-77.9671,Cape Fear (3309.0),United States of America
+3310.0,Sewells Point,Sea,Unknown,Open,USA,36.95550000000042,-76.33240000000846,Sewells Point (3310.0),United States of America
+3311.0,Cape Charles,Sea,Unknown,Open,USA,37.11669999999986,-75.95939999999982,Cape Charles (3311.0),United States of America
+3312.0,Hampton-Newport News-Williamsb.,Sea,Unknown,Open,USA,36.84589999999626,-76.32139999999994,Hampton-Newport News-Williamsb. (3312.0),United States of America
+3313.0,El Capitan,Sea,Unknown,Open,USA,32.8936,-118.44099999999995,El Capitan (3313.0),United States of America
+3315.0,Manchester,Sea,Unknown,Open,USA,36.6073,-121.86699999999999,Manchester (3315.0),United States of America
+3316.0,Jacintoport,Unknown,Unknown,Unknown,USA,29.75,-94.89999999999996,Jacintoport (3316.0),United States of America
+3317.0,Vanylven,Sea,Unknown,Unknown,NOR,62.076400000002174,5.5864999999999565,Vanylven (3317.0),Norway
+3318.0,Hitra,Sea,Unknown,Unknown,NOR,63.47949999999989,8.73329999999989,Hitra (3318.0),Norway
+3319.0,Stjordal,Sea,Unknown,Unknown,NOR,63.60889999999996,10.991899999999992,Stjordal (3319.0),Norway
+3320.0,Flora,Sea,Unknown,Unknown,NOR,61.49839999999661,5.055299999999989,Flora (3320.0),Norway
+3321.0,Fuglafirdi (Fuglefjord),Sea,Unknown,Unknown,NOR,62.26350000000062,7.012700000000165,Fuglafirdi (Fuglefjord) (3321.0),Norway
+3323.0,Barton,Sea,Unknown,Unknown,GBR,53.47730000000001,-2.3577,Barton (3323.0),U.K. of Great Britain and Northern Ireland
+3324.0,Islay,Sea,Unknown,Unknown,GBR,55.776100000000035,-6.257200000000007,Islay (3324.0),U.K. of Great Britain and Northern Ireland
+3325.0,Onehunga,Sea,Unknown,Unknown,NZL,-36.9339,174.8220000000001,Onehunga (3325.0),New Zealand
+3326.0,Idhra (Hydra),Sea,Unknown,Unknown,GRC,37.34990000000037,23.46089999999969,Idhra (Hydra) (3326.0),Greece
+3331.0,Mina Salman,Sea,Medium,Open,BHR,26.2383,50.64390000000001,Mina Salman (3331.0),Bahrain
+3333.0,Bremerhaven,Sea,Large,Open,DEU,53.5625,8.56157000000131,Bremerhaven (3333.0),Germany
+3334.0,Las Palmas,Sea,Large,Open,ESP,28.140600000005115,-15.416100000001459,Las Palmas (3334.0),
+3335.0,Algeciras,Sea,Medium,Open,ESP,36.13080000000503,-5.438920000000339,Algeciras (3335.0),
+3336.0,Cochin,Sea,Large,Unknown,IND,9.954530000000004,76.24469999999998,Cochin (3336.0),India
+3337.0,Navalakhi,Sea,Medium,Unknown,IND,22.9657,70.4651,Navalakhi (3337.0),India
+3339.0,Porbandar,Sea,Medium,Unknown,IND,21.6444,69.5995,Porbandar (3339.0),India
+3340.0,Mormugao,Sea,Medium,Unknown,IND,15.403000000000004,73.7999,Mormugao (3340.0),India
+3341.0,Mangalore,Sea,Medium,Unknown,IND,12.8425,74.84270000000001,Mangalore (3341.0),India
+3343.0,Kandla,Sea,Large,Unknown,IND,22.995900000000002,70.19409999999999,Kandla (3343.0),India
+3357.0,Duqm,Sea,Medium,Open,OMN,19.6623,57.71320000000001,Duqm (3357.0),
+3363.0,Luanda,Sea,Unknown,Open,AGO,-8.804070000000065,13.23329999999992,Luanda (3363.0),Angola
+3364.0,Colombo,Sea,Large,Unknown,LKA,6.941190000000004,79.84280000000007,Colombo (3364.0),Sri Lanka
+3385.0,Pemba,Sea,Small,Open,MOZ,-12.9664,40.4862,Pemba (3385.0),
+3387.0,Mocambique,Sea,Small,Open,MOZ,-15.0308,40.7366,Mocambique (3387.0),Mozambique
+3388.0,Angoche,Sea,Unknown,Open,MOZ,-16.2356,39.9009,Angoche (3388.0),
+3391.0,Nacala,Sea,Small,Open,MOZ,-14.543599999999982,40.666400000000046,Nacala (3391.0),
+3392.0,Pointe Noire,Sea,Small,Open,COG,-4.77662000000004,11.827900000000135,Pointe Noire (3392.0),
+3407.0,Djeno Terminal,Sea,Very Small,Open,COG,-4.919129999999997,11.929199999999996,Djeno Terminal (3407.0),Congo
+3412.0,Lautoka,Unknown,Very Small,Open,FJI,-17.6048,177.438,Lautoka (3412.0),
+3420.0,Homs,Sea,Small,Unknown,LBY,32.67770000000006,14.244300000000008,Homs (3420.0),Libya
+3421.0,Al Khoms,Sea,Very Small,Unknown,LBY,32.654700000000034,14.273900000000019,Al Khoms (3421.0),Libya
+3422.0,Es Sider,Sea,Very Small,Unknown,LBY,30.6368,18.3664,Es Sider (3422.0),Libya
+3423.0,Derna,Sea,Small,Unknown,LBY,32.7626,22.6525,Derna (3423.0),Libya
+3424.0,Tobruq,Sea,Small,Open,LBY,32.076299999999975,23.983399999999993,Tobruq (3424.0),
+3427.0,Mamonal,Sea,Medium,Open,COL,10.3266000000002,-75.50979999999983,Mamonal (3427.0),
+3435.0,Istanbul,Sea,Large,Unknown,TUR,41.034099999999924,28.994499999999917,Istanbul (3435.0),Turkey
+3440.0,Tanjung Pinang,Sea,Small,Unknown,IDN,0.92914,104.453,Tanjung Pinang (3440.0),
+3443.0,Muntok,Sea,Small,Open,IDN,-2.07444,105.175,Muntok (3443.0),Indonesia
+3444.0,Semangka Bay,Sea,Small,Open,IDN,-5.49955,104.62000000000036,Semangka Bay (3444.0),Indonesia
+3453.0,Namlea,Sea,Small,Open,IDN,-3.26802,127.084,Namlea (3453.0),
+3458.0,Nouakchott,Sea,Very Small,Open,MRT,18.035500000000006,-16.0256,Nouakchott (3458.0),
+3460.0,Boma,Sea,Very Small,Open,COD,-5.859540000000001,13.054199999999998,Boma (3460.0),Democratic Republic of the Congo
+3461.0,Banana,Sea,Very Small,Open,COD,-6.0022000000000055,12.401399999999988,Banana (3461.0),Democratic Republic of the Congo
+3489.0,Lagos,Sea,Medium,Open,NGA,6.436720000000006,3.3896600000000285,Lagos (3489.0),Nigeria
+3494.0,Lobito,Sea,Small,Open,AGO,-12.3589,13.5425,Lobito (3494.0),Angola
+3495.0,Durban,Sea,Medium,Open,ZAF,-29.878599999997682,31.010099999999575,Durban (3495.0),South Africa
+3499.0,Kiame Marine Terminal,Sea,Very Small,Open,AGO,-7.33304999999998,12.383000000000024,Kiame Marine Terminal (3499.0),Angola
+3503.0,Kiabo Marine Terminal,Sea,Very Small,Open,AGO,-7.333050000000001,12.583,Kiabo Marine Terminal (3503.0),Angola
+3504.0,Takula Terminal,Sea,Very Small,Open,AGO,-5.216670000000018,11.782999999999964,Takula Terminal (3504.0),Angola
+3505.0,Quinfuquena Terminal,Sea,Unknown,Open,AGO,-6.280259999999999,12.2551,Quinfuquena Terminal (3505.0),Angola
+3507.0,Portsmouth,Sea,Small,Open,DMA,15.5833,-61.4667,Portsmouth (3507.0),Dominica
+3512.0,Riga,Sea,Large,Open,LVA,57.05900000000008,24.031999999999982,Riga (3512.0),Latvia
+3513.0,Soyo,Sea,Small,Open,AGO,-6.13490000000001,12.368899999999986,Soyo (3513.0),Angola
+3515.0,Lombo Marine Terminal,Sea,Very Small,Unknown,AGO,-6.83305,12.366700000000003,Lombo Marine Terminal (3515.0),Angola
+3518.0,Ventspils,Sea,Small,Open,LVA,57.403100000000116,21.53919999999998,Ventspils (3518.0),Latvia
+3524.0,Roja Harbor,Sea,Small,Open,LVA,57.5081,22.8089,Roja Harbor (3524.0),Latvia
+3526.0,Apra,Sea,Medium,Open,GUM,13.439599999999976,144.66300000000038,Apra (3526.0),Guam
+3527.0,Skulte,Sea,Small,Open,LVA,57.31609999999999,24.4025,Skulte (3527.0),Latvia
+3529.0,Salacgriva Harbor,Sea,Small,Open,LVA,57.7553,24.3539,Salacgriva Harbor (3529.0),Latvia
+3567.0,Manzanillo,Sea,Big,Open,PAN,12.163026171316941,-82.0007284231042,Manzanillo (3567.0),Panama
+3568.0,Houston,Sea,Big,Open,USA,30.77903412462964,-81.9101164688446,Houston (3568.0),United States of America
+3569.0,Gioia Tauro,Sea,Big,Unknown,ITA,38.45900000000159,15.912799999998963,Gioia Tauro (3569.0),Italy
+3574.0,Gerge Town,Unknown,Very Small,Unknown,BHS,23.5071,-75.7677,Gerge Town (3574.0),Bahamas
